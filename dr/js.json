@@ -165,7 +165,7 @@
 {"key":"drpy_js_皮皮泡儿","name":"影视 | 皮皮泡儿[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/皮皮泡.js"},
 {"key":"drpy_js_七时影院","name":"影视 | 七时影院[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/七小时影院.js"},
 {"key":"drpy_js_起飞影院","name":"影视 | 起飞影院[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/起飞影院.js"},
-{"key":"drpy_js_趣享星趣","name":"影视 | 趣享星趣[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/趣享星趣.js"},
+{"key":"drpy_js_稀饭影视","name":"影视 | 稀饭影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/稀饭影视.js"},
 {"key":"drpy_js_人人影视","name":"影视 | 人人影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/人人影视.js"},
 {"key":"drpy_js_盛世电影","name":"影视 | 盛世电影[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/盛世电影网.js"},
 {"key":"drpy_js_视觉影院","name":"影视 | 视觉影院[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/视觉影院.js"},
