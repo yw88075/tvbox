@@ -1,0 +1,108 @@
+{
+    "urls": [
+        {
+            "name": "道长本地",
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/yw88075/tvbox/main/dr/js.json"
+        },
+        {
+            "name": "饭太硬",
+            "url": "http://饭太硬.ga/x/o.json"
+        },
+        {
+            "name": "唐三",
+            "url": "https://hutool.ml/tang"
+        },
+        {
+            "name": "俊于",
+            "url": "http://home.jundie.top:81/top98.json"
+        },
+        {
+            "name": "道长的js0自用接口",
+            "url": "https://agit.ai/1058263215/TVBox/raw/branch/master/JS/js0.json"
+        },
+        {
+            "name": "小雅",
+            "url": "http://drpy.site/js1"
+        },
+        {
+            "name": "吾爱有三",
+            "url": "http://52bsj.vip:98/0805"
+        },
+        {
+            "name": "肥猫",
+            "url": "http://我不是.肥猫.love:63/接口禁止贩卖"
+        },
+        {
+            "name": "神器",
+            "url": "https://神器每日推送.tk/pz.json"
+        },
+        {
+            "name": "刚刚",
+            "url": "http://刚刚.live/猫"
+        },
+        {
+            "name": "多多",
+            "url": "https://yydsys.top/duo/v.json"
+        },
+        {
+            "name": "巧计1",
+            "url": "https://agit.ai/1058263215/TVBox/raw/branch/master/lib/巧计1.txt"
+        },
+        {
+            "name": "太阳1",
+            "url": "https://agit.ai/1058263215/TVBox/raw/branch/master/lib/太阳1.json"
+        },
+        {
+            "name": "云星日记",
+            "url": "https://maoyingshi.cc/tvbox/云星日记/1.m3u8"
+        },
+        {
+            "name": "maotv",
+            "url": "https://gitee.com/jiamao1/maotv/raw/master/XC.json"
+        },
+        {
+            "name": "doudou",
+            "url": "https://agit.ai/Doudou/TVbox/raw/branch/master/intf/intf_1.json"
+        },
+        {
+            "name": "月光1",
+            "url": "https://agit.ai/1058263215/TVBox/raw/branch/master/lib/月光1.json"
+        },
+        {
+            "name": " 南风xc",
+            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"
+        },
+        {
+            "name": " 莱妮丝",
+            "url": "https://tvbox.cainisi.cf"
+        },
+        {
+            "name": "巧儿",
+            "url": "http://pandown.pro/tvbox/tvbox.json"
+        },
+        {
+            "name": "香雅本地推送",
+            "url": "https://gitee.com/yw88075/tvbox/raw/master/xyq/localxd_0227xyq.json"
+        },
+        {
+            "name": "2哈",
+            "url": "https://tv.5ye.cc/"
+        },
+        {
+            "name": "道长精简",
+            "url": "https://pastebin.com/raw/YzTBChuM"
+        },
+        {
+            "name": "潇洒空间",
+            "url": "https://raw.iqiq.io/Reflyer823/tvbox-config/master/main.json"
+        },
+        {
+            "name": "备用1",
+            "url": "https://freed.yuanhsing.cf/TVBox/meowcf.json"
+        },
+        {
+            "name": "备用2",
+            "url": "https://raw.iqiq.io/Cyril0563/box/main/m.json"
+        }
+    ]
+}
