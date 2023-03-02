@@ -959,76 +959,104 @@ NewTV超级电视剧[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/8888888
 1905电影,http://120.226.188.224:80/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
 1905电影,http://120.226.188.135:80/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
 1905电影,http://120.226.188.136:80/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
-邵氏,#genre#
-邵氏-断肠剑,https://50069.njc.svp.tencent-cloud.com/0bf2kaaa2aaakaaem74b6bqvaugdbviaadia.f10004.mp4
-  邵氏-追魂镖,https://50069.njc.svp.tencent-cloud.com/0bf2suaa2aaat4aemkeb4fqvbfodbwkqadia.f10003.mp4
-  港片-少林子弟,https://50069.njc.svp.tencent-cloud.com/0bf2giaaeaaa7uapzf3ybbqvamwdaizaaaqa.f10003.mp4
-  港片-金臂童,https://50069.njc.svp.tencent-cloud.com/0b78baaaeaaai4aaaklwujqvacgdaieaaaqa.f10003.mp4
-  港片-断刀客,https://50069.njc.svp.tencent-cloud.com/0bc3iaabaaaazyaldque5bqvaqgdcbaaaeaa.f10002.mp4
-  港片-霹雳拳,https://50069.njc.svp.tencent-cloud.com/0b78uiaagaaa44akhvme4vqvbiwdaoraaaya.f10003.mp4
-  港片-五虎屠龙,https://50069.njc.svp.tencent-cloud.com/0b78cqaakaaadmalareh2vqvafgdaukaabia.f10003.mp4
-  港片-六指琴魔,https://50069.njc.svp.tencent-cloud.com/0bc36qaa4aaavaam2cuda5qvb5gdb32aadqa.f10004.mp4
-  港片-少林五祖,https://50069.njc.svp.tencent-cloud.com/0bc3fiabaaaalaanebud7vqvakwdcavaaeaa.f10004.mp4
-  邵氏-045财子名花星妈,https://50069.njc.svp.tencent-cloud.com/0bf2xeaaaaaavaacyb2rkvqvboodac4qaaaa.f10003.mp4
-  邵氏-074山歌姻缘,https://50069.njc.svp.tencent-cloud.com/0bf2tqabkaaap4annylcovqvbhgdcwoaafia.f10003.mp4
-  邵氏-潘金莲,https://50069.njc.svp.tencent-cloud.com/0b78smaacaaakeantvjzorqvbe6dagjqaaia.f10003.mp4
-  邵氏-赤脚小子,https://50069.njc.svp.tencent-cloud.com/0bf2seaaaaaafyahnesgenqvbeodaciqaaaa.f10003.mp4
-  邵氏-755毒玫瑰,https://50069.njc.svp.tencent-cloud.com/0bf2aqaaaaaatmagy3kqmjqvabgdaacaaaaa.f10003.mp4
-  邵氏-风流.韵事,https://50069.njc.svp.tencent-cloud.com/0bf2dqaa2aaajeapbkkohjqvahgdbuoaadia.f10003.mp4
-  邵氏-大鳄群英,https://50069.njc.svp.tencent-cloud.com/0bf2zqaaaaaazuadzzzqjnqvbtgdadgaaaaa.f10002.mp4
-  邵氏-马永贞,https://50069.njc.svp.tencent-cloud.com/0bf2lyaacaaagyafaf2rirqvaxwdafpaaaia.f10002.mp4
-  邵氏-特警,https://50069.njc.svp.tencent-cloud.com/0bf2kuabwaaa4eadyplelfqvavoddnkqagya.f10003.mp4
-  邵氏-108佛跳墙,https://50069.njc.svp.tencent-cloud.com/0b78euaaeaaakuanzzkpfnqvajodaisqaaqa.f10003.mp4
-  邵氏-出笼马骝,https://50069.njc.svp.tencent-cloud.com/0bf2kuabgaaadaabeb3binqvavodcnkqaeya.f10003.mp4
-  邵氏-069霹雳十杰,https://50069.njc.svp.tencent-cloud.com/0bf2maaacaaatiagrccrk5qvaygdafqaaaia.f10003.mp4
-  邵氏-电影系列第171集,https://50069.njc.svp.tencent-cloud.com/0bc3piaauaaa4uabys2em5rfa6wdbj5aacqa.f10003.mp4
-  邵氏-电影系列第172集,https://50069.njc.svp.tencent-cloud.com/0bc32iaawaaalqabgu2efbrfbuwdbpjaacya.f10003.mp4
-  邵氏-电影系列第173集,https://50069.njc.svp.tencent-cloud.com/0bc3zeaauaaa5yaapi2ei5rfbsodbleqacqa.f10003.mp4
-  邵氏-电影系列第174集,https://50069.njc.svp.tencent-cloud.com/0bc3d4aayaaa6uab7sceerrfah6dbqpqadaa.f10003.mp4
-  邵氏-电影系列第176集,https://50069.njc.svp.tencent-cloud.com/0bc3lmaawaaaxqac5jkeg5rfaw6dbnnqacya.f10003.mp4
-  邵氏-电影系列第177集,https://50069.njc.svp.tencent-cloud.com/0bc3h4aayaaaumac74ceerrfap6dbq7qadaa.f10003.mp4
-  邵氏-电影系列第178集,https://50069.njc.svp.tencent-cloud.com/0bc364aauaaamiabi3selfrfb56dbl3qacqa.f10003.mp4
-  邵氏-电影系列第179集,https://50069.njc.svp.tencent-cloud.com/0b2ejyaaeaaa34acx42eefrfatwdajhaaaqa.f10003.mp4
-  邵氏-电影系列第180集,https://50069.njc.svp.tencent-cloud.com/0bc3fqaayaaameacxaceefrfalgdbqwaadaa.f10003.mp4
-  邵氏-电影系列第181集,https://50069.njc.svp.tencent-cloud.com/0bc3geaa2aaasmad35ce7vrfamodbuyqadia.f10003.mp4
-  邵氏-电影系列第182集,https://50069.njc.svp.tencent-cloud.com/0b2eqmaacaaareaju5co5vrfba6dagbqaaia.f10004.mp4
-  邵氏-电影系列第183集,https://50069.njc.svp.tencent-cloud.com/0bc3haaaqaaavuaji62o6jrfaogdba4aacaa.f10003.mp4
-  邵氏-电影系列第184集,https://50069.njc.svp.tencent-cloud.com/0b2eoyaacaaahyajog2o6zrfa5wdaf3aaaia.f10004.mp4
-  邵氏-电影系列第185集,https://50069.njc.svp.tencent-cloud.com/0bc3t4aaqaaag4aj2fso7brfbh6dbcpqacaa.f10003.mp4
-  邵氏-电影系列第186集,https://50069.njc.svp.tencent-cloud.com/0bc3pmaaqaaavmajnrco6frfa66dbb5qacaa.f10003.mp4
-  邵氏-电影系列第187集,https://50069.njc.svp.tencent-cloud.com/0bc3luaaqaaaq4ajbz2o3vrfaxodbboqacaa.f10003.mp4
-  邵氏-电影系列第189集,https://50069.njc.svp.tencent-cloud.com/0b2epaaacaaapaajm7co7brfa6gdaf4aaaia.f10003.mp4
-  邵氏-电影系列第192集,https://50069.njc.svp.tencent-cloud.com/0bc3tqaaqaaa7eakxeso3jrfbhgdbcoaacaa.f10003.mp4
-  邵氏-电影系列第193集,https://50069.njc.svp.tencent-cloud.com/0bc3tuaaqaaaiqakld2o5zrfbhodbcoqacaa.f10003.mp4
-  邵氏-电影系列第194集,https://50069.njc.svp.tencent-cloud.com/0bc3oaaaqaaaviaknl2o7frfa4gdbbyaacaa.f10003.mp4
-  邵氏-电影系列第195集,https://50069.njc.svp.tencent-cloud.com/0bc3t4aaqaaawqaltfko5zrfbh6dbcpqacaa.f10003.mp4
-  邵氏-电影系列第196集,https://50069.njc.svp.tencent-cloud.com/0bc3ruaaqaaa2qakdwko3nrfbdodbcgqacaa.f10003.mp4
-  邵氏-电影系列第197集,https://50069.njc.svp.tencent-cloud.com/0b2etuaacaaarualdf2o7frfbhodagoqaaia.f10003.mp4
-  邵氏-电影系列第198集,https://50069.njc.svp.tencent-cloud.com/0bc3eyaaqaaa7aaluh2o6nrfajwdbataacaa.f10003.mp4
-  邵氏-电影系列第199集,https://50069.njc.svp.tencent-cloud.com/0bc3yuaaqaaax4ak4t2o7nrfbrodbdcqacaa.f10003.mp4
-  邵氏-电影系列第200集,https://50069.njc.svp.tencent-cloud.com/0bc3myaaqaaa5yakh2co7vrfazwdbbtaacaa.f10003.mp4
-  邵氏-电影系列第219集,https://50069.njc.svp.tencent-cloud.com/0b2e44aacaaaruacz6kq7brfbz6dahtqaaia.f10003.mp4
-  邵氏-电影系列第231集,https://50069.njc.svp.tencent-cloud.com/0bc32maasaaajeanc4sp3rrfbu6dbhjqacia.f10003.mp4
-  邵氏-电影系列第232集,https://50069.njc.svp.tencent-cloud.com/0bc3fqaasaaakyanbk2p7rrfalgdbewaacia.f10003.mp4
-  邵氏-电影系列第235集,https://50069.njc.svp.tencent-cloud.com/0bc3vaaasaaamqadzosq7jrfbkgdbguaacia.f10004.mp4
-  邵氏-电影系列第236集,https://50069.njc.svp.tencent-cloud.com/0bc3j4aauaaa3iaedksq7brfat6dbjhqacqa.f10003.mp4
-  邵氏-电影系列第237集,https://50069.njc.svp.tencent-cloud.com/0bc3auaauaaaeiafddcq75rfabodbicqacqa.f10003.mp4
-  邵氏-电影系列第238集,https://50069.njc.svp.tencent-cloud.com/0b2e4aaacaaacmadsdcq5vrfbygdahqaaaia.f10003.mp4
-  邵氏-电影系列第239集,https://50069.njc.svp.tencent-cloud.com/0bc3xuaasaaab4aeti2q6frfbpodbg6qacia.f10003.mp4
-  邵氏-电影系列第240集,https://50069.njc.svp.tencent-cloud.com/0bc3hiaawaaalmaezjsq7brfaowdbm5aacya.f10003.mp4
-  邵氏-电影系列第241集,https://50069.njc.svp.tencent-cloud.com/0bc3diaauaaa6uaetisq75rfagwdbinaacqa.f10003.mp4
-  邵氏-电影系列第242集,https://50069.njc.svp.tencent-cloud.com/0b2edyaaeaaagiantykp6jrfahwdaipaaaqa.f10003.mp4
-  邵氏-电影系列第243集,https://50069.njc.svp.tencent-cloud.com/0bc3pyaasaaah4aout2p7vrfa7wdbf7aacia.f10003.mp4
-  邵氏-电影系列第244集,https://50069.njc.svp.tencent-cloud.com/0b2e7eaacaaag4aod6cp7brfb6odah4qaaia.f10003.mp4
-  邵氏-电影系列第245集,https://50069.njc.svp.tencent-cloud.com/0b2e5eaacaaakuanz6kp5zrfb2odahuqaaia.f10003.mp4
-  邵氏-电影系列第246集,https://50069.njc.svp.tencent-cloud.com/0b2e5aaacaaarman6e2p6frfb2gdahuaaaia.f10003.mp4
-  邵氏-电影系列第247集,https://50069.njc.svp.tencent-cloud.com/0b2eaqaaeaaa2eaour2pyzrfabgdaicaaaqa.f10003.mp4
-  邵氏-电影系列第248集,https://50069.njc.svp.tencent-cloud.com/0b2eziaacaaaeean5tkp7frfbswdahfaaaia.f10003.mp4
-  邵氏-电影系列第250集,https://50069.njc.svp.tencent-cloud.com/0bc3v4aasaaavqabkt2q7brfbl6dbgxqacia.f10003.mp4
-  邵氏-电影系列第251集,https://50069.njc.svp.tencent-cloud.com/0b2e3aaacaaatuabtx2q5zrfbwgdahmaaaia.f10003.mp4
-  邵氏-电影系列第252集,https://50069.njc.svp.tencent-cloud.com/0bc34uaawaaa5qao7w2p3frfbzodbpsqacya.f10003.mp4
-  邵氏-电影系列第253集,https://50069.njc.svp.tencent-cloud.com/0bc3z4aasaaajuabrikq7frfbt6dbhhqacia.f10003.mp4
-  邵氏-电影系列第254集,https://50069.njc.svp.tencent-cloud.com/0b2e6maacaaaimabeu2q5nrfb46dahzqaaia.f10003.mp4
-  邵氏-电影系列第256集,https://50069.njc.svp.tencent-cloud.com/0bc3huaasaaa5iacby2q6vrfapodbe6qacia.f10003.mp4
-  邵氏-电影系列第257集,https://50069.njc.svp.tencent-cloud.com/0bc37iaaqaaapmacgjkq6rrfb6wdbd5aacaa.f10003.mp4
-  邵氏-电影系列第258集,https://50069.njc.svp.tencent-cloud.com/0bc34maasaaaauafoxsq7rrfby6dbhrqacia.f10003.mp4
+
+港台,#genre#
+金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+经典功夫台,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8
+CHC动作电影,http://live.cooltv.top/tv/aishang.php?id=chcdzdy
+CHC动作电影,http://125.40.191.58:9901/tsfile/live/1002_1.m3u8#http://59.49.41.44/live.aishang.ctlcdn.com/00000110240324_1/playlist.m3u8?CONTENTID=00000110240324_1#http://117.148.179.157/PLTV/88888888/224/3221231580/index.m3u8#http://117.148.179.157/PLTV/88888888/224/3221232945/index.m3u8#http://111.20.33.93/PLTV/88888893/224/3221226465/index.m3u8#http://117.148.179.138/PLTV/88888888/224/3221231580/index.m3u8#http://111.20.33.93/TVOD/88888893/224/3221226465/index.m3u8#http://59.49.41.41/live.aishang.ctlcdn.com/00000110240324_1/playlist.m3u8?CONTENTID=00000110240324_1
+CHC家庭影院,http://live.cooltv.top/tv/aishang.php?id=chcjtyy
+CHC高清电影,http://live.cooltv.top/tv/aishang.php?id=chcgqdy
+CHC家庭影院,http://125.40.191.58:9901/tsfile/live/1001_1.m3u8#http://111.20.33.93/TVOD/88888893/224/3221226462/index.m3u8#http://117.148.179.157/PLTV/88888888/224/3221232942/index.m3u8#http://111.20.33.93/TVOD/88888893/224/3221226462/index.m3u8#http://gxfrg007.8800.org:8282/tsfile/live/1096_1.m3u8#http://59.49.41.41/live.aishang.ctlcdn.com/00000110240323_1/playlist.m3u8?CONTENTID=00000110240323_1#http://117.148.179.151/PLTV/88888888/224/3221231799/index.m3u8
+CHC高清电影,http://gxfrg007.8800.org:8282/tsfile/live/1097_1.m3u8#http://59.49.41.44/live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1#http://59.49.41.41/live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1
+凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+八度空间,http://51.79.82.208:16005
+足球频道,https://nmglive.imfc.cn/5n1r1c/182396.m3u8
+凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8 
+凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8 
+凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8 
+凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv2.m3u8 
+凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8 
+凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G_tv1.m3u8 
+凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G_tv2.m3u8 
+凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8 
+凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv2.m3u8 
+凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8 
+凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8 
+凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8 
+凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8 
+凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8 
+凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8 
+凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv1.m3u8 
+凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv2.m3u8 
+凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8 
+凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8 
+凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8
+星空卫视,http://jyjxy.7766.org:8811/hls/31/index.m3u8
+凤凰中文,http://jyjxy.7766.org:8811/hls/32/index.m3u8
+凤凰资讯,http://jyjxy.7766.org:8811/hls/33/index.m3u8
+凤凰香港,http://jyjxy.7766.org:8811/hls/34/index.m3u8
+星河台,http://jyjxy.7766.org:8811/hls/35/index.m3u8
+翡翠台,http://jyjxy.7766.org:8811/hls/36/index.m3u8
+明珠台,http://jyjxy.7766.org:8811/hls/37/index.m3u8
+龙祥电影,http://jyjxy.7766.org:8811/hls/38/index.m3u8
+天映经典,http://jyjxy.7766.org:8811/hls/62/index.m3u8
+东森电影,http://jyjxy.7766.org:8811/hls/58/index.m3u8
+东森样片,http://jyjxy.7766.org:8811/hls/59/index.m3u8
+翡翠台,http://pull-l3-cny.douyincdn.com/third/stream-1f41fa6570c0c2fe39fef0752f76de81.m3u8
+J2,http://baidu.douyincdn.freetvtv.com/j2/index.m3u8
+纬来日本,http://baidu.douyincdn.freetvtv.com/wlrb/m2.m3u8
+ViuTV,http://baidu.douyincdn.freetvtv.com/vius/m2.m3u8
+香港开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+HBOHits,http://baidu.douyincdn.freetvtv.com/hbohits/index.m3u8
+镜新闻,http://158.101.151.82:9000/jmsytb.m3u8?c=19
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8 
+TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8 
+长城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist1.m3u8 
+民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8 
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8 
+TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8 
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8 
+长城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8 
+民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8 
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8 
+IPTV高清院线,http://119.39.128.18:88/hls/34/index.m3u8
+IPTV抗战剧场,http://119.39.128.18:88/hls/35/index.m3u8
+IPTV古装剧场,http://119.39.128.18:88/hls/36/index.m3u8
+IPTV经典剧场,http://119.39.128.18:88/hls/37/index.m3u8
+八度空间,http://51.79.82.208:16005
+凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8 
+凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8 
+凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8 
+凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8 
+凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8 
+凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv1.m3u8 
+凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv2.m3u8 
+凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8 
+凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8 
+凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8 
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+日语新闻台,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+东森电影台,http://120.84.96.55:808/hls/32/index.m3u8
+美国中文台,https://jpts.sinovision.net/livestream.m3u8
+新加坡中文台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+新加坡中文台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
+新加坡亚太台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+FOX新闻台,http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+J2,http://120.84.96.161:808/hls/86/index.m3u8 
+J2,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
+J2,http://120.132.122.244:59845/hls/81/index.m3u8
+无线财经•资讯台,http://120.84.96.74:808/hls/86/index.m3u8 
+无线财经•资讯台,http://120.132.122.244:59845/hls/82/index.m3u8
+耀才财经新闻,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000?zgangd
+香港面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+儒释道经,https://live.ciguang.tv/live/hdtv.m3u8?auth_key=5216465889-0-0-701a98b03302233fc07fa2ee9e85d39b
+有线18,rtmp://59.124.75.138:1935/sat/hk041
+天映经典,http://gxfrg007.8800.org:8282/tsfile/live/1053_1.m3u8
+天映经典,http://27.47.71.97:808/hls/62/index.m3u8
+天映频道,http://51.79.82.208:16024
+RTHK31,http://120.132.122.244:59845/hls/89/index.m3u8
+RTHK32,http://120.132.122.244:59845/hls/90/index.m3u8
+RTHK33,http://120.132.122.244:59845/hls/91/index.m3u8
