@@ -20,6 +20,10 @@
             "name": " 南风xc",
             "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"
         },
+       {
+            "name": "香雅本地推送",
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/yw88075/tvbox/main/xyq/localxd_0227xyq.json"
+        },
         {
             "name": "唐三",
             "url": "https://hutool.ml/tang"
@@ -76,10 +80,7 @@
             "name": "巧儿",
             "url": "http://pandown.pro/tvbox/tvbox.json"
         },
-        {
-            "name": "香雅本地推送",
-            "url": "https://gitee.com/yw88075/tvbox/raw/master/xyq/localxd_0227xyq.json"
-        },
+        
         {
             "name": "2哈",
             "url": "https://tv.5ye.cc/"
