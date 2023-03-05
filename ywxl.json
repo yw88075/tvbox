@@ -8,6 +8,18 @@
             "name": "饭太硬",
             "url": "http://饭太硬.ga/tv"
         },
+       {
+            "name": "肥猫",
+            "url": "http://我不是.肥猫.love:63/接口禁止贩卖"
+        },
+        {
+            "name": "多多",
+            "url": "https://yydsys.top/duo/v.json"
+        },
+        {
+            "name": " 南风xc",
+            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"
+        },
         {
             "name": "唐三",
             "url": "https://hutool.ml/tang"
@@ -28,10 +40,7 @@
             "name": "吾爱有三",
             "url": "http://52bsj.vip:98/0805"
         },
-        {
-            "name": "肥猫",
-            "url": "http://我不是.肥猫.love:63/接口禁止贩卖"
-        },
+        
         {
             "name": "神器",
             "url": "https://神器每日推送.tk/pz.json"
@@ -40,10 +49,7 @@
             "name": "刚刚",
             "url": "http://刚刚.live/猫"
         },
-        {
-            "name": "多多",
-            "url": "https://yydsys.top/duo/v.json"
-        },
+        
         {
             "name": "巧计1",
             "url": "https://agit.ai/1058263215/TVBox/raw/branch/master/lib/巧计1.txt"
@@ -56,22 +62,12 @@
             "name": "云星日记",
             "url": "https://maoyingshi.cc/tvbox/云星日记/1.m3u8"
         },
-        {
-            "name": "maotv",
-            "url": "https://gitee.com/jiamao1/maotv/raw/master/XC.json"
-        },
-        {
-            "name": "doudou",
-            "url": "https://agit.ai/Doudou/TVbox/raw/branch/master/intf/intf_1.json"
-        },
+       
         {
             "name": "月光1",
             "url": "https://agit.ai/1058263215/TVBox/raw/branch/master/lib/月光1.json"
         },
-        {
-            "name": " 南风xc",
-            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"
-        },
+       
         {
             "name": " 莱妮丝",
             "url": "https://tvbox.cainisi.cf"
