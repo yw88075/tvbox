@@ -53,7 +53,6 @@
 {"key":"drpy_js_零度影视","name":" 零度影视 ","type":3,"api":"./lib/drpy2.min.js","ext":"./js/零度影视.js"},
 {"key":"drpy_js_B站影视","name":" B站影视 ","type":3,"api":"./lib/drpy2.min.js","ext":"./js/B站影视.js"},
 {"key":"drpy_js_哔哩影视","name":" 哔哩影视 ","type":3,"api":"./lib/drpy2.min.js","ext":"./js/哔哩影视.js"},
-
 {"key":"drpy_js_007影视","name":" 007影视 ","type":3,"api":"./lib/drpy2.min.js","ext":"./js/007影视.js"},
 {"key":"drpy_js_1080P","name":" 1080P ","type":3,"api":"./lib/drpy2.min.js","ext":"./js/1080P.js"},
 {"key":"drpy_js_2099电影","name":" 2099电影 ","type":3,"api":"./lib/drpy2.min.js","ext":"./js/2099电影.js"},
