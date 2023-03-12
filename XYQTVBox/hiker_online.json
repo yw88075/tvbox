@@ -1,0 +1,46 @@
+{
+    "urls": [
+        {
+            "url": "http://hutool.ml/tang",
+            "name": "唐三(在线)"
+        },
+        {
+            "url": "http://我不是.肥猫.love:63/接口禁止贩卖",
+            "name": "肥猫线路(在线)"
+        },
+        {
+            "url": "http://刚刚.live/猫",
+            "name": "刚刚线路(在线)"
+        },
+        {
+            "url": "http://饭太硬.ga/x/o.json",
+            "name": "饭太硬线路(在线)"
+        },
+        {
+            "url": "https://神器每日推送.tk/pz.json",
+            "name": "每日神器线路(在线)"
+        },
+        {
+            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+            "name": "Yoursmile(在线)"
+        },
+        {
+            "url": "http://home.jundie.top:81/TVBox/yosakoi.json",
+            "name": "俊于(在线)",
+            "time": "2022-08-28 10:33:33"
+        },
+        {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
+            "name": "蜂蜜(在线)",
+            "time": "2022-08-28 10:33:33"
+        },
+        {
+            "url": "https://freed.yuanhsing.cf/TVBox/meowcf.json",
+            "name": "CH猫友(在线)"
+        },
+        {
+            "url": "https://agit.ai/relax/adcc/raw/branch/master/tvbox.json",
+            "name": "巧技(在线)"
+        }
+    ]
+}
