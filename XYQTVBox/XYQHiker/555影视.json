@@ -10,9 +10,9 @@
     "首页片单列表数组规则": ".module-item",
     "首页片单是否Jsoup写法": "1",
     "分类起始页码": "1",
-    "分类链接": "https://5dy3.vip/vodtype/{cateId}.html",
-    "分类名称": "电影&电视剧&综艺&动漫",
-    "分类名称替换词": "1&2&3&4",
+    "分类链接": "https://5dy3.vip/{cateId}.html",
+    "分类名称": "Netflix&电影&电视剧&综艺&动漫",
+    "分类名称替换词": "label/netflix&vodtype/1&vodtype/2&vodtype/3&vodtype/4",
     "筛选数据": {},
     //"筛选数据": "ext",
     //{cateId}
