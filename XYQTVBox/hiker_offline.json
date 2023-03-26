@@ -2,16 +2,18 @@
     "urls": [
         {
             "url": "clan://localhost/XYQTVBox/XYQTVBox.json",
-            "name": "香雅情线路(海阔推送)"
+            "name": "香雅情线路(海阔推送)",
+            "time": "2023-03-09"
         },
         {
             "url": "clan://localhost/XYQTVBox/drpy_js/drjs_config.json",
-            "name": "道长JS线路(本地)"
+            "name": "道长JS线路(本地)",
+            "time": "2023-03-09"
         },
         {
             "url": "clan://localhost/XYQTVBox/FongMi/config.json",
-            "name": "FongMi本地",
-            "time": "2023-02-26 10:33:33"
+            "name": "FongMi本地(阿里系)",
+            "time": "2023-03-09"
         }
     ]
 }
