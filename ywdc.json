@@ -4,6 +4,10 @@
             "sourceName": "我的仓库",
             "sourceUrl": "https://ghproxy.com/https://raw.githubusercontent.com/yw88075/tvbox/main/ywxl.json"
         },
+		{
+            "sourceName": "gitee备份",
+            "sourceUrl": "https://gitee.com/yw88075/tvbox1/raw/main/ywxl.json"
+        },
         {
             "sourceName": "多多",
             "sourceUrl": "https://jihulab.com/duomv/apps/-/raw/main/1.txt"
