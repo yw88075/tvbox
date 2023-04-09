@@ -33,6 +33,7 @@
 {"key":"drpy_js_利丽娅电影","name":" 利丽娅电影 ","type":3,"api":"./lib/drpy2.min.js","ext":"./js/利丽娅电影.js"},
 {"key":"drpy_js_万能影视","name":" 万能影视 ","type":3,"api":"./lib/drpy2.min.js","ext":"./js/万能影视.js"},
 {"key":"drpy_js_南柯电影","name":" 南柯电影 ","type":3,"api":"./lib/drpy2.min.js","ext":"./js/南柯电影网.js"},
+{"key":"drpy_js_豆芽影院","name":" 豆芽影院 ","type":3,"api":"./lib/drpy2.min.js","ext":"./js/豆芽影院.js"},
 {"key":"drpy_js_胖虎","name":" 胖虎 ","type":3,"api":"./lib/drpy2.min.js","ext":"./js/胖虎.js"},
 {"key":"drpy_js_兄弟影视","name":" 兄弟影视 ","type":3,"api":"./lib/drpy2.min.js","ext":"./js/兄弟影视.js"},
 {"key":"drpy_js_苹果DJ","name":" 苹果DJ ","type":3,"api":"./lib/drpy2.min.js","ext":"./js/苹果DJ.js"},
