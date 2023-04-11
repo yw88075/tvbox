@@ -1,16 +1,16 @@
 {
     "storeHouse": [
         {
-            "sourceName": "我的仓库",
+            "sourceName": "心魔仓库",
             "sourceUrl": "https://ghproxy.com/https://raw.githubusercontent.com/yw88075/tvbox/main/ywxl.json"
         },
 		{
             "sourceName": "仓库镜像一",
-            "sourceUrl": "https://jihulab.com/yw88075/tvbox/-/raw/main/ywxljihu.json"
+            "sourceUrl": "https://jihulab.com/yw88075/tvbox/-/raw/main/ywxl.json"
         },
 		{
             "sourceName": "仓库镜像二",
-            "sourceUrl": "https://gitee.com/yw88075/tvbox1/raw/main/ywxlee.json"
+            "sourceUrl": "https://gitee.com/yw88075/tvbox1/raw/main/ywxl.json"
         },
         {
             "sourceName": "多多",
