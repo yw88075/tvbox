@@ -60,6 +60,16 @@
 			"filterable": 1,
 			"ext": "./XBPQ/素白白影视.json"
 		},
+		{
+			"key": "干饭影视",
+			"name": "干饭",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/干饭影视.json"
+		},
 {"key":"drpy_js_星空影视","name":" 星空影视 ","type":3,"api":"./lib/drpy2.min.js","ext":"./js/星空影视.js"},
 {"key":"drpy_js_视觉影院","name":" 视觉影院 ","type":3,"api":"./lib/drpy2.min.js","ext":"./js/视觉影院.js"},
 {"key":"drpy_js_视中影视","name":" 视中影视 ","type":3,"api":"./lib/drpy2.min.js","ext":"./js/视中心影视.js"},
@@ -129,7 +139,6 @@
 {"key":"drpy_js_大师兄影视","name":" 大师兄影视 ","type":3,"api":"./lib/drpy2.min.js","ext":"./js/大师兄影视.js"},
 {"key":"drpy_js_碟调影视","name":" 碟调影视 ","type":3,"api":"./lib/drpy2.min.js","ext":"./js/碟调影视.js"},
 {"key":"drpy_js_浮生半日","name":" 浮生半日 ","type":3,"api":"./lib/drpy2.min.js","ext":"./js/浮生半日.js"},
-{"key":"drpy_js_干饭影视","name":" 干饭影视 ","type":3,"api":"./lib/drpy2.min.js","ext":"./js/干饭影视.js"},
 {"key":"drpy_js_捷华影视","name":" 捷华影视 ","type":3,"api":"./lib/drpy2.min.js","ext":"./js/捷华影视.js"},
 {"key":"drpy_js_看BZ影视","name":" 看BZ影视 ","type":3,"api":"./lib/drpy2.min.js","ext":"./js/看BZ影视.js"},
 {"key":"drpy_js_看看电影","name":" 看看电影 ","type":3,"api":"./lib/drpy2.min.js","ext":"./js/看看电影.js"},
