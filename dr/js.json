@@ -1,4 +1,4 @@
-{"spider":"./cns/panda230320.jar",
+{"spider":"./panda230320.jar",
  "sites":[
 {"key":"drpy_js_豆瓣","name":"搜索 | 豆瓣 ","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js"},
 {"key":"drpy_js_菜狗","name":"官源 | 搜狗 ","type":3,"api":"./lib/drpy2.min.js","ext":"./js/菜狗.js"},
@@ -47,7 +47,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./cns/XBPQ/野荷塘.json"
+			"ext": "./XBPQ/野荷塘.json"
 		},
 {"key":"drpy_js_星空影视","name":" 星空影视 ","type":3,"api":"./lib/drpy2.min.js","ext":"./js/星空影视.js"},
 {"key":"drpy_js_视觉影院","name":" 视觉影院 ","type":3,"api":"./lib/drpy2.min.js","ext":"./js/视觉影院.js"},
