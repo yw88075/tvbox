@@ -70,6 +70,29 @@
 			"filterable": 1,
 			"ext": "./XBPQ/干饭影视.json"
 		},
+		 {
+       "key": "csp_xml_非凡资源",
+       "name": "非凡资源",
+       "type": 1,
+       "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
+       "searchable": 1,
+       "quickSearch": 1,
+       "filterable": 1,
+	   "playerType": 2,
+       "categories": ["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]
+   },
+   {
+      "key": "量子资源",
+      "name": "量子资源2",
+      "type": 1,
+      "api": "http://cj.lziapi.com/api.php/provide/vod/",
+	  "playerType": 2,
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+      "国产剧","国产动漫","泰国剧","台湾剧","香港剧","欧美剧", "韩国剧", "日本剧", "动漫", "体育", "剧情片", "动作片", "爱情片", "喜剧片"]
+    },
 {"key":"drpy_js_星空影视","name":" 星空影视 ","type":3,"api":"./lib/drpy2.min.js","ext":"./js/星空影视.js"},
 {"key":"drpy_js_视觉影院","name":" 视觉影院 ","type":3,"api":"./lib/drpy2.min.js","ext":"./js/视觉影院.js"},
 {"key":"drpy_js_视中影视","name":" 视中影视 ","type":3,"api":"./lib/drpy2.min.js","ext":"./js/视中心影视.js"},
