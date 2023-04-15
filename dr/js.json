@@ -93,6 +93,28 @@
       "categories": [
       "国产剧","国产动漫","泰国剧","台湾剧","香港剧","欧美剧", "韩国剧", "日本剧", "动漫", "体育", "剧情片", "动作片", "爱情片", "喜剧片"]
     },
+	  {
+      "key": "百影视频",
+      "name": "百影视频",
+      "type": 3,
+      "api": "csp_MianHua",
+      "searchable": 1,
+      "playerType": 2,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://47.104.99.175"
+    },
+	 {
+      "key": "棉花影视",
+      "name": "棉花影视",
+      "type": 3,
+      "api": "csp_MianHua",
+      "searchable": 1,
+      "playerType": 2,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://118.190.144.126"
+    },
 {"key":"drpy_js_星空影视","name":" 星空影视 ","type":3,"api":"./lib/drpy2.min.js","ext":"./js/星空影视.js"},
 {"key":"drpy_js_视觉影院","name":" 视觉影院 ","type":3,"api":"./lib/drpy2.min.js","ext":"./js/视觉影院.js"},
 {"key":"drpy_js_视中影视","name":" 视中影视 ","type":3,"api":"./lib/drpy2.min.js","ext":"./js/视中心影视.js"},
