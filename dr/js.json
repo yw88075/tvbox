@@ -1,7 +1,7 @@
 {
 	"spider": "./panda0415.jar",
 	"spider": "http://cdn.qiaoji8.com/fix230320.jar;md5;58dbcf7265f01cc353e5b27855600236",
-	"spider": "http://我不是.肥猫.love:63/Jar/panda230414.jar;md5;613066B0150C902B3D51BDE7A433BE83",
+	"spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;613066b0150c902b3d51bde7a433be83",
 	"sites": [
 		{
 			"key": "drpy_js_豆瓣",
