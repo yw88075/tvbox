@@ -1,4 +1,5 @@
-{"spider":"./panda230320.jar",
+{"spider":"./panda0415.jar",
+"spider": "http://cdn.qiaoji8.com/fix230320.jar;md5;58dbcf7265f01cc353e5b27855600236",
  "sites":[
 {"key":"drpy_js_豆瓣","name":"搜索 | 豆瓣 ","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js"},
 {"key":"drpy_js_菜狗","name":"官源 | 搜狗 ","type":3,"api":"./lib/drpy2.min.js","ext":"./js/菜狗.js"},
