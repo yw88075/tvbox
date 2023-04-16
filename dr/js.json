@@ -391,16 +391,15 @@
 			"ext": "http://47.104.99.175"
 		},
 		{
-			"key": "棉花影视",
-			"name": "棉花影视",
-			"type": 3,
-			"api": "csp_MianHua",
-			"searchable": 1,
-			"playerType": 2,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "http://118.190.144.126"
-		},
+	   "key":"csp_sp_龙门影视",
+	   "name":"🐉龙门影视",
+	   "type":3,
+	   "api":"csp_AppYsV2",
+	   "searchable":1,
+	   "quickSearch":1,
+	   "filterable":1,
+	   "ext":"https://app.looo.top/lm_api.php/v1.vod"
+	},
 		{
 			"key": "drpy_js_星空影视",
 			"name": " 星空影视 ",
