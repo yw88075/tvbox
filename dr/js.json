@@ -392,7 +392,7 @@
 		},
 		{
 	   "key":"csp_sp_龙门影视",
-	   "name":"🐉龙门影视",
+	   "name":"龙门影视",
 	   "type":3,
 	   "api":"csp_AppYsV2",
 	   "searchable":1,
@@ -834,20 +834,7 @@
 			"api": "./lib/drpy2.min.js",
 			"ext": "./js/爱迪影视.js"
 		},
-		{
-			"key": "drpy_js_爱看电影",
-			"name": " 爱看电影 ",
-			"type": 3,
-			"api": "./lib/drpy2.min.js",
-			"ext": "./js/爱看电影.js"
-		},
-		{
-			"key": "drpy_js_爱看影视",
-			"name": " 爱看影视 ",
-			"type": 3,
-			"api": "./lib/drpy2.min.js",
-			"ext": "./js/爱看影视.js"
-		},
+		
 		{
 			"key": "drpy_js_尘落影视",
 			"name": " 尘落影视 ",
@@ -1528,9 +1515,9 @@
 			"url": "https://jx.xmflv.com/?url="
 		},
 		{
-			"name": "3-麒麟",
-			"type": 0,
-			"url": "https://www.cygqw.com/jiexi/jiekou-2/?url="
+			"name": "3-爱酷",
+			"type": 1,
+			"url": "https://api.json.icu/api/?key=93375f2955b5a21f13f1454f21a4de94&url="
 		},
 		{
 			"name": "4-parwix1",
@@ -1742,24 +1729,59 @@
 			}
 		},
 		{
-			"name": "不累",
-			"type": 0,
-			"url": "https://blbfq.f3322.net/player/analysis.php?v=",
-			"ext": {
-				"flag": [
-					"qiyi",
-					"qq",
-					"letv",
-					"sohu",
-					"youku",
-					"mgtv",
-					"bilibili",
-					"wasu",
-					"xigua",
-					"1905"
-				]
-			}
-		},
+      "name": "4K",
+      "type": 1,
+      "url": "https://jx.4kdv.com/?url=",
+      "ext": {
+      "flag": [
+        "qq",
+        "腾讯",
+        "qiyi",
+        "iqiyi",
+        "爱奇艺",
+        "奇艺",
+        "youku",
+        "优酷",
+        "mgtv",
+        "芒果",
+        "letv",
+        "乐视",
+        "pptv",
+        "PPTV",
+        "sohu",
+        "bilibili",
+        "哔哩哔哩",
+        "哔哩"
+        ]
+      }
+   },  
+    {
+      "name": "M3U8",
+      "type": 0,
+      "url": "https://jx.m3u8.tv/jiexi/?url=",
+      "ext": {
+      "flag": [
+        "qq",
+        "腾讯",
+        "qiyi",
+        "iqiyi",
+        "爱奇艺",
+        "奇艺",
+        "youku",
+        "优酷",
+        "mgtv",
+        "芒果",
+        "letv",
+        "乐视",
+        "pptv",
+        "PPTV",
+        "sohu",
+        "bilibili",
+        "哔哩哔哩",
+        "哔哩"
+        ]
+      }
+    },	
 		{
 			"name": "cod",
 			"type": 0,
@@ -1818,9 +1840,9 @@
 			"url": "https://play.86516.tk/OKPlayer/?url="
 		},
 		{
-			"name": "free",
+			"name": "MW0",
 			"type": 0,
-			"url": "https://h5.freejson.xyz/player/?url="
+			"url": "https://parse.mw0.cc/?url="
 		}
 	],
 	"flags": [
