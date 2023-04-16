@@ -19,7 +19,7 @@
 		},
 		{
 			"key": "drpy_js_酷云七七",
-			"name": " 酷云七七 ",
+			"name": "❤酷云七七 ",
 			"type": 3,
 			"api": "./lib/drpy2.min.js",
 			"ext": "./js/酷云77.js"
@@ -33,28 +33,28 @@
 		},
 		{
 			"key": "drpy_js_兰花影院",
-			"name": "兰花影院 ",
+			"name": "❤兰花影院 ",
 			"type": 3,
 			"api": "./lib/drpy2.min.js",
 			"ext": "./js/兰花影院.js"
 		},
 		{
 			"key": "drpy_js_萌蛋蛋",
-			"name": "萌蛋蛋 ",
+			"name": "❤萌蛋蛋 ",
 			"type": 3,
 			"api": "./lib/drpy2.min.js",
 			"ext": "./js/萌蛋蛋.js"
 		},
 		{
 			"key": "drpy_js_低端",
-			"name": " 低端 ",
+			"name": "❤低端 ",
 			"type": 3,
 			"api": "./lib/drpy2.min.js",
 			"ext": "./js/ddys.js"
 		},
 		{
 			"key": "csp_xml_非凡资源",
-			"name": "非凡资源",
+			"name": "❤非凡资源",
 			"type": 1,
 			"api": "http://cj.ffzyapi.com/api.php/provide/vod/",
 			"searchable": 1,
@@ -91,7 +91,7 @@
 		},
 		{
 			"key": "量子资源",
-			"name": "量子资源2",
+			"name": "❤量子资源2",
 			"type": 1,
 			"api": "http://cj.lziapi.com/api.php/provide/vod/",
 			"playerType": 2,
@@ -159,14 +159,14 @@
 		},
 		{
 			"key": "drpy_js_LIBVIO",
-			"name": " LIBVIO ",
+			"name": "❤LIBVIO ",
 			"type": 3,
 			"api": "./lib/drpy2.min.js",
 			"ext": "./js/LIBVIO.js"
 		},
 		{
 			"key": "drpy_js_007影视",
-			"name": " 007影视 ",
+			"name": "❤007影视 ",
 			"type": 3,
 			"api": "./lib/drpy2.min.js",
 			"ext": "./js/007影视.js"
@@ -180,7 +180,7 @@
 		},
 		{
 			"key": "drpy_js_厂长资源",
-			"name": " 厂长资源 ",
+			"name": "❤厂长资源 ",
 			"type": 3,
 			"api": "./lib/drpy2.min.js",
 			"ext": "./js/厂长资源.js"
@@ -194,7 +194,7 @@
 		},
 		{
 			"key": "drpy_js_云播影院",
-			"name": " 云播影院 ",
+			"name": "❤云播影院 ",
 			"type": 3,
 			"api": "./lib/drpy2.min.js",
 			"ext": "./js/云播.js"
@@ -215,7 +215,7 @@
 		},
 		{
 			"key": "drpy_js_伊雪湾",
-			"name": " 伊雪湾 ",
+			"name": "❤伊雪湾 ",
 			"type": 3,
 			"api": "./lib/drpy2.min.js",
 			"ext": "./js/伊雪湾.js"
@@ -236,7 +236,7 @@
 		},
 		{
 			"key": "drpy_js_影渣渣",
-			"name": " 影渣渣 ",
+			"name": "❤影渣渣 ",
 			"type": 3,
 			"api": "./lib/drpy2.min.js",
 			"ext": "./js/影渣渣.js"
