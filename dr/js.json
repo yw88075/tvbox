@@ -11,11 +11,11 @@
 			"ext": "./js/drpy.js"
 		},
 		{
-			"key": "drpy_js_菜狗",
-			"name": "官源 | 搜狗 ",
+			"key": "drpy_js_360影视",
+			"name": "官源 | 360 ",
 			"type": 3,
 			"api": "./lib/drpy2.min.js",
-			"ext": "./js/菜狗.js"
+			"ext": "./js/360影视.js"
 		},
 		{
 			"key": "drpy_js_酷云七七",
@@ -51,6 +51,69 @@
 			"type": 3,
 			"api": "./lib/drpy2.min.js",
 			"ext": "./js/ddys.js"
+		},
+		{
+			"key": "csp_xml_非凡资源",
+			"name": "非凡资源",
+			"type": 1,
+			"api": "http://cj.ffzyapi.com/api.php/provide/vod/",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"playerType": 2,
+			"categories": [
+				"动作片",
+				"喜剧片",
+				"科幻片",
+				"恐怖片",
+				"爱情片",
+				"剧情片",
+				"战争片",
+				"记录片",
+				"国产剧",
+				"欧美剧",
+				"香港剧",
+				"韩国剧",
+				"台湾剧",
+				"日本剧",
+				"海外剧",
+				"泰国剧",
+				"国产动漫",
+				"日韩动漫",
+				"欧美动漫",
+				"港台动漫",
+				"海外动漫",
+				"大陆综艺",
+				"港台综艺",
+				"日韩综艺",
+				"欧美综艺"
+			]
+		},
+		{
+			"key": "量子资源",
+			"name": "量子资源2",
+			"type": 1,
+			"api": "http://cj.lziapi.com/api.php/provide/vod/",
+			"playerType": 2,
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"categories": [
+				"国产剧",
+				"国产动漫",
+				"泰国剧",
+				"台湾剧",
+				"香港剧",
+				"欧美剧",
+				"韩国剧",
+				"日本剧",
+				"动漫",
+				"体育",
+				"剧情片",
+				"动作片",
+				"爱情片",
+				"喜剧片"
+			]
 		},
 		{
 			"key": "drpy_js_农民",
@@ -315,69 +378,6 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "./XBPQ/干饭影视.json"
-		},
-		{
-			"key": "csp_xml_非凡资源",
-			"name": "非凡资源",
-			"type": 1,
-			"api": "http://cj.ffzyapi.com/api.php/provide/vod/",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"playerType": 2,
-			"categories": [
-				"动作片",
-				"喜剧片",
-				"科幻片",
-				"恐怖片",
-				"爱情片",
-				"剧情片",
-				"战争片",
-				"记录片",
-				"国产剧",
-				"欧美剧",
-				"香港剧",
-				"韩国剧",
-				"台湾剧",
-				"日本剧",
-				"海外剧",
-				"泰国剧",
-				"国产动漫",
-				"日韩动漫",
-				"欧美动漫",
-				"港台动漫",
-				"海外动漫",
-				"大陆综艺",
-				"港台综艺",
-				"日韩综艺",
-				"欧美综艺"
-			]
-		},
-		{
-			"key": "量子资源",
-			"name": "量子资源2",
-			"type": 1,
-			"api": "http://cj.lziapi.com/api.php/provide/vod/",
-			"playerType": 2,
-			"playUrl": "",
-			"searchable": 1,
-			"quickSearch": 1,
-			"categories": [
-				"国产剧",
-				"国产动漫",
-				"泰国剧",
-				"台湾剧",
-				"香港剧",
-				"欧美剧",
-				"韩国剧",
-				"日本剧",
-				"动漫",
-				"体育",
-				"剧情片",
-				"动作片",
-				"爱情片",
-				"喜剧片"
-			]
 		},
 		{
 			"key": "百影视频",
@@ -1011,6 +1011,13 @@
 			"ext": "./js/首播影院.js"
 		},
 		{
+			"key": "drpy_js_菜狗",
+			"name": "官源 | 搜狗 ",
+			"type": 3,
+			"api": "./lib/drpy2.min.js",
+			"ext": "./js/菜狗.js"
+		},
+		{
 			"key": "drpy_js_DJ音乐",
 			"name": "音频 | DJ音乐 ",
 			"type": 3,
@@ -1386,13 +1393,6 @@
 			"type": 3,
 			"api": "csp_Zhaozy",
 			"ext": "./lib/token.txt"
-		},
-		{
-			"key": "drpy_js_360影视",
-			"name": "官源 | 360 ",
-			"type": 3,
-			"api": "./lib/drpy2.min.js",
-			"ext": "./js/360影视.js"
 		},
 		{
 			"key": "drpy_js_奇珍异兽",
