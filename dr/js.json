@@ -388,7 +388,7 @@
 			"playerType": 2,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "http://47.104.99.175"
+			"ext": "http://47.104.99.175","jar":"./fix230320.jar"
 		},
 		{
 	   "key":"csp_sp_龙门影视",
