@@ -10,7 +10,7 @@ tvbox
 1、增加解析，增加明明、龙门、素白白。
 2、更换JAR。
 ---------------------------------
-仓库地址：
+仓库地址（因关键字，某个源在某个仓库会无法连接)：
 1、https://jihulab.com/yw88075/tvbox1/-/raw/main/ywdc.json
 2、https://gitee.com/yw88075/tvbox1/raw/main/ywdc.json
 3、https://ghproxy.com/https://raw.githubusercontent.com/yw88075/tvbox/main/ywdc.json
