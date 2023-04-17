@@ -121,12 +121,14 @@
       "ext": "./js/农民.js"
     },
     {
-      "key": "drpy_js_Voflix",
-      "name": " 😆Voflix ",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/Voflix.js"
-    },
+			"key": "csp_Vofl",
+			"name": "😗Vofl",
+			"type": 3,
+			"api": "csp_Voflix",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
     {
       "key": "drpy_js_冷曦影视",
       "name": "😆冷曦影视 ",
