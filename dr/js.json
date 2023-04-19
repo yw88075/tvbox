@@ -273,7 +273,7 @@
 		},
 		{
 			"key": "drpy_js_布雷蓝光",
-			"name": " 布雷蓝光 ",
+			"name": "  🤐布雷蓝光 ",
 			"type": 3,
 			"api": "./lib/drpy2.min.js",
 			"ext": "./js/布雷蓝光.js"
@@ -1540,11 +1540,7 @@
 			"type": 3,
 			"url": "Demo"
 		},
-		{
-			"name": "看看",
-			"type": 0,
-			"url": "https://jx.m3u8.pw/?url="
-		},
+		
 		{
 			"name": "虾米",
 			"type": 0,
@@ -1899,65 +1895,8 @@
 				]
 			}
 		},
-		{
-			"name": "255",
-			"type": 1,
-			"url": "http://47.108.39.237:55/api/jsonindex.php/?key=dp2xOsl8Nws8uFdY0E&url=",
-			"ext": {
-				"flag": [
-					"qq",
-					"腾讯",
-					"企鹅",
-					"IQiYi",
-					"qiyi",
-					"爱奇艺",
-					"奇艺",
-					"youku",
-					"YouKu",
-					"优酷",
-					"sohu",
-					"SoHu",
-					"搜狐",
-					"letv",
-					"LeShi",
-					"乐视",
-					"imgo",
-					"mgtv",
-					"MangGuo",
-					"芒果",
-					"SLYS4k",
-					"BYGA",
-					"luanzi",
-					"AliS",
-					"dxzy",
-					"bilibili",
-					"QEYSS",
-					"xigua",
-					"西瓜视频",
-					"腾讯视频",
-					"奇艺视频",
-					"优酷视频",
-					"芒果视频",
-					"乐视视频"
-				]
-			}
-		},
-		{
-			"name": "cod",
-			"type": 0,
-			"url": "https://ksksl.codjx.com/?url="
-		},
-		{
-			"name": "byg解析",
-			"type": 0,
-			"url": "https://byg.ziqj5.shop/?url="
-		},
-		{
-			"name": "xmflv",
-			"type": 0,
-			"url": "https://jx.xmflv.com/?url="
-		},
-		{
+					
+				{
 			"name": "365",
 			"type": 0,
 			"url": "https://chaxun.truechat365.com/?url=",
@@ -1989,11 +1928,7 @@
 			"type": 0,
 			"url": "http://vip.26db.cn/g/?url="
 		},
-		{
-			"name": "看看",
-			"type": 0,
-			"url": "https://jx.m3u8.pw/?url="
-		},
+		
 		{
 			"name": "FreeOK",
 			"type": 0,
