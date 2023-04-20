@@ -254,25 +254,26 @@
 			"api": "./lib/drpy2.min.js",
 			"ext": "./js/云播.js"
 		},
-		"key": "csp_biubiu_喵影视",
-      "name": "🥰喵影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./XBPQ/喵影视.json"
-    },
 		{
-      "key": "csp_biubiu_骚火电影",
-      "name": "🥰骚火",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./XBPQ/骚火电影.json"
-    },
+			"key": "csp_biubiu_喵影视",
+			"name": "🥰喵影视",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/喵影视.json"
+		},
+		{
+			"key": "csp_biubiu_骚火电影",
+			"name": "🥰骚火",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/骚火电影.json"
+		},
 		{
 			"key": "drpy_js_8号影院",
 			"name": " 8号影院 ",
@@ -366,7 +367,6 @@
 			"api": "./lib/drpy2.min.js",
 			"ext": "./js/利丽娅电影.js"
 		},
-		
 		{
 			"key": "drpy_js_南柯电影",
 			"name": " 南柯电影 ",
@@ -374,7 +374,6 @@
 			"api": "./lib/drpy2.min.js",
 			"ext": "./js/南柯电影网.js"
 		},
-		
 		{
 			"key": "drpy_js_我的哔哩",
 			"name": " 🤭我的哔哩 ",
@@ -478,7 +477,6 @@
 			"ext": "http://47.104.99.175",
 			"jar": "./fix230320.jar"
 		},
-		
 		{
 			"key": "drpy_js_星空影视",
 			"name": " 星空影视 ",
@@ -696,7 +694,6 @@
 			"api": "./lib/drpy2.min.js",
 			"ext": "./js/看韩剧.js"
 		},
-		
 		{
 			"key": "drpy_js_去看吧",
 			"name": " 去看吧 ",
@@ -795,7 +792,6 @@
 			"api": "./lib/drpy2.min.js",
 			"ext": "./js/AB影院[飞].js"
 		},
-		
 		{
 			"key": "drpy_js_l0l",
 			"name": " l0l ",
@@ -855,7 +851,6 @@
 			"searchable": 1,
 			"ext": "https://www.69mj.com/xgapp.php/v2/"
 		},
-		
 		{
 			"key": "drpy_js_NY影院",
 			"name": " NY影院 ",
@@ -975,7 +970,6 @@
 			"api": "./lib/drpy2.min.js",
 			"ext": "./js/追剧迷.js"
 		},
-		
 		{
 			"key": "drpy_js_两个 BT",
 			"name": " 两个BT ",
@@ -997,7 +991,6 @@
 			"api": "./lib/drpy2.min.js",
 			"ext": "./js/麦豆.js"
 		},
-		
 		{
 			"key": "drpy_js_南瓜影院",
 			"name": " 南瓜影院 ",
@@ -1026,7 +1019,6 @@
 			"api": "./lib/drpy2.min.js",
 			"ext": "./js/起飞影院.js"
 		},
-		
 		{
 			"key": "drpy_js_首播影院",
 			"name": " 首播影院 ",
@@ -1557,7 +1549,6 @@
 			"type": 3,
 			"url": "Demo"
 		},
-		
 		{
 			"name": "虾米",
 			"type": 0,
@@ -1912,8 +1903,7 @@
 				]
 			}
 		},
-					
-				{
+		{
 			"name": "365",
 			"type": 0,
 			"url": "https://chaxun.truechat365.com/?url=",
@@ -1945,7 +1935,6 @@
 			"type": 0,
 			"url": "http://vip.26db.cn/g/?url="
 		},
-		
 		{
 			"name": "FreeOK",
 			"type": 0,
