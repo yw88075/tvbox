@@ -438,6 +438,16 @@
 			"ext": "./XBPQ/野荷塘.json"
 		},
 		{
+			"key": "喵影视",
+			"name": "❤ 喵影视",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/喵影视.json"
+		},
+		{
 			"key": "素白白影视",
 			"name": "❤ 素白白",
 			"type": 3,
