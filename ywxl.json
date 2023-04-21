@@ -2,7 +2,7 @@
     "urls": [
         {
             "name": "心魔仓库😍",
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/yw88075/tvbox/main/dr/js.json"
+            "url": "https://fastly.jsdelivr.net/gh/yw88075/tvbox@main/dr/js.json"
         },
 		  {
             "name": "心魔仓库🤨",
@@ -18,7 +18,7 @@
         },
        {
             "name": "香雅本地推送",
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/yw88075/tvbox/main/XYQTVBox/XYQTVBox.json"
+            "url": "https://fastly.jsdelivr.net/gh/yw88075/tvbox@main/XYQTVBox/XYQTVBox.json"
         },
         
         {
