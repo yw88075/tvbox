@@ -462,6 +462,16 @@
 			"ext": "./XBPQ/大豆高清.json"
 		},
 		{
+			"key": "奇优影视",
+			"name": " 😮奇优影视",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/奇优影视.json"
+		},
+		{
 			"key": "素白白影视",
 			"name": "❤ 素白白",
 			"type": 3,
