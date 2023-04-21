@@ -1475,9 +1475,9 @@
 	],
 	"lives": [
 		{
-			"name": "太阳",
+			"name": "心魔",
 			"type": 0,
-			"url": "https://fastly.jsdelivr.net/gh/yw88075/tvbox@main/live.txt"
+			"url": "https://raw.gitmirror.com/yw88075/tvbox/main/live.txt"
 		}
 	],
 	"rules": [
