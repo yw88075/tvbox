@@ -308,13 +308,7 @@
 			"quickSearch": 1,
 			"filterable": 1
 		},
-		{
-			"key": "drpy_js_大豆",
-			"name": " 大豆（等修） ",
-			"type": 3,
-			"api": "./lib/drpy2.min.js",
-			"ext": "./js/大豆.js"
-		},
+		
 		{
 			"key": "drpy_js_乐猪TV",
 			"name": "😆乐猪TV ",
@@ -446,6 +440,26 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "./XBPQ/喵影视.json"
+		},
+		{
+			"key": "孜然影视",
+			"name": "❤ 孜然影视",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/孜然影视.json"
+		},
+		{
+			"key": "大豆高清",
+			"name": "❤ 大豆高清",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/大豆高清.json"
 		},
 		{
 			"key": "素白白影视",
@@ -620,13 +634,7 @@
 			"api": "./lib/drpy2.min.js",
 			"ext": "./js/139影视.js"
 		},
-		{
-			"key": "drpy_js_孜然影视",
-			"name": " 孜然影视 ",
-			"type": 3,
-			"api": "./lib/drpy2.min.js",
-			"ext": "./js/孜然影视.js"
-		},
+		
 		{
 			"key": "drpy_js_六度TV",
 			"name": " 六度TV ",
