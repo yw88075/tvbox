@@ -1,12 +1,13 @@
 {
     "urls": [
-        {
-            "name": "心魔仓库😍",
-            "url": "https://raw.gitmirror.com/yw88075/tvbox/main/dr/js.json"
-        },
+       
 		  {
             "name": "心魔仓库🤨",
             "url": "https://jihulab.com/yw88075/tvbox/-/raw/main/dr/js.json"
+        },
+		 {
+            "name": "心魔仓库😍",
+            "url": "https://raw.gitmirror.com/yw88075/tvbox/main/dr/js.json"
         },
 		{
             "name": "心魔仓库🙂",
