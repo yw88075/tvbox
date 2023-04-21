@@ -1477,7 +1477,7 @@
 		{
 			"name": "太阳",
 			"type": 0,
-			"url": "http://111.67.196.181/zhibo.txt"
+			"url": "https://fastly.jsdelivr.net/gh/yw88075/tvbox@main/live.txt"
 		}
 	],
 	"rules": [
