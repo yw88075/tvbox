@@ -1,6 +1,14 @@
 # tvbox
 tvbox
+仓库地址（因关键字，某个源在某个仓库会无法连接)：
+1、https://jihulab.com/yw88075/tvbox1/-/raw/main/ywdc.json
+2、https://gitee.com/yw88075/tvbox1/raw/main/ywdc.json
+3、https://ghproxy.com/https://raw.githubusercontent.com/yw88075/tvbox/main/ywdc.json
+
 借用的都是大佬的本地接口和在线接口，喜欢看美剧，略微倾向。
+---------------------------------
+4.22
+增加线路234
 ---------------------------------
 4.21
 国内加速访问有问题，用第一个线路，更换大豆源
@@ -19,8 +27,4 @@ tvbox
 1、增加解析，增加明明、龙门、素白白。
 2、更换JAR。
 ---------------------------------
-仓库地址（因关键字，某个源在某个仓库会无法连接)：
-1、https://jihulab.com/yw88075/tvbox1/-/raw/main/ywdc.json
-2、https://gitee.com/yw88075/tvbox1/raw/main/ywdc.json
-3、https://ghproxy.com/https://raw.githubusercontent.com/yw88075/tvbox/main/ywdc.json
 
