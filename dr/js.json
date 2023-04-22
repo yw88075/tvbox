@@ -138,9 +138,7 @@
 			"ext": "./XYQHiker/皮皮鸭.json"
 		},
 		{"key": "csp_XBPQ_bp",  "name": "😦白嫖电影",  "type": 3,  "api": "csp_XBPQ",  "searchable": 1,  "quickSearch": 1,  "filterable": 1,  "ext": "{\"分类\":\"电影$1#电视剧$2#综艺$3#动漫$4\",\"分类url\":\"https://dy.gduan.com/index.php/vod/show/id/{cateId}/class/{class}/area/{area}/lang/{lang}/by/{by}/catePg/{catePg}/year/{year}.html\"}"},
-		
-		{"key": "csp_XYQHiker_六月影视","name":"六月影视","type":3,"api":"csp_XYQHiker","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/六月影视json"},
-		{"key": "csp_XYQHiker_234影视","name":"234影视","type":3,"api":"csp_XYQHiker","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/234影视.json"},
+						{"key": "csp_XYQHiker_234影视","name":"😦234影视","type":3,"api":"csp_XYQHiker","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/234影视.json"},
 		{
 			"key": "drpy_js_莫扎兔儿",
 			"name": "  ☺莫扎兔儿 ",
