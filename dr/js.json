@@ -140,8 +140,8 @@
 		{"key": "csp_XBPQ_bp",  "name": "😦白嫖电影",  "type": 3,  "api": "csp_XBPQ",  "searchable": 1,  "quickSearch": 1,  "filterable": 1,  "ext": "{\"分类\":\"电影$1#电视剧$2#综艺$3#动漫$4\",\"分类url\":\"https://dy.gduan.com/index.php/vod/show/id/{cateId}/class/{class}/area/{area}/lang/{lang}/by/{by}/catePg/{catePg}/year/{year}.html\"}"},
 		
 		{
-			"key": "😦234影视",
-			"name": "❤ 234影视",
+			"key": "234影视",
+			"name": " 😮234影视",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
@@ -150,8 +150,8 @@
 			"ext": "./XBPQ/234影视.json"
 		},
 			{
-			"key": "😦六月影视",
-			"name": "❤ 六月影视",
+			"key": "六月影视",
+			"name": " 😮六月影视",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
