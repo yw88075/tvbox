@@ -48,7 +48,7 @@
     
     "影片类型":"module-info-tag-link\">&&立即播放",
     
-    "分类url":"https://kan3456.cc/index.php/vod/show/by/{by}/id/{cateId}/lang/{lang}/page/{catePg}/year/2023.html;;a",
+    "分类url":"https://kan3456.cc/index.php/vod/show/by/{by}/id/{cateId}/lang/{lang}/page/{catePg}/{year}.html",
     
     "分类":"电影$1#电视剧$2#动漫$4#综艺$3",
     
