@@ -822,26 +822,7 @@
 			"api": "./lib/drpy2.min.js",
 			"ext": "./js/AB影院[飞].js"
 		},
-		{
-			"key": "csp_XBPQ_bp",
-			"name": "┃简写┃7iTV",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "{\"分类\":\"电影$1#剧集$2#综艺$3#动漫$4\",\"分类url\":\"https://www.7itv.com/vodshow//{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html\"}"
-		},
-		{
-			"key": "csp_XBPQ_热映",
-			"name": "┃简写┃热映网",
-			"type": 3,
-			"api": "csp_xBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "{\"分类\":\"电影$1#电视剧$2#综艺$3#动漫$4\",\"分类url\":\"http://www.glx6.com/vodshow/{cateId}/class/{class}/area/{area}/lang/{lang}/by/{by}/catePg/{catePg}/year/{year}.html\"}"
-		},
+		
 		{
 			"key": "drpy_js_l0l",
 			"name": " l0l ",
