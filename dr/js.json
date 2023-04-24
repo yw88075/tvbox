@@ -1469,6 +1469,7 @@
 			"api": "./lib/drpy2.min.js",
 			"ext": "./js/百忙无果.js"
 		},
+		{"key": "csp_XYQHiker_神马","name":"神马(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/神马.json"},
 		{
 			"key": "push_agent",
 			"name": "阿里 | 推送",
