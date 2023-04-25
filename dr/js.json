@@ -187,7 +187,7 @@
 			}
 		},
 		{"key":"追影猫","name":"追影猫","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"分类":"电影$1#电视剧$2#综艺$3#动漫$4#纪录片$41#","分类url":"https://zhuiyingmao1.com/vodshow/{cateId}-{area}-{by}-{class}--------{year}.html"}},
-{"key":"土豪影视","name":"土豪影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"分类":"电影$1#剧集$2#综艺$3#动漫$4#纪录片$5#体育$56#","分类url":"https://www.tuhao.tv/vsh/{cateId}-----------{catePg}.html"}},
+{"key":"土豪影视","name":"土豪影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类":"电影$1#剧集$2#综艺$3#动漫$4#纪录片$5#体育$56#","分类url":"https://www.tuhao.tv/vsh/{cateId}----{catePg}---{year}.html"}},
 
 		{
 			"key": "csp_XYQHiker_234影视",
