@@ -266,8 +266,9 @@
             "searchable": 1,  
             "quickSearch": 1,  
             "filterable": 1,  
-            "ext": {"分类":"电影$1#电视剧$2#综艺$4#动漫$3#日韩剧$15#欧美剧$16","分类url":"http://www.smdyy.cc/show/id-{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html;;val"}
+            "ext": {"分类":"电影$1#电视剧$2#综艺$4#动漫$3#日韩剧$15#欧美剧$16","分类url":"http://www.smdyy.cc/show/{cateId}/area/{area}/{by}/{lang}/page/{catePg}/year/{year}.html;;val"}
         },
+
 		{
 			"key": "drpy_js_时光影视",
 			"name": " 时光影视 ",
