@@ -196,7 +196,7 @@
 			"filterable": 0,
 			"ext": {
 				"分类": "电影$1#电视剧$2#综艺$3#动漫$4#纪录片$41#",
-				"分类url": "https://zhuiyingmao1.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-------{catePg}{year}.html"
+				"分类url": "https://zhuiyingmao1.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}--------{catePg}{year}.html"
 			}
 		},
 		{
