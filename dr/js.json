@@ -139,7 +139,7 @@
             "searchable": 1,  
             "quickSearch": 1,  
             "filterable": 1,  
-            "ext": {"分类":"电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi","分类url":"https://www.dianyi.ng/pianku-{area}-{by}-{lang}-{class}------page/{catePg}{year}.html"}
+            "ext": {"分类":"电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi","分类url":"https://www.dianyi.ng/pianku-dianying-{area}-{by}-{lang}-{class}------page/{catePg}{year}.html"}
         },
 		{
 			"key": "drpy_js_农民",
