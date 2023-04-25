@@ -121,6 +121,17 @@
 			]
 		},
 		{
+            "key": "csp_XBPQ_一龙影视",  
+            "name": " 🐉一龙影视",  
+            "type": 3,  
+            "api": "csp_XBPQ",  
+            "searchable": 1,  
+            "quickSearch": 1,  
+            "filterable": 1,  
+            "ext": {"分类":"电影$1#剧集$2#动漫$4#综艺$3#纪录$5","分类url":"http://www.yilonghd.com/show/id-{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html;;val"}
+        },
+
+		{
 			"key": "drpy_js_农民",
 			"name": "😆  农民 ",
 			"type": 3,
@@ -247,6 +258,16 @@
 			"api": "./lib/drpy2.min.js",
 			"ext": "./js/凌云影视.js"
 		},
+		{
+            "key": "csp_XBPQ_神马电影",  
+            "name": "神马电影",  
+            "type": 3,  
+            "api": "csp_XBPQ",  
+            "searchable": 1,  
+            "quickSearch": 1,  
+            "filterable": 1,  
+            "ext": {"分类":"电影$1#电视剧$2#综艺$4#动漫$3#日韩剧$15#欧美剧$16","分类url":"http://www.smdyy.cc/show/id-{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html;;val"}
+        },
 		{
 			"key": "drpy_js_时光影视",
 			"name": " 时光影视 ",
@@ -1469,7 +1490,7 @@
 			"api": "./lib/drpy2.min.js",
 			"ext": "./js/百忙无果.js"
 		},
-		{"key": "csp_XYQHiker_神马","name":"神马(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/神马.json"},
+		
 		{
 			"key": "push_agent",
 			"name": "阿里 | 推送",
