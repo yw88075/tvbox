@@ -258,7 +258,7 @@
 			"api": "./lib/drpy2.min.js",
 			"ext": "./js/凌云影视.js"
 		},
-		{
+	{
             "key": "csp_XBPQ_神马电影",  
             "name": "神马电影",  
             "type": 3,  
@@ -266,8 +266,9 @@
             "searchable": 1,  
             "quickSearch": 1,  
             "filterable": 1,  
-            "ext": {"分类":"电影$1#电视剧$2#综艺$4#动漫$3#日韩剧$15#欧美剧$16","分类url":"http://www.smdyy.cc/show/{cateId}/area/{area}/{by}/{lang}/page/{catePg}/year/{year}.html;;val"}
+            "ext": {"分类":"电影$1#电视剧$2#综艺$4#动漫$3#日韩剧$15#欧美剧$16","分类url":"http://www.smdyy.cc/show/{cateId}-{area}-{by}--{lang}-------{year}.html\"}
         },
+
 
 		{
 			"key": "drpy_js_时光影视",
