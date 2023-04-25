@@ -130,7 +130,17 @@
             "filterable": 1,  
             "ext": {"分类":"电影$1#剧集$2#动漫$4#综艺$3#纪录$5","分类url":"http://www.yilonghd.com/show/id-{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html;;val"}
         },
-
+		
+{
+            "key": "csp_XBPQ_电影先生",  
+            "name": "电影先生",  
+            "type": 3,  
+            "api": "csp_XBPQ",  
+            "searchable": 1,  
+            "quickSearch": 1,  
+            "filterable": 1,  
+            "ext": {"分类":"电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi","分类url":"https://www.dianyi.ng/pianku-{class}-{area}-{by}-{lang}-{class}------page/{catePg}{year}.html"}
+        },
 		{
 			"key": "drpy_js_农民",
 			"name": "😆  农民 ",
