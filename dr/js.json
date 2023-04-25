@@ -160,7 +160,8 @@
 			"ext": "{\"分类\":\"电影$1#电视剧$2#综艺$3#动漫$4\",\"分类url\":\"https://dy.gduan.com/index.php/vod/show/id/{cateId}/class/{class}/area/{area}/lang/{lang}/by/{by}/catePg/{catePg}/year/{year}.html\"}"
 		},
 		{"key":"金曼TV","name":"🤑金曼","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"分类":"电影$1#电视剧$2#综艺$4#动漫$3#纪录片$5#","分类url":"https://jinmantv.com/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/year/{year}/page/{catePg}.html"}},
-{"key":"花花","name":"花花丨BPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"分类":"电影$1#电视剧$2#综艺$3#动漫$4#纪录片$22#","分类url":"https://hua355.vip/vodshow/{cateId}-{area}-{by}-{lang}-------{catePg}{year}.html"}},
+{"key":"花花","name":"花花","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"分类":"电影$1#电视剧$2#综艺$3#动漫$4#纪录片$22#","分类url":"https://hua355.vip/vodshow/{cateId}-{area}-{by}-{class}-{lang}-------{catePg}{year}.html"}},
+
 		{
 			"key": "csp_XYQHiker_234影视",
 			"name": "😦234影视",
