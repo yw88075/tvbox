@@ -5,7 +5,7 @@ tvbox
 2、https://gitee.com/yw88075/tvbox1/raw/main/ywdc.json
 3、https://ghproxy.com/https://raw.githubusercontent.com/yw88075/tvbox/main/ywdc.json
 
-借用的都是大佬的本地接口和在线接口，喜欢看美剧，略微倾向。
+借用的都是大佬的本地接口和在线接口，喜欢看美剧，略微倾向。好看的源用上了表情。
 ---------------------------------
 4.22
 增加线路234
