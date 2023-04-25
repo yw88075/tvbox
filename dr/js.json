@@ -199,10 +199,35 @@
 				"分类url": "https://zhuiyingmao1.com/vodshow/{cateId}-{area}-{by}-{class}--------{year}.html"
 			}
 		},
-		{"key":"土豪影视","name":"土豪影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"数组": "class=\"homepage_video_title\"&&</a>","分类":"电影$1#剧集$2#综艺$3#动漫$4#纪录片$5#体育$56#","分类url":"https://www.tuhao.tv/vsh/{cateId}-{area}{by}-{class}-{lang}-------{year}.html"}},
-		{"key":"端木","name":"端木","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"分类":"电影$1#电视剧$2#综艺3#动漫$4#纪录片$29#","分类url":"http://dmsvip.top/vodshow/{cateId}-{area}{by}-{class}-{lang}-------{catePg}{year}.html"}},
-	{"key":"23影视","name":"23影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"数组": "class=\"aplus-exp\"&&</a>","分类":"电影$1#剧集$2#动漫$4#综艺$3#纪录$20","分类url":"https://www.23wm.net/vodshow/id/{cateId}{by}{class}/page/{catePg}/year/{year}.html"}},
-
+		{
+			"key": "土豪影视",
+			"name": "土豪影视",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": {
+				"数组": "class=\"homepage_video_title\"&&</a>",
+				"分类": "电影$1#剧集$2#综艺$3#动漫$4#纪录片$5#体育$56#",
+				"分类url": "https://www.tuhao.tv/vsh/{cateId}-{area}{by}-{class}-{lang}-------{year}.html"
+			}
+		},
+	{"key":"端木","name":"端木","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"分类":"电影$1#电视剧$2#综艺3#动漫$4#纪录片$29#","分类url":"http://dmsvip.top/vodshow/{cateId}--{by}---------{catePg}{year}.html"}},
+		{
+			"key": "23影视",
+			"name": "23影视",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": {
+				"数组": "class=\"aplus-exp\"&&</a>",
+				"分类": "电影$1#剧集$2#动漫$4#综艺$3#纪录$20",
+				"分类url": "https://www.23wm.net/vodshow/id/{cateId}{by}{class}/page/{catePg}/year/{year}.html"
+			}
+		},
 		{
 			"key": "csp_XYQHiker_234影视",
 			"name": "😦234影视",
