@@ -232,19 +232,9 @@
 				"分类url": "https://www.k7yy.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;mal"
 			}
 		},
-		{
-			"key": "端木",
-			"name": "端木",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": {
-				"分类": "电影$1#连续剧$2#综艺3#动漫$4#纪录片$29",
-				"分类url": "http://dmsvip.top/vodshow/{cateId}--{by}-{class}-{lang}-------{catePg}{year}.html"
-			}
-		},
+	{"key":"端木","name":"端木","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"分类":"电影$1-----------#连续剧$2-----------#综艺3-----------#动漫$4-----------#纪录片$29-----------#","分类url":"http://dmsvip.top/vodshow/{cateId}--{by}-{class}-{lang}-------{catePg}{year}.html"}},
+
+
 		{
 			"key": "23影视",
 			"name": "23影视┃XBPQ",
