@@ -313,6 +313,7 @@
 			"filterable": 1,
 			"ext": "./XYQHiker/234影视.json"
 		},
+		{"key":"土狗影院","name":"土狗影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"数组":"<a&&class=\"module-poster-item-title\"","分类":"电影$1#剧集$2#综艺$3#动漫$4#纪录片$5#","分类url":"https://www.tgys.life/vodshow/{cateId}-{area}-{by}-{class}-{lang}-------{catePg}{year}.html"}},
 		{
 			"key": "drpy_js_莫扎兔儿",
 			"name": "  ☺莫扎兔儿 ",
