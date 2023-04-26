@@ -186,7 +186,7 @@
 				"分类url": "https://hua355.vip/vodshow/{cateId}-{area}-{by}-{class}-{lang}-------{catePg}{year}.html"
 			}
 		},
-	{"key":"追影猫","name":"追影猫","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"数组":"href=\"/voddetail/&&</div></div>","分类":"电影$1#电视剧$2#综艺$3#动漫$4#纪录片$41#","分类url":"https://zhuiyingmao1.com/vodshow/{cateId}-{area}-{by}-{class}--------{year}.html"}},
+	{"key":"追影猫","name":"追影猫","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"数组":"module-poster-item module-item\"&&</div>","分类":"电影$1#电视剧$2#综艺$3#动漫$4#纪录片$41#","分类url":"https://zhuiyingmao1.com/vodshow/{cateId}-{area}-{by}-{class}--------{year}.html"}},
 		{
 			"key": "土豪影视",
 			"name": "土豪影视",
