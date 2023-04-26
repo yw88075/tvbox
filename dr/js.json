@@ -232,10 +232,23 @@
 				"分类url": "https://www.k7yy.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;mal"
 			}
 		},
-	
-{"key":"6080","name":"6080┃XBPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"数组": "class=\"module-item\">&&</a>","分类":"电影$1#剧集$2#综艺$3#动漫$4#纪录片$5#体育$56#","分类url":"https://www.6080dy3.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-------{year}.html"}},
+		{
+			"key": "6080",
+			"name": "6080┃XBPQ",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": {
+				"数组": "class=\"module-item\">&&</a>",
+				"分类": "电影$1#剧集$2#综艺$3#动漫$4#纪录片$5#体育$56#",
+				"分类url": "https://www.6080dy3.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-------{year}.html"
+			}
+		},
+	{"key":"蓝光","name":"蓝光影院┃XBPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"数组":"<a&&class=\"module-poster-item-title\"","分类":"电影$1#剧集$2#综艺$3#动漫$5#纪录片$4#","分类url":"https://www.fuxiafood.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-------{catePg}{year}.html"}},
+	{"key":"莫扎兔","name":"莫扎兔","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"数组":"<a&&class=\"module-poster-item-title\"","分类":"电影$1#剧集$2#综艺$3#动漫$5#纪录片$4#","分类url":"https://tv1920.com/vodshow/{cateId}-{area}-{by}-{class}--------{catePg}{year}.html"}},
 
-{"key":"蓝光","name":"蓝光影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"数组":"<a&&class=\"module-poster-item-title\"","分类":"电影$1#剧集$2#综艺$3#动漫$5#纪录片$4#","分类url":"https://www.fuxiafood.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-------{year}.html"}},
 		{
 			"key": "23影视",
 			"name": "23影视┃XBPQ",
