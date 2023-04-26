@@ -263,6 +263,7 @@
 				"分类": "电影$1#剧集$2#动漫$4#综艺$3#纪录$20",
 				"分类url": "https://www.23wm.net/vodshow/id/{cateId}{by}{class}/page/{catePg}/year/{year}.html"
 			}
+			{"key":"朴樱影视","name":"朴樱影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"数组":"<a&&class=\"module-poster-item-title\"","分类":"电影$1#剧集$2#综艺$3#动漫$4#哔哩$36#","分类url":"https://pyys.art/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/{year}/page/{catePg}.html"}},
 		},
 		{
 			"key": "csp_XYQHiker_234影视",
