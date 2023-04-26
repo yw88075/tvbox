@@ -122,7 +122,7 @@
 		},
 		{
 			"key": "csp_XBPQ_一龙影视",
-			"name": " 🐉一龙影视",
+			"name": " 🐉一龙影视┃XBPQ",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
@@ -152,7 +152,7 @@
 		},
 		{
 			"key": "csp_XBPQ_bp",
-			"name": "😦白嫖电影",
+			"name": "😦白嫖电影┃XBPQ",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
@@ -162,7 +162,7 @@
 		},
 		{
 			"key": "金曼TV",
-			"name": "🤑金曼",
+			"name": "🤑金曼┃XBPQ",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
@@ -175,7 +175,7 @@
 		},
 		{
 			"key": "花花",
-			"name": "花花",
+			"name": "花花┃XBPQ",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
@@ -186,10 +186,10 @@
 				"分类url": "https://hua355.vip/vodshow/{cateId}-{area}-{by}-{class}-{lang}-------{catePg}{year}.html"
 			}
 		},
-	{"key":"追影猫","name":"追影猫","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"数组":"module-poster-item module-item\"&&</div>","分类":"电影$1#电视剧$2#综艺$3#动漫$4#纪录片$41#","分类url":"https://zhuiyingmao1.com/vodshow/{cateId}-{area}-{by}-{class}--------{year}.html"}},
+
 		{
 			"key": "土豪影视",
-			"name": "土豪影视",
+			"name": "土豪影视┃XBPQ",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
@@ -201,22 +201,15 @@
 				"分类url": "https://www.tuhao.tv/vsh/{cateId}-{class}-{by}-{area}-{lang}-------{year}.html"
 			}
 		},
-		{
-			"key": "端木",
-			"name": "端木",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": {
-				"分类": "电影$1#连续剧$2#综艺3#动漫$4#纪录片$29#",
-				"分类url": "http://dmsvip.top/vodshow/{cateId}--{by}---------{catePg}{year}.html"
-			}
-		},
+		{"key":"LibVio","name":"LibVio┃XBPQ","type":3,"api":"csp_XBPQ","ext":{"分类": "电影$1#剧集$2#综艺$3#动漫$4#日韩剧$15#欧美剧$16","分类url": "https://tv.libvio.cc/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;cmal"}},
+{"key":"慢大浪","name":"慢大浪┃XBPQ","type":3,"api":"csp_XBPQ","ext":{"分类":"电影$2#连续剧$1#综艺$3#动漫$4#纪录片$5","分类url":"https://mdlys.vip/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}.html","线路数组": "class=\"swiper-slide\">&&</a>","线路标题": "</i>&nbsp;&&</a>"}},
+{"key":"爱看","name":"爱看┃XBPQ","type":3,"api":"csp_XBPQ","ext":{"分类":"电影$1#连续剧$2#综艺$3#动漫$4","分类url":"https://www.k7yy.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;mal"}},
+
+		{"key":"端木","name":"端木","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"分类":"电影$1#连续剧$2#综艺3#动漫$4#纪录片$29#","分类url":"http://dmsvip.top/vodshow/{cateId}--{by}-{class}-{lang}-------{catePg}{year}.html"}},
+
 		{
 			"key": "23影视",
-			"name": "23影视",
+			"name": "23影视┃XBPQ",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
@@ -230,7 +223,7 @@
 		},
 		{
 			"key": "csp_XYQHiker_234影视",
-			"name": "😦234影视",
+			"name": "😦234影视┃XBPQ",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"playerType": 2,
