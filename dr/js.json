@@ -195,7 +195,7 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": {
-				"数组": "a href=\"/voddetail/&&class=\"module-poster-item-title\"",
+				"数组": "a href=\"/voddetail/&&class=\"module-poster-item-title",
 				"分类": "电影$1#电视剧$2#综艺$3#动漫$4#纪录片$41#",
 				"分类url": "https://zhuiyingmao1.com/vodshow/{cateId}-{area}-{by}-{class}--------{year}.html"
 			}
