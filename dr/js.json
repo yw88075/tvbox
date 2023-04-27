@@ -334,6 +334,22 @@
 				"分类url": "https://kan3456.cc/index.php/vod/show/by/{by}/id/{cateId}/lang/{lang}/year/{year}/page/{catePg}.html"
 			}
 		},
+		
+{
+			"key": "电影先生",
+			"name": "电影先生┃XBPQ",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": {
+				"数组": "class=\"module-item\">&&class=\"module-item-title\"",
+				"分类": "电影$dianying#剧集$dianshiju#综艺$zongyi#动漫$dongman#",
+				"搜索图片": "data-src=\"&&\"",
+				"分类url": "https://www.dianyi.ng/pianku-{cateId}-{area}-{by}-{class}-{lang}-------{catePg}{year}.html"
+			}
+		},
 		{
 			"key": "csp_XYQHiker_234影视",
 			"name": "😦234影视┃XBPQ",
