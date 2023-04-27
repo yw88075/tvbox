@@ -312,7 +312,7 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": {
-				"数组": "class=\"module-item\"&class=\"module-item-title\"",
+				"数组": "class=\"module-item\"&&class=\"module-item-title\"",
 				"分类": "电影$1#剧集$2#综艺$3#动漫$4#纪录片$20#",
 				"搜索图片": "data-src=\"&&\"",
 				"分类url": "https://www.hoho.tv/vod/show/{cateId}/area/{area}/class/{class}/year/{year}.html"
