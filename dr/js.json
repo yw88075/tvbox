@@ -129,7 +129,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": {
-				"分类": "电影$1#剧集$2#动漫$4#综艺$3#纪录$5",
+				"分类": "电影$id-1#剧集$id-2#动漫$id-4#综艺$id-3#纪录$id-5",
 				"分类url": "http://www.yilonghd.com/show/id-{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html;;val"
 			}
 		},
