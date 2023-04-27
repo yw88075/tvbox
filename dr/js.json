@@ -291,14 +291,14 @@
 		},
 		{
 			"key": "朴樱影视",
-			"name": " 👍朴樱影视┃XBPQ",
+			"name": "朴樱影视",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": {
-				"数组": "class=\"module-item\">&&</a>",
+				"数组": "class=\"module-item\">&&module-item-text",
 				"分类": "电影$1#剧集$2#综艺$3#动漫$4#哔哩$36#",
 				"分类url": "https://pyys.art/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/{year}/page/{catePg}.html"
 			}
