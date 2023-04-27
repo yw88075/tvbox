@@ -188,7 +188,7 @@
 		},
 		{
 			"key": "土豪影视",
-			"name": "土豪影视┃XBPQ",
+			"name": "11土豪影视┃XBPQ",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
@@ -197,7 +197,7 @@
 			"ext": {
 				"数组": "class=\"module-item\">&&</a>",
 				"分类": "电影$1#剧集$2#综艺$3#动漫$4#纪录片$5#体育$56#",
-				"图片":"data-src=\"&&src="
+				"图片":"data-src=\"&&src=",
 				"分类url": "https://www.tuhao.tv/vsh/{cateId}-{class}-{by}-{area}-{lang}-------{year}.html"
 			}
 		},
