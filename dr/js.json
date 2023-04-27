@@ -187,8 +187,8 @@
 			}
 		},
 		{
-			"key": "11土豪影视",
-			"name": "土豪影视┃XBPQ",
+			"key": "土豪影视",
+			"name": "11土豪影视┃XBPQ",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
