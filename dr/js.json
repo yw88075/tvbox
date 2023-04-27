@@ -312,10 +312,10 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": {
-				"数组": "class=\"module-item\">&class=\"module-item-title\"",
+				"数组": "class=\"module-item\"&class=\"module-item-title\"",
 				"分类": "电影$1#剧集$2#综艺$3#动漫$4#纪录片$20#",
 				"搜索图片": "data-src=\"&&\"",
-				"分类url": "https://www.hoho.tv/vod/show/{cateId}/area/{area}/class/{class}/year/{year}/page/{catePg}.html"
+				"分类url": "https://www.hoho.tv/vod/show/{cateId}/area/{area}/class/{class}/year/{year}.html"
 			}
 		},
 
@@ -353,13 +353,7 @@
 			"api": "./lib/drpy2.min.js",
 			"ext": "./js/莫扎兔.js"
 		},
-		{
-			"key": "drpy_js_乐动影视",
-			"name": " 乐动影视 ",
-			"type": 3,
-			"api": "./lib/drpy2.min.js",
-			"ext": "./js/乐动影视.js"
-		},
+	
 		{
 			"key": "csp_Vofl",
 			"name": "😗Vofl",
