@@ -312,10 +312,26 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": {
-				"数组": "class=\"module-item\">&&module-item-text",
+				"数组": "class=\"module-item\">&class=\"module-item-title\"",
 				"分类": "电影$1#剧集$2#综艺$3#动漫$4#纪录片$20#",
 				"搜索图片": "data-src=\"&&\"",
 				"分类url": "https://www.hoho.tv/vod/show/id/{cateId}/area/{area}/class/{class}/year/{year}/page/{catePg}.html"
+			}
+		},
+
+{
+			"key": "孜然影视",
+			"name": "孜然影视┃XBPQ",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": {
+				"数组": "class=\"module-item\">&&class=\"module-item-title\"",
+				"分类": "电影$1#剧集$2#综艺$3#动漫$4#",
+				"搜索图片": "data-src=\"&&\"",
+				"分类url": "https://kan3456.cc/index.php/vod/show/by/{by}/id/{cateId}/lang/{lang}/year/{year}/page/{catePg}.html"
 			}
 		},
 		{
@@ -657,16 +673,7 @@
 			"filterable": 1,
 			"ext": "./XBPQ/喵影视.json"
 		},
-		{
-			"key": "孜然影视",
-			"name": " 🤯孜然影视",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./XBPQ/孜然影视.json"
-		},
+		
 		{
 			"key": "大豆高清",
 			"name": "❤ 大豆高清",
