@@ -424,6 +424,21 @@
 			}
 		},
 		{
+			"key": "HDMOli",
+			"name": "HDmoli┃XBPQ",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": {
+				"数组": "class=\"module-item\">&&class=\"module-item-title\"",
+				"分类": "电影$index1#剧集$index2#动漫$index141#",
+				"搜索图片": "class=\"myui-vodlist__box\"&&class=\"text text-overflow text-muted hidden-xs\"",
+				"分类url": "https://www.hdmoli.com/search.php?area={area}&jq=%{class}&searchtype=5&tid=6&year={year}"
+			}
+		},
+		{
 			"key": "csp_XYQHiker_234影视",
 			"name": "😦234影视┃XBPQ",
 			"type": 3,
