@@ -365,19 +365,18 @@
 		},
 		{
 			"key": "在线之家",
-			"name": "在线之家┃XBPQ",
+			"name": "11在线之家┃XBPQ",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": {
-				"数组": "class=\"stui-vodlist__box\"&&title",
+				"数组": "class=\"stui-vodlist__box\"&&</div>",
 				"分类": "电影$1#美剧$2#韩剧$3#日剧$4#泰剧$5#动漫$6#",
 				
 				"分类url": "https://www.zxzjhd.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-------{catePg}{year}.html"
-			}
-		},
+		
 		{
 			"key": "csp_XYQHiker_234影视",
 			"name": "😦234影视┃XBPQ",
