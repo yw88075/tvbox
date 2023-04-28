@@ -813,13 +813,7 @@
 			"api": "./lib/drpy2.min.js",
 			"ext": "./js/新片场.js"
 		},
-		{
-			"key": "drpy_js_诺讯影视",
-			"name": " 诺讯影视 ",
-			"type": 3,
-			"api": "./lib/drpy2.min.js",
-			"ext": "./js/诺讯影视.js"
-		},
+		
 		{
 			"key": "drpy_js_539影院",
 			"name": " 539影院 ",
@@ -1103,13 +1097,7 @@
 			"api": "./lib/drpy2.min.js",
 			"ext": "./js/NY影院.js"
 		},
-		{
-			"key": "drpy_js_TV蜂影院",
-			"name": " TV蜂影院 ",
-			"type": 3,
-			"api": "./lib/drpy2.min.js",
-			"ext": "./js/TV蜂.js"
-		},
+		
 		{
 			"key": "drpy_js_vidhub",
 			"name": " vidhub ",
@@ -1131,13 +1119,7 @@
 			"api": "./lib/drpy2.min.js",
 			"ext": "./js/爱迪影视.js"
 		},
-		{
-			"key": "drpy_js_尘落影视",
-			"name": " 尘落影视 ",
-			"type": 3,
-			"api": "./lib/drpy2.min.js",
-			"ext": "./js/尘落影视.js"
-		},
+		
 		{
 			"key": "drpy_js_楚门影院",
 			"name": " 楚门影院 ",
@@ -1152,20 +1134,8 @@
 			"api": "./lib/drpy2.min.js",
 			"ext": "./js/大师兄影视.js"
 		},
-		{
-			"key": "drpy_js_碟调影视",
-			"name": " 碟调影视 ",
-			"type": 3,
-			"api": "./lib/drpy2.min.js",
-			"ext": "./js/碟调影视.js"
-		},
-		{
-			"key": "drpy_js_浮生半日",
-			"name": " 浮生半日 ",
-			"type": 3,
-			"api": "./lib/drpy2.min.js",
-			"ext": "./js/浮生半日.js"
-		},
+		
+		
 		{
 			"key": "drpy_js_捷华影视",
 			"name": " 捷华影视 ",
@@ -1250,13 +1220,7 @@
 			"api": "./lib/drpy2.min.js",
 			"ext": "./js/霹雳影视.js"
 		},
-		{
-			"key": "drpy_js_七时影院",
-			"name": " 七时影院 ",
-			"type": 3,
-			"api": "./lib/drpy2.min.js",
-			"ext": "./js/七小时影院.js"
-		},
+		
 		{
 			"key": "drpy_js_起飞影院",
 			"name": " 起飞影院 ",
@@ -1963,6 +1927,14 @@
 				]
 			}
 		},
+		{
+    "code": 200,
+    "success": 1,
+    "type": ".m3u8",
+    "url": "https://www.itvbox.cc/bhcx.php?key=OE%2FuX1xzk38jfWVOq7N1modwOFH3wvnPFxRBAp4EksPEHg369CrdCt8Ij8nnlyONzrSTNryyQH8MSN4892wtJBoOOMnnJLAAlwiyihqrhVqtAJhLkdRLd44V2ChOWziHCPOqY38FCbMh42d0c1S%2B4oOPupWxBaDFSWgYRXz%2Ff1w%3D.m3u8",
+    "player": "dplayer",
+    "metareferer": "never"
+}
 		{
 			"name": "综合",
 			"type": 0,
