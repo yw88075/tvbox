@@ -315,7 +315,7 @@
 				"数组": "class=\"module-item\"&&class=\"module-item-title\"",
 				"分类": "电影$1#剧集$2#综艺$3#动漫$4#纪录片$20#",
 				"搜索图片": "data-src=\"&&\"",
-				"分类url": "https://www.hoho.tv/vod/show/{cateId}/area/{area}/class/{class}/year/{year}.html"
+				"分类url": "https://www.hoho.tv/vod/show/{cateId}/area/{area}/class/{class}/year/{year}/page/{catePg}.html"
 			}
 		},
 		{
@@ -372,7 +372,7 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": {
-				"数组": "class=\"stui-vodlist__thumb lazyload\"&&</a></h4>",
+				"数组": "class=\"tv\"&&</a></h4>",
 				"分类": "电影$1#美剧$2#韩剧$3#日剧$4#泰剧$5#动漫$6#",
 				
 				"分类url": "https://www.zxzjhd.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-------{catePg}{year}.html"
