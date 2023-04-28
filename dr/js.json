@@ -371,14 +371,16 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": {
-				"数组": "class=\"stui-vodlist__thumb lazyload\"&&</h4></div>",
+				"数组": "class=\"stui-vodlist__box&&</div>",
+
 				"分类": "电影$1#美剧$2#韩剧$3#日剧$4#泰剧$5#动漫$6#",
+				
 				"分类url": "https://www.zxzjhd.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-------{catePg}{year}.html"
 			}
 		},
 		{
 			"key": "麦豆",
-			"name": "麦豆┃XBPQ",
+			"name": " 🌱麦豆┃XBPQ",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
@@ -389,6 +391,21 @@
 				"分类": "电影$1#剧集$2#动漫$4#综艺$3#",
 				
 				"分类url": "https://www.mdoutv.cc/vodshow/{cateId}-{area}-{by}-{class}-{lang}-------{catePg}{year}.html"
+			}
+		},
+		{
+			"key": "麻花",
+			"name": "麻花电影┃XBPQ",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": {
+				"数组": "class=\"myui-vodlist__box\"&&</div>",
+				"分类": "电影$mhdy#剧集$mhds#动漫$mhdm#综艺$mhzy#午夜剧场$wyjc#",
+				
+				"分类url": "https://www.mhyyy.com/show/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/year/{year}page/{catePg}.html"
 			}
 		},
 		{
