@@ -439,6 +439,21 @@
 			}
 		},
 		{
+			"key": "端木",
+			"name": "端木┃XBPQ",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": {
+				"数组": "class=\"module-item\"&&class=\"module-item-text\"",
+				"分类": "电影$1#剧集$2#动漫$4#综艺$3#纪录片$29#",
+				
+				"分类url": "http://dmsvip.top/vodshow/{cateId}-{area}-{by}-{class}-{lang}-------{catePg}{year}.html"
+			}
+		},
+		{
 			"key": "csp_XYQHiker_234影视",
 			"name": "😦234影视┃XBPQ",
 			"type": 3,
