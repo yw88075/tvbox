@@ -363,9 +363,9 @@
 				"分类url": "https://www.siguyy.com/show/{cateId}-{area}-{by}-{class}--------{catePg}{year}.html"
 			}
 		},
-		{
+	{
 			"key": "在线之家",
-			"name": "11在线之家┃XBPQ",
+			"name": "在线之家┃XBPQ",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
@@ -376,6 +376,8 @@
 				"分类": "电影$1#美剧$2#韩剧$3#日剧$4#泰剧$5#动漫$6#",
 				
 				"分类url": "https://www.zxzjhd.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-------{catePg}{year}.html"
+			}
+		},
 		
 		{
 			"key": "csp_XYQHiker_234影视",
