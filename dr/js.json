@@ -455,7 +455,7 @@
 		},
 		{
 			"key": "大师兄",
-			"name": "大师兄┃XBPQ",
+			"name": " 🤠大师兄┃XBPQ",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
@@ -466,6 +466,21 @@
 				"分类": "电影$1#剧集$2#动漫$4#综艺$3#",
 				
 				"分类url": "https://dsxys.pro/vodshow/{cateId}-{area}-{by}-{class}-{lang}-------{catePg}{year}.html"
+			}
+		},
+		{
+			"key": "看了么",
+			"name": "看了么┃XBPQ",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": {
+				"数组": "class=\"dx-vod\"&&</div>",
+				"分类": "电影$dy#剧集$tv#动漫$dm#记录片$jl#",
+				
+				"分类url": "https://www.ksksl.com/show/{cateId}/area/{area}/by/{by}/class/{class}/year/{year}/page/{catePg}.html"
 			}
 		},
 		{
