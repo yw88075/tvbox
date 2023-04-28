@@ -402,7 +402,7 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": {
-				"数组": "class=\"myui-vodlist__box\"&&</div>",
+				"数组": "<a\"&&class=\"module-poster-item-title\"",
 				"分类": "电影$mhdy#剧集$mhds#动漫$mhdm#综艺$mhzy#午夜剧场$wyjc#",
 				
 				"分类url": "https://www.mhyyy.com/show/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/year/{year}page/{catePg}.html"
