@@ -365,14 +365,14 @@
 		},
 	{
 			"key": "在线之家",
-			"name": "431在线之家┃XBPQ",
+			"name": "在线之家┃XBPQ",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": {
-				"数组": "class=\"tv\"&&</a></h4>",
+				
 				"分类": "电影$1#美剧$2#韩剧$3#日剧$4#泰剧$5#动漫$6#",
 				
 				"分类url": "https://www.zxzjhd.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-------{catePg}{year}.html"
