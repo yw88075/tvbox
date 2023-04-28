@@ -348,18 +348,18 @@
 				"分类url": "https://www.dianyi.ng/pianku-{cateId}-{area}-{by}-{class}-{lang}-------{catePg}{year}.html"
 			}
 		},
-		{
+	{
 			"key": "思古影视",
-			"name": "思古影视┃XBPQ",
+			"name": "11思古影视┃XBPQ",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": {
-				"数组": "class=\"module-item\">&&class=\"module-item-title\"",
+				"数组": "class=\"myui-vodlist__box\"&&class=\"col-lg-6 col-md-6 col-sm-4 col-xs-3\"",
 				"分类": "电影$m#剧集$tv#动漫$ct#综艺$va#",
-				"搜索图片": "class=\"myui-vodlist__box\"&&class=\"text text-overflow text-muted hidden-xs\"",
+				
 				"分类url": "https://www.siguyy.com/show/{cateId}-{area}-{by}-{class}--------{catePg}{year}.html"
 			}
 		},
