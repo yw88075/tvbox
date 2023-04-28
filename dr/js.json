@@ -408,6 +408,21 @@
 				"分类url": "https://www.mhyyy.com/show/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/year/{year}/page/{catePg}.html"
 			}
 		},
+			{
+			"key": "臭蛋蛋",
+			"name": " 😀臭蛋蛋┃XBPQ",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": {
+				"数组": "<a&&class=\"module-poster-item-title\"",
+				"分类": "电影$1#剧集$2#动漫$4#综艺$3#纪录片$38#",
+				
+				"分类url": "https://cddys.vip/vodshow/{cateId}-{area}-{by}-{class}-{lang}-------{catePg}{year}.html"
+			}
+		},
 		{
 			"key": "csp_XYQHiker_234影视",
 			"name": "😦234影视┃XBPQ",
