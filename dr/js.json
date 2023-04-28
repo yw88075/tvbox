@@ -1916,13 +1916,11 @@
         ]
       }
     },
-    {
-      "code": 200,
-      "success": 1,
-      "type": ".m3u8",
-      "url": "https://www.itvbox.cc/bhcx.php?key=OE%2FuX1xzk38jfWVOq7N1modwOFH3wvnPFxRBAp4EksPEHg369CrdCt8Ij8nnlyONzrSTNryyQH8MSN4892wtJBoOOMnnJLAAlwiyihqrhVqtAJhLkdRLd44V2ChOWziHCPOqY38FCbMh42d0c1S%2B4oOPupWxBaDFSWgYRXz%2Ff1w%3D.m3u8",
-      "player": "dplayer",
-      "metareferer": "never"
+   
+     {
+      "name": "itv",
+      "type": 0,
+      "url": "https://www.itvbox.cc/bhcx.php?key=OE%2FuX1xzk38jfWVOq7N1modwOFH3wvnPFxRBAp4EksPEHg369CrdCt8Ij8nnlyONzrSTNryyQH8MSN4892wtJBoOOMnnJLAAlwiyihqrhVqtAJhLkdRLd44V2ChOWziHCPOqY38FCbMh42d0c1S%2B4oOPupWxBaDFSWgYRXz%2Ff1w%3D.m3u8"
     },
     {
       "name": "综合",
