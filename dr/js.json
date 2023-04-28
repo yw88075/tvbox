@@ -395,7 +395,7 @@
 		},
 		{
 			"key": "麻花",
-			"name": "麻花电影┃XBPQ",
+			"name": " 🥵麻花电影┃XBPQ",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
@@ -405,7 +405,7 @@
 				"数组": "<a&&class=\"module-poster-item-title\"",
 				"分类": "电影$mhdy#剧集$mhds#动漫$mhdm#综艺$mhzy#午夜剧场$wyjc#",
 				
-				"分类url": "https://www.mhyyy.com/show/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/year/{year}page/{catePg}.html"
+				"分类url": "https://www.mhyyy.com/show/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/year/{year}/page/{catePg}.html"
 			}
 		},
 		{
