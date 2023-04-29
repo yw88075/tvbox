@@ -120,19 +120,19 @@
         "喜剧片"
       ]
     },
-    {
-      "key": "csp_XBPQ_一龙影视",
-      "name": " 🐉一龙影视┃XBPQ",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "分类": "电影$id-1#剧集$id-2#动漫$id-4#综艺$id-3#纪录$id-5",
-        "分类url": "http://www.yilonghd.com/show/id-{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html;;val"
-      }
-    },
+{
+			"key": "csp_XBPQ_一龙影视",
+			"name": " 11??一龙影视┃XBPQ",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": {
+				"分类": "电影$id-1#剧集$id-2#动漫$id-4#综艺$id-3#纪录$id-5",
+				"分类url": "http://www.yilonghd.com/show/id-{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html"
+			}
+		},
     {
       "key": "drpy_js_农民",
       "name": "😆  农民 ",
@@ -364,7 +364,7 @@
     },
    {
 			"key": "在线之家",
-			"name": "11在线之家┃XBPQ",
+			"name": "在线之家┃XBPQ",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
