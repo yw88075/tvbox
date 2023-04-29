@@ -1,5 +1,5 @@
 {
-	"spider": "./fty0417.jar",
+	"spider": "./fty0429.jar",
 	"sites": [
 		{
 			"key": "drpy_js_豆瓣",
@@ -133,6 +133,7 @@
 				"分类url": "http://www.yilonghd.com/show/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html"
 			}
 		},
+		
 		{
 			"key": "drpy_js_农民",
 			"name": "😆  农民 ",
@@ -374,6 +375,36 @@
 				"数组": "class=\"stui-vodlist__box&&</div>",
 				"分类": "电影$1#美剧$2#韩剧$3#日剧$4#泰剧$5#动漫$6#",
 				"分类url": "https://www.zxzjhd.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"
+			}
+		},
+		{
+			"key": "FREEOK",
+			"name": " ☺FREEOK┃XBPQ",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": {
+				"数组": "<a&&class=\"module-poster-item-title\"",
+				"分类": "电影$1#剧集$2#动漫$3#综艺$4#",
+				
+				"分类url": "https://www.freeok.vip/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"
+			}
+		},
+		{
+			"key": "热播之家",
+			"name": " 👻热播之家┃XBPQ",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": {
+				"数组": "class=\"stui-vodlist__box\"&&</li>",
+				"分类": "电影$1#剧集$2#动漫$4#综艺$5#纪录片$3#",
+				
+				"分类url": "https://rebozj.pro/show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"
 			}
 		},
 		{
