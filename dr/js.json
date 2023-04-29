@@ -511,6 +511,16 @@
       "api": "./lib/drpy2.min.js",
       "ext": "./js/冷曦影视.js"
     },
+	{
+			"key": "csp_Bili",
+			"name": "哔哔合集",
+			"type": 3,
+			"api": "csp_Bili",
+			"searchable": 1,
+			"quickSearch": 0,
+			"filterable": 0,
+			"ext": "./bilibili.json"
+		},
     {
       "key": "drpy_js_FreeOK",
       "name": " FreeOK ",
@@ -717,13 +727,7 @@
       "api": "./lib/drpy2.min.js",
       "ext": "./js/南柯电影网.js"
     },
-    {
-      "key": "drpy_js_我的哔哩",
-      "name": " 🤭我的哔哩 ",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/我的哔哩.js"
-    },
+   
     {
       "key": "csp_panghu",
       "name": "胖虎",
@@ -1179,13 +1183,7 @@
       "api": "./lib/drpy2.min.js",
       "ext": "./js/零度影视.js"
     },
-    {
-      "key": "drpy_js_B站影视",
-      "name": " B站影视 ",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/B站影视.js"
-    },
+  
     {
       "key": "drpy_js_哔哩影视",
       "name": " 哔哩影视 ",
