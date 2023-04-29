@@ -385,12 +385,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": {
-				"数组": "<a&&class=\"module-poster-item-title\"",
-				"分类": "电影$1#剧集$2#动漫$3#综艺$4#",
-				
-				"分类url": "https://www.freeok.vip/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"
-			}
+			"ext": "./xbpq/freeok.json"
 		},
 		{
 			"key": "热播之家",
