@@ -183,7 +183,7 @@
       "filterable": 0,
       "ext": {
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4#纪录片$22#",
-        "分类url": "https://hua355.vip/vodshow/{cateId}-{area}-{by}-{class}-{lang}-------{catePg}{year}.html"
+        "分类url": "https://hua355.vip/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"
       }
     },
     {
@@ -198,7 +198,7 @@
         "数组": "class=\"module-item\">&&module-item-text",
         "分类": "电影$1#剧集$2#综艺$3#动漫$4#纪录片$5#体育$56#",
         "搜索图片": "data-src=\"&&\"",
-        "分类url": "https://www.tuhao.tv/vsh/{cateId}-{class}-{by}-{area}-{lang}-------{catePg}{year}.html"
+        "分类url": "https://www.tuhao.tv/vsh/{cateId}-{class}-{by}-{area}-{lang}----{catePg}---{year}.html"
       }
     },
     {
@@ -244,7 +244,7 @@
       "ext": {
         "数组": "class=\"module-item\">&&module-item-text",
         "分类": "电影$1#剧集$2#综艺$3#动漫$4#纪录片$5#体育$56#",
-        "分类url": "https://www.6080dy3.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-------{catePg}{year}.html"
+        "分类url": "https://www.6080dy3.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"
       }
     },
     {
@@ -258,7 +258,7 @@
       "ext": {
         "数组": "<a&&class=\"module-poster-item-title\"",
         "分类": "电影$1#剧集$2#综艺$3#动漫$5#纪录片$4#",
-        "分类url": "https://www.fuxiafood.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-------{catePg}{year}.html"
+        "分类url": "https://www.fuxiafood.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"
       }
     },
     {
@@ -272,7 +272,7 @@
       "ext": {
         "数组": "<a&&class=\"module-poster-item-title\"",
         "分类": "电影$1#剧集$2#综艺$3#动漫$4#纪录片$5#",
-        "分类url": "https://tv1920.com/vodshow/{cateId}-{area}-{by}-{class}--------{catePg}{year}.html"
+        "分类url": "https://tv1920.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html"
       }
     },
     {
@@ -345,7 +345,7 @@
         "数组": "class=\"module-item\">&&class=\"module-item-title\"",
         "分类": "电影$dianying#剧集$dianshiju#综艺$zongyi#动漫$dongman#",
         "搜索图片": "data-src=\"&&\"",
-        "分类url": "https://www.dianyi.ng/pianku-{cateId}-{area}-{by}-{class}-{lang}-------{catePg}{year}.html"
+        "分类url": "https://www.dianyi.ng/pianku-{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"
       }
     },
     {
@@ -359,7 +359,7 @@
       "ext": {
         "数组": "class=\"myui-vodlist__box\"&&class=\"col-lg-6 col-md-6 col-sm-4 col-xs-3\"",
         "分类": "电影$m#剧集$tv#动漫$ct#综艺$va#",
-        "分类url": "https://www.siguyy.com/show/{cateId}-{area}-{by}-{class}--------{catePg}{year}.html"
+        "分类url": "https://www.siguyy.com/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html"
       }
     },
    {
@@ -389,7 +389,7 @@
       "ext": {
         "数组": "class=\"myui-vodlist__box\"&&</div>",
         "分类": "电影$1#剧集$2#动漫$4#综艺$3#",
-        "分类url": "https://www.mdoutv.cc/vodshow/{cateId}-{area}-{by}-{class}-{lang}-------{catePg}{year}.html"
+        "分类url": "https://www.mdoutv.cc/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"
       }
     },
     {
@@ -417,7 +417,7 @@
       "ext": {
         "数组": "<a&&class=\"module-poster-item-title\"",
         "分类": "电影$1#剧集$2#动漫$4#综艺$3#纪录片$38#",
-        "分类url": "https://cddys.vip/vodshow/{cateId}-{area}-{by}-{class}-{lang}-------{catePg}{year}.html"
+        "分类url": "https://cddys.vip/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"
       }
     },
     {
@@ -460,7 +460,7 @@
       "ext": {
         "数组": "<a&&class=\"module-poster-item-title\"",
         "分类": "电影$1#剧集$2#动漫$4#综艺$3#",
-        "分类url": "https://dsxys.pro/vodshow/{cateId}-{area}-{by}-{class}-{lang}-------{catePg}{year}.html"
+        "分类url": "https://dsxys.pro/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"
       }
     },
     {
@@ -570,19 +570,15 @@
       "api": "./lib/drpy2.min.js",
       "ext": "./js/凌云影视.js"
     },
-    {
-      "key": "csp_XBPQ_神马电影",
-      "name": "神马电影",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "分类": "电影$1#电视剧$2#综艺$4#动漫$3#日韩剧$15#欧美剧$16",
-        "分类url": "http://www.smdyy.cc/show/{cateId}-{area}-{by}--{lang}-------{catePg}{year}.html"
-      }
-    },
+       "key": "csp_XBPQ_神马电影",  
+            "name": "神马电影",  
+            "type": 3,  
+            "api": "csp_XBPQ",  
+            "searchable": 1,  
+            "quickSearch": 1,  
+            "filterable": 1,  
+            "ext": {"分类":"电影$1#电视剧$2#综艺$4#动漫$3#日韩剧$15#欧美剧$16","分类url":"http://www.smdyy.cc/show/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html"}
+        },
     {
       "key": "白狐影视",
       "name": " 🦊白狐影视",
@@ -593,7 +589,7 @@
       "filterable": 0,
       "ext": {
         "分类": "电影$1#电视剧$2#动漫$3#综艺$4#",
-        "分类url": "https://www.bhxoxo.com/fl/{cateId}--{by}---------{catePg}.html"
+        "分类url": "https://www.bhxoxo.com/fl/{cateId}--{by}------{catePg}---.html"
       }
     },
     {
