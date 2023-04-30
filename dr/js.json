@@ -133,6 +133,16 @@
 				"分类url": "http://www.yilonghd.com/show/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html"
 			}
 		},
+		 {
+			"key": "7itv",
+			"name": "7itv┃XBPQ",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "./XBPQ/7itv.json"
+		},
 		{
 			"key": "drpy_js_农民",
 			"name": "😆  农民 ",
@@ -531,34 +541,7 @@
 			"api": "./lib/drpy2.min.js",
 			"ext": "./js/莫扎兔.js"
 		},
-		{
-			"key": "真爱",
-			"name": "真爱┃XBPQ",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": {
-				"数组": "vodlist_thumb lazyload&&</p></div>",
-				"分类": "电影$1#剧集$2#动漫$4#综艺$3#",
-				"分类url": "https://www.chiguafilm.com/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/year/{year}/page/{catePg}.html"
-			}
-		},
-		{
-			"key": "无名",
-			"name": "无名┃XBPQ",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": {
-				"数组": "class=\"vod_item mdui-col\"&&</span></a>",
-				"分类": "电影$1#剧集$2#动漫$4#综艺$3#纪录$5#",
-				"分类url": "https://blssv.com/vodshow-{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}/.html"
-			}
-		},
+		
 		{
 			"key": "csp_Vofl",
 			"name": "😗Vofl",
