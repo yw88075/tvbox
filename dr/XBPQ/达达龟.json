@@ -1,19 +1,19 @@
 {
   "作者": "心魔",
-  "站名": "北川影视",
-  "主页url": "https://www.bczhuiju.com/",
+  "站名": "达达龟",
+  "主页url": "http://www.dadagui.me/",
   "热门": "",
   
   "分类": "电影$1#剧集$2#动漫$4#综艺$3#",
   
-  "分类url": "https://www.bczhuiju.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+  "分类url": "http://www.dadagui.me/vodshow/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html",
   
-  "数组": "<a&&module-poster-item-title",
+  "数组": "stui-vodlist__box&&</h4>",
   "副标题": "title\">&&</div>",
   
   "搜索模式": "1",
-  "搜索url": "https://www.bczhuiju.com/vodsearch/?wd={wd}",
-  "搜索数组": "<a&&module-card-item-class",
+  "搜索url": "http://www.dadagui.me/vodsearch/-------------={wd}",
+  "搜索数组": "",
   "搜索副标题": "",
   
   "影片年代": "",
