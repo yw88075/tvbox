@@ -13,7 +13,7 @@
   
   "搜索模式": "1",
   "搜索url": "http://www.tvyb03.com/vod/search.html?wd={wd}&submit=",
-  "搜索数组": "class=\"detail\"</div>",
+  "搜索数组": "class=\"detail\&&</div>",
   "搜索副标题": "title=\"&&\"",
   
   "影片年代": "",
