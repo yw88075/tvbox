@@ -8,8 +8,9 @@
   
   "分类url": "https://www.lyys8.com/list/movie-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
   
-  "数组": "<a&&</div>",
+  "数组": "li-img&&</div>",
   "副标题": "title\">&&</div>",
+  "图片": "data-src=\"&&\"",
   
   "搜索模式": "1",
   "搜索url": "https://www.lyys8.com/s.html?wd={wd}",
@@ -22,10 +23,10 @@
   "导演":"导演：&&</p>",
   "主演":"主演：&&</p>",
   "简介":"简介：&&</p>",
-  "线路数组": "",
-  "线路标题": "",
   
-  "播放数组": "",
+  "线路数组": "<li class=\"\"&&</li>",
+  "线路标题": ">&&</small>",
+    "播放数组": "player ckp&&</ul>",
   
   "筛选":{
 "1":[
