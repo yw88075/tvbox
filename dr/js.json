@@ -511,6 +511,7 @@
 				"分类url": "http://dmsvip.top/vodshow/{cateId}-{area}-{by}-{class}-{lang}-------{catePg}{year}.html"
 			}
 		},
+		
 		{
 			"key": "大师兄",
 			"name": " 🤠大师兄┃XBPQ",
@@ -524,6 +525,26 @@
 				"分类": "电影$1#剧集$2#动漫$4#综艺$3#",
 				"分类url": "https://dsxys.pro/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"
 			}
+		},
+		{
+			"key": "霹雳影视",
+			"name": "霹雳影视┃XBPQ",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext":  "./XBPQ/霹雳影视.json"
+		},
+		  {
+			"key": "NIKETV",
+			"name": "NIKETV┃XBPQ",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext":"./XBPQ/NIKETV.json"
 		},
 		{
 			"key": "看了么",
@@ -725,13 +746,7 @@
 			"api": "./lib/drpy2.min.js",
 			"ext": "./js/真不卡.js"
 		},
-		{
-			"key": "drpy_js_伊雪湾",
-			"name": "❤ 伊雪湾 ",
-			"type": 3,
-			"api": "./lib/drpy2.min.js",
-			"ext": "./js/伊雪湾.js"
-		},
+		
 		{
 			"key": "drpy_js_1080P",
 			"name": " 1080P ",
