@@ -1,20 +1,20 @@
 {
   "作者": "心魔",
-  "站名": "霹雳影视",
-  "主页url": "https://plyingshi.com/",
+  "站名": "NIKETV",
+  "主页url": "https://www.ajeee.com/",
   "热门": "",
   
-  "分类": "电影$1#剧集$2#动漫$4#综艺$3#纪录$41#",
+  "分类": "电影$Movie#剧集$Tv#动漫$Cartoon#综艺$Variety#",
   
-  "分类url": "https://plyingshi.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+  "分类url": "https://www.ajeee.com/show/{cateId}/area/{area}/by/{by}/class/{class}/{lang}/page/{catePg}/year/{year}.html",
   
-  "数组": "class=\"module-item\"&&module-item-text",
+  "数组": "<a&&module-poster-item-title",
   "副标题": "title\">&&</div>",
   
   "搜索模式": "1",
-  "搜索url": "https://plyingshi.com/vodsearch/-------------.html?wd={wd}",
-  "搜索数组": "",
-  "搜索副标题": "",
+  "搜索url": "/search.html?wd={wd}",
+  "搜索数组": "module-card-item-info&&</span></a>",
+  "搜索副标题": "title=\"&&\"",
   
   "影片年代": "",
   "影片类型": "",
