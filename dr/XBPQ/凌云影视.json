@@ -4,7 +4,7 @@
   "主页url": "https://www.lyys8.com/",
   "热门": "",
   
-  "分类": "电影$movie#剧集$tv.#动漫$cartoon#综艺$variety#",
+  "分类": "电影$movie#剧集$tv#动漫$cartoon#综艺$variety#",
   
   "分类url": "https://www.lyys8.com/list/movie-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
   
