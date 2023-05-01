@@ -608,6 +608,28 @@
 	
         },
 		{
+            "key": "两个BT",
+            "name": "两个BT┃XBPQ",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "./XBPQ/两个BT.json"
+	
+        },
+		{
+            "key": "快看影视",
+            "name": "快看影视┃XBPQ",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "./XBPQ/快看影视.json"
+	
+        },
+		{
 
 			"key": "csp_XYQHiker_234影视",
 			"name": "😦234影视┃XBPQ",
