@@ -630,6 +630,16 @@
 	
         },
 		{
+			"key": "豆巴影视",
+			"name": "豆巴影视┃XBPQ",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "./XBPQ/豆巴影视.json"
+		},
+		{
 
 			"key": "csp_XYQHiker_234影视",
 			"name": "😦234影视┃XBPQ",
