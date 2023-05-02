@@ -9,13 +9,13 @@
   "分类url": "https://brovod.com/show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
   
   "数组": "module-item&&module-item-titlebox",
-  "副标题": "title\">&&</div>",
-  "图片": "data-src=\"&&\"",
+  "副标题": "",
+  "图片": "",
   
   "搜索模式": "1",
   "搜索url": "",
-  "搜索数组": "<a &&<dd>",
-  "搜索副标题": "title=\"&&\"",
+  "搜索数组": "",
+  "搜索副标题": "",
   
   "年代":"年份：&&</a>",
   "地区":"地区：&&</a>",
