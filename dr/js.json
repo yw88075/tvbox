@@ -135,7 +135,7 @@
 		},
 		{
 			"key": "兄弟影视",
-			"name": "兄弟影视┃XBPQ",
+			"name": "😘兄弟影视┃XBPQ",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
@@ -145,7 +145,7 @@
 		},
 		{
 			"key": "映迷",
-			"name": "映迷┃XBPQ",
+			"name": "😘映迷┃XBPQ",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
@@ -155,7 +155,7 @@
 		},
 		{
 			"key": "libvio",
-			"name": "libvio┃XBPQ",
+			"name": "😘libvio┃XBPQ",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
@@ -163,26 +163,7 @@
 			"filterable": 0,
 			"ext": "./XBPQ/libvio.json"
 		},
-		 {
-			"key": "7itv",
-			"name": "7itv┃XBPQ",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "./XBPQ/7itv.json"
-		},
-		{
-			"key": "北川影视",
-			"name": "北川影视┃XBPQ",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "./XBPQ/北川影视.json"
-		},
+		 
 		{
 			"key": "达达龟",
 			"name": "达达龟┃XBPQ",
@@ -373,21 +354,7 @@
 				"分类url": "https://pyys.art/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/{year}/page/{catePg}.html"
 			}
 		},
-		{
-			"key": "吼吼",
-			"name": "吼吼影视┃XBPQ",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": {
-				"数组": "class=\"module-item\"&&class=\"module-item-title\"",
-				"分类": "电影$1#剧集$2#综艺$3#动漫$4#纪录片$20#",
-				"搜索图片": "data-src=\"&&\"",
-				"分类url": "https://www.hoho.tv/vod/show/{cateId}/area/{area}/class/{class}/year/{year}/page/{catePg}.html"
-			}
-		},
+		
 		{
 			"key": "孜然影视",
 			"name": "孜然影视┃XBPQ",
@@ -688,7 +655,26 @@
 			"api": "./lib/drpy2.min.js",
 			"ext": "./js/莫扎兔.js"
 		},
-		
+		{
+			"key": "7itv",
+			"name": "7itv┃XBPQ",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "./XBPQ/7itv.json"
+		},
+		{
+			"key": "北川影视",
+			"name": "北川影视┃XBPQ",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "./XBPQ/北川影视.json"
+		},
 		{
 			"key": "csp_Vofl",
 			"name": "😗Vofl",
