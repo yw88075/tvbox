@@ -133,6 +133,17 @@
 				"分类url": "http://www.yilonghd.com/show/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html"
 			}
 		},
+		{
+			"key": "兄弟影视",
+			"name": "兄弟影视┃XBPQ",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "./XBPQ/兄弟影视.json"
+		},
+		{
 		 {
 			"key": "7itv",
 			"name": "7itv┃XBPQ",
