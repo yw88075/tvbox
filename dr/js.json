@@ -144,6 +144,17 @@
 			"ext": "./XBPQ/兄弟影视.json"
 		},
 		{
+			"key": "Vidhub",
+			"name": "😘Vidhub┃XBPQ",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "./XBPQ/Vidhub.json"
+		},
+		
+		{
 			"key": "映迷",
 			"name": "😘映迷┃XBPQ",
 			"type": 3,
@@ -252,16 +263,7 @@
 				"分类url": "https://www.tuhao.tv/vsh/{cateId}-{class}-{by}-{area}-{lang}----{catePg}---{year}.html"
 			}
 		},
-		{
-			"key": "LibVio",
-			"name": "LibVio┃XBPQ",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"ext": {
-				"分类": "电影$1#剧集$2#综艺$3#动漫$4#日韩剧$15#欧美剧$16",
-				"分类url": "https://tv.libvio.cc/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;cmal"
-			}
-		},
+		
 		{
 			"key": "慢大浪",
 			"name": "慢大浪┃XBPQ",
