@@ -615,6 +615,17 @@
             "ext": "./XBPQ/voflix.json"
 	
         },
+			{
+            "key": "野荷塘",
+            "name": "野荷塘┃XBPQ",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "./XBPQ/野荷塘.json"
+	
+        },
 		{
             "key": "TV云播",
             "name": "TV云播┃XBPQ",
