@@ -5,7 +5,7 @@
   "热门": "",
   
   "分类": "电影$1#剧集$2#动漫$4#综艺$3#",
-    "分类url": "https://www.1010dy3.com/show/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/catePg/{catePg}/year{year}.html",
+    "分类url": "https://www.1010dy3.com/show/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year{year}.html",
   
   
   "数组": "stui-vodlist__box&&</span>",
