@@ -1062,6 +1062,17 @@
 			"ext": "./XBPQ/干饭影视.json"
 		},
 		{
+			"key": "我爱跟剧",
+			"name": "干饭",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/我爱跟剧.json"
+		},
+		
+		{
 			"key": "百影视频",
 			"name": "百影视频",
 			"type": 3,
