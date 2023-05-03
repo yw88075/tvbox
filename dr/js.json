@@ -1051,19 +1051,10 @@
 			"filterable": 1,
 			"ext": "./XBPQ/素白白影视.json"
 		},
-		{
-			"key": "干饭影视",
-			"name": "干饭",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./XBPQ/干饭影视.json"
-		},
+
 		{
 			"key": "我爱跟剧",
-			"name": "干饭",
+			"name": "我爱跟剧",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
