@@ -583,6 +583,17 @@
 	
         },
 		{
+            "key": "voflix",
+            "name": "voflix┃XBPQ",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "./XBPQ/voflix.json"
+	
+        },
+		{
             "key": "TV云播",
             "name": "TV云播┃XBPQ",
             "type": 3,
@@ -655,16 +666,7 @@
 			"api": "./lib/drpy2.min.js",
 			"ext": "./js/莫扎兔.js"
 		},
-		{
-			"key": "7itv",
-			"name": "7itv┃XBPQ",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "./XBPQ/7itv.json"
-		},
+		
 		{
 			"key": "北川影视",
 			"name": "北川影视┃XBPQ",
