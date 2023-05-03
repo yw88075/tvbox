@@ -355,6 +355,7 @@
 				"分类": "电影$1#剧集$2#综艺$3#动漫$4#哔哩$36#",
 				"分类url": "https://pyys.art/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/{year}/page/{catePg}.html"
 			}
+			
 		},
 		
 		{
@@ -424,6 +425,19 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": "./XBPQ/freeok.json"
+			
+		},
+		
+		{
+			"key": "大米星球",
+			"name": " ☺大米星球┃XBPQ",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "./XBPQ/大米星球.json"
+			
 		},
 		{
 			"key": "热播之家",
