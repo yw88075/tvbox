@@ -8,7 +8,7 @@
     "分类url": "http://www.badanyy.com/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html",
    "标题": "",
   
-  "数组": "vodlist_titbox&&vodlist_sub",
+  "数组": "vodlist_thumb&&</a>",
   
 "图片":"original=\"&&\"",
 "标题":"title=\"&&\"",
