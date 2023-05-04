@@ -743,6 +743,17 @@
 			"filterable": 0,
 			"ext": "./XBPQ/北川影视.json"
 		},
+		
+		{
+			"key": "乌龟影院",
+			"name": "乌龟影院┃XBPQ",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "./XBPQ/乌龟影院.json"
+		},
 		{
 			"key": "csp_Vofl",
 			"name": "😗Vofl",
