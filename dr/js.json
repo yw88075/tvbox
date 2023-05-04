@@ -416,7 +416,17 @@
 			"ext": "./XBPQ/freeok.json"
 			
 		},
-		
+			{
+			"key": "看一看",
+			"name": " ☺看一看┃XBPQ",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "./XBPQ/看一看.json"
+			
+		},
 		{
 			"key": "大米星球",
 			"name": " ☺大米星球┃XBPQ",
