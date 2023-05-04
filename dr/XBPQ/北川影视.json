@@ -3,7 +3,7 @@
   "站名": "北川影视",
   "主页url": "https://www.bczhuiju.com/",
   "热门": "",
-  
+    "嗅探词": ".m3u8#m3u8?#.mp4#mp4?#ixigua#.czspp#.flv#.mp3#.m4a#?item/video#is_play_url=1#play/?#qianpailive",
   "分类": "电影$1#剧集$2#动漫$4#综艺$3#",
   
   "分类url": "https://www.bczhuiju.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
@@ -25,8 +25,10 @@
   "线路数组": "",
   "线路标题": "",
   
-  "播放数组": "",
-  
+  "播放数组":"a&&module-poster-item-title",
+"播放列表":"",
+"播放标题":"",
+"播放链接":"href=\"&&\"",
   "筛选":{
 "1":[
   {"key":"cateId","name":"类型","value":[
