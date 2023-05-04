@@ -213,14 +213,14 @@
 			"ext": "./XYQHiker/皮皮鸭.json"
 		},
 		{
-			"key": "csp_XBPQ_bp",
-			"name": "😦白嫖电影┃XBPQ",
+			"key": "csp_XBPQ",
+			"name": "😦白嫖影视┃XBPQ",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "{\"分类\":\"电影$1#电视剧$2#综艺$3#动漫$4\",\"分类url\":\"https://dy.gduan.com/index.php/vod/show/id/{cateId}/class/{class}/area/{area}/lang/{lang}/by/{by}/catePg/{catePg}/year/{year}.html\"}"
+			"ext": "./XBPQ/白嫖影视.json"
 		},
 		{
 			"key": "金曼TV",
@@ -373,21 +373,7 @@
 				"分类url": "https://kan3456.cc/index.php/vod/show/by/{by}/id/{cateId}/lang/{lang}/year/{year}/page/{catePg}.html"
 			}
 		},
-		{
-			"key": "电影先生",
-			"name": " 🕴电影先生┃XBPQ",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": {
-				"数组": "class=\"module-item\">&&class=\"module-item-title\"",
-				"分类": "电影$dianying#剧集$dianshiju#综艺$zongyi#动漫$dongman#",
-				"搜索图片": "data-src=\"&&\"",
-				"分类url": "https://www.dianyi.ng/pianku-{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"
-			}
-		},
+		
 		{
 			"key": "思古影视",
 			"name": "思古影视┃XBPQ",
@@ -439,20 +425,7 @@
 			"ext": "./XBPQ/大米星球.json"
 			
 		},
-		{
-			"key": "热播之家",
-			"name": " 👻热播之家┃XBPQ",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": {
-				"数组": "class=\"stui-vodlist__box\"&&</li>",
-				"分类": "电影$1#剧集$2#动漫$4#综艺$5#纪录片$3#",
-				"分类url": "https://rebozj.pro/show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"
-			}
-		},
+		
 		{
 			"key": "麦豆",
 			"name": " 🌱麦豆┃XBPQ",
@@ -495,21 +468,7 @@
 				"分类url": "https://cddys.vip/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"
 			}
 		},
-		{
-			"key": "HDMOli",
-			"name": "HDmoli┃XBPQ",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": {
-				"数组": "class=\"module-item\">&&class=\"module-item-title\"",
-				"分类": "电影$index1#剧集$index2#动漫$index141#",
-				"搜索图片": "class=\"myui-vodlist__box\"&&class=\"text text-overflow text-muted hidden-xs\"",
-				"分类url": "https://www.hdmoli.com/search.php?area={area}&jq=%{class}&searchtype=5&tid=6&year={year}"
-			}
-		},
+		
 		{
 			"key": "端木",
 			"name": "端木┃XBPQ",
@@ -518,27 +477,10 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": {
-				"数组": "class=\"module-item\"&&class=\"module-item-text\"",
-				"分类": "电影$1#剧集$2#动漫$4#综艺$3#纪录片$29#",
-				"分类url": "http://dmsvip.top/vodshow/{cateId}-{area}-{by}-{class}-{lang}-------{catePg}{year}.html"
-			}
+			"ext": "./XBPQ/端木.json"
 		},
 		
-		{
-			"key": "大师兄",
-			"name": " 🤠大师兄┃XBPQ",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": {
-				"数组": "<a&&class=\"module-poster-item-title\"",
-				"分类": "电影$1#剧集$2#动漫$4#综艺$3#",
-				"分类url": "https://dsxys.pro/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"
-			}
-		},
+		
 		{
 			"key": "霹雳影视",
 			"name": "霹雳影视┃XBPQ",
@@ -1086,17 +1028,7 @@
 			"filterable": 1,
 			"ext": "./XBPQ/奇优影视.json"
 		},
-		{
-			"key": "素白白影视",
-			"name": "❤ 素白白",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./XBPQ/素白白影视.json"
-		},
-
+		
 		{
 			"key": "我爱跟剧",
 			"name": "我爱跟剧",
