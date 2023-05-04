@@ -260,6 +260,7 @@
 			"ext": {
 				"数组": "class=\"module-item\">&&module-item-text",
 				"分类": "电影$1#剧集$2#综艺$3#动漫$4#纪录片$5#体育$56#",
+				  "嗅探词": ".m3u8#m3u8?#.mp4#mp4?#ixigua#.czspp#.flv#.mp3#.m4a#?item/video#is_play_url=1#play/?#qianpailive",
 				"搜索图片": "data-src=\"&&\"",
 				"分类url": "https://www.tuhao.tv/vsh/{cateId}-{class}-{by}-{area}-{lang}----{catePg}---{year}.html"
 			}
@@ -353,6 +354,7 @@
 			"filterable": 0,
 			"ext": {
 				"数组": "class=\"module-item\">&&module-item-text",
+				  "嗅探词": ".m3u8#m3u8?#.mp4#mp4?#ixigua#.czspp#.flv#.mp3#.m4a#?item/video#is_play_url=1#play/?#qianpailive",
 				"分类": "电影$1#剧集$2#综艺$3#动漫$4#哔哩$36#",
 				"分类url": "https://pyys.art/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/{year}/page/{catePg}.html"
 			}
@@ -466,6 +468,7 @@
 			"ext": {
 				"数组": "<a&&class=\"module-poster-item-title\"",
 				"分类": "电影$1#剧集$2#动漫$4#综艺$3#纪录片$38#",
+				  "嗅探词": ".m3u8#m3u8?#.mp4#mp4?#ixigua#.czspp#.flv#.mp3#.m4a#?item/video#is_play_url=1#play/?#qianpailive",
 				"分类url": "https://cddys.vip/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"
 			}
 		},
