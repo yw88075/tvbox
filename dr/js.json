@@ -734,6 +734,26 @@
 		},
 		
 		{
+			"key": "COKEMV",
+			"name": "COKEMV┃XBPQ",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "./XBPQ/COKEMV.json"
+		},
+		{
+			"key": "伊人追剧",
+			"name": "伊人追剧┃XBPQ",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "./XBPQ/伊人追剧.json"
+		},
+		{
 			"key": "北川影视",
 			"name": "北川影视┃XBPQ",
 			"type": 3,
@@ -753,6 +773,36 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": "./XBPQ/乌龟影院.json"
+		},
+		{
+			"key": "555",
+			"name": "🤩555┃XBPQ",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "./XBPQ/555.json"
+		},
+		{
+			"key": "美剧窝",
+			"name": "🤩美剧窝XBPQ",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "./XBPQ/美剧窝.json"
+		},
+		{
+			"key": "人人美剧",
+			"name": "🤩美剧XBPQ",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "./XBPQ/人人美剧.json"
 		},
 		{
 			"key": "csp_Vofl",
