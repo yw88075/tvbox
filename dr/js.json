@@ -165,6 +165,16 @@
 			"ext": "./XBPQ/映迷.json"
 		},
 		{
+			"key": "落攻阁",
+			"name": "😘落攻阁┃XBPQ",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "./XBPQ/落攻阁.json"
+		},
+		{
 			"key": "libvio",
 			"name": "😘libvio┃XBPQ",
 			"type": 3,
@@ -288,14 +298,14 @@
 			}
 		},
 		{
-			"key": "爱看",
-			"name": "爱看┃XBPQ",
+			"key": "爱看影院",
+			"name": "爱看影院┃XBPQ",
 			"type": 3,
 			"api": "csp_XBPQ",
-			"ext": {
-				"分类": "电影$1#连续剧$2#综艺$3#动漫$4",
-				"分类url": "https://www.k7yy.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;mal"
-			}
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext":"./XBPQ/爱看影院.json"
 		},
 		{
 			"key": "6080",
