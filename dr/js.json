@@ -174,10 +174,19 @@
 			"filterable": 0,
 			"ext": "./XBPQ/libvio.json"
 		},
-		 
+		 {
+			"key": "人人影视p",
+			"name": "😍人人影视p┃XBPQ",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "./XBPQ/人人影视p.json"
+		},
 		{
 			"key": "达达龟",
-			"name": "达达龟┃XBPQ",
+			"name": "😍达达龟┃XBPQ",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
@@ -186,7 +195,7 @@
 			"ext": "./XBPQ/达达龟.json"
 		},
 		{
-			"key": "胖虎影视",
+			"key": "😍胖虎影视",
 			"name": "胖虎影视┃XBPQ",
 			"type": 3,
 			"api": "csp_XBPQ",
@@ -796,7 +805,7 @@
 		},
 		{
 			"key": "人人美剧",
-			"name": "🤩美剧XBPQ",
+			"name": "🤩人人美剧（网站有问题）",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
@@ -1253,13 +1262,7 @@
 			"api": "./lib/drpy2.min.js",
 			"ext": "./js/朴樱影视.js"
 		},
-		{
-			"key": "drpy_js_二次萌影视",
-			"name": " 二次萌影视 ",
-			"type": 3,
-			"api": "./lib/drpy2.min.js",
-			"ext": "./js/二次萌影视.js"
-		},
+		
 		{
 			"key": "drpy_js_UM电影",
 			"name": " UM电影 ",
@@ -1330,13 +1333,7 @@
 			"api": "./lib/drpy2.min.js",
 			"ext": "./js/路漫漫.js"
 		},
-		{
-			"key": "drpy_js_小猫咪",
-			"name": " 小猫咪 ",
-			"type": 3,
-			"api": "./lib/drpy2.min.js",
-			"ext": "./js/小猫咪.js"
-		},
+		
 		{
 			"key": "drpy_js_看韩剧",
 			"name": " 看韩剧 ",
