@@ -880,6 +880,16 @@
 			"ext": "./XBPQ/锐行加速.json"
 		},
 		{
+			"key": "明帝影视",
+			"name": "😁明帝影视",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/明帝影视.json"
+		},
+		{
 			"key": "大豆高清",
 			"name": "❤ 大豆高清",
 			"type": 3,
