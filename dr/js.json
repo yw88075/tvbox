@@ -291,7 +291,7 @@
 		},
 		{
 			"key": "美剧窝",
-			"name": "🤩美剧窝XBPQ",
+			"name": "🤩美剧窝",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
@@ -508,7 +508,7 @@
 		},
 		{
 			"key": "爱看影院",
-			"name": "🤏爱看影院 ",
+			"name": "😐爱看影院 ",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
@@ -796,6 +796,16 @@
 			"ext":  "./XBPQ/影渣渣.json"
 		},
 		{
+			"key": "csp_biubiu_骚火电影",
+			"name": "🥰骚火",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/骚火电影.json"
+		},
+		{
 			"key": "八蛋影视",
 			"name": "😗八蛋影视 ",
 			"type": 3,
@@ -955,16 +965,7 @@
 			"api": "./lib/drpy2.min.js",
 			"ext": "./js/云播.js"
 		},
-		{
-			"key": "csp_biubiu_骚火电影",
-			"name": "🥰骚火",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./XBPQ/骚火电影.json"
-		},
+		
 		{
 			"key": "drpy_js_8号影院",
 			"name": " 8号影院 ",
@@ -1024,13 +1025,7 @@
 			"api": "./lib/drpy2.min.js",
 			"ext": "./js/鸭奈飞.js"
 		},
-		{
-			"key": "drpy_js_布雷蓝光",
-			"name": "  🤐布雷蓝光 ",
-			"type": 3,
-			"api": "./lib/drpy2.min.js",
-			"ext": "./js/布雷蓝光.js"
-		},
+		
 		{
 			"key": "drpy_js_被窝电影",
 			"name": " 被窝电影 ",
