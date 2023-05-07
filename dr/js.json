@@ -840,6 +840,67 @@
 			}
 		},
 		{
+			"key": "野荷塘",
+			"name": "❤ 野荷塘",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/野荷塘.json"
+		},
+		{
+			"key": "喵影视",
+			"name": "❤ 喵影视",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/喵影视.json"
+		},
+		{
+			"key": "锐行加速",
+			"name": "❤ 锐行加速",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/锐行加速.json"
+		},
+		{
+			"key": "大豆高清",
+			"name": "❤ 大豆高清",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/大豆高清.json"
+		},
+		{
+			"key": "奇优影视",
+			"name": " 😮奇优影视",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/奇优影视.json"
+		},
+		
+		{
+			"key": "我爱跟剧",
+			"name": "🙄我爱跟剧",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/我爱跟剧.json"
+		},
+		{
 			"key": "热播之家",
 			"name": "😋热播之家 ",
 			"type": 3,
@@ -1101,57 +1162,7 @@
 			"quickSearch": 1,
 			"filterable": 1
 		},
-		{
-			"key": "野荷塘",
-			"name": "❤ 野荷塘",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./XBPQ/野荷塘.json"
-		},
-		{
-			"key": "喵影视",
-			"name": "❤ 喵影视",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./XBPQ/喵影视.json"
-		},
-		{
-			"key": "大豆高清",
-			"name": "❤ 大豆高清",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./XBPQ/大豆高清.json"
-		},
-		{
-			"key": "奇优影视",
-			"name": " 😮奇优影视",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./XBPQ/奇优影视.json"
-		},
 		
-		{
-			"key": "我爱跟剧",
-			"name": "我爱跟剧",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./XBPQ/我爱跟剧.json"
-		},
 		
 		{
 			"key": "百影视频",
