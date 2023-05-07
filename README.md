@@ -1,6 +1,7 @@
 # tvbox
 tvbox
 仓库地址（因关键字，某个源在某个仓库会无法连接)：
+单仓地址：https://jihulab.com/yw88075/tvbox/-/raw/main/dr/js.json
 1、https://jihulab.com/yw88075/tvbox1/-/raw/main/ywdc.json
 2、https://gitee.com/yw88075/tvbox1/raw/main/ywdc.json
 3、https://ghproxy.com/https://raw.githubusercontent.com/yw88075/tvbox/main/ywdc.json
