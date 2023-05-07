@@ -4,8 +4,10 @@ tvbox
 1、https://jihulab.com/yw88075/tvbox1/-/raw/main/ywdc.json
 2、https://gitee.com/yw88075/tvbox1/raw/main/ywdc.json
 3、https://ghproxy.com/https://raw.githubusercontent.com/yw88075/tvbox/main/ywdc.json
-
 借用的都是大佬的本地接口和在线接口，喜欢看美剧，略微倾向。好看的源用上了表情。
+---------------------------------
+5.7
+修复完善几个源，只能说是能用😆
 ---------------------------------
 5.4
 增加几个源，但都不太好，就为了练手。今天张弘大佬指点后，收获良多，再次感谢。
