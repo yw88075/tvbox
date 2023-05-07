@@ -245,7 +245,7 @@
 			"api": "csp_XBPQ",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,
+			"filterable": 1,
 			"ext": "./XBPQ/COKEMV.json"
 		},
 		{
@@ -255,7 +255,7 @@
 			"api": "csp_XBPQ",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,
+			"filterable": 1,
 			"ext": "./XBPQ/伊人追剧.json"
 		},
 		{
@@ -265,7 +265,7 @@
 			"api": "csp_XBPQ",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,
+			"filterable": 1,
 			"ext": "./XBPQ/北川影视.json"
 		},
 		
@@ -276,7 +276,7 @@
 			"api": "csp_XBPQ",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,
+			"filterable": 1,
 			"ext": "./XBPQ/乌龟影院.json"
 		},
 		{
@@ -286,7 +286,7 @@
 			"api": "csp_XBPQ",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,
+			"filterable": 1,
 			"ext": "./XBPQ/555.json"
 		},
 		{
@@ -296,7 +296,7 @@
 			"api": "csp_XBPQ",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,
+			"filterable": 1,
 			"ext": "./XBPQ/美剧窝.json"
 		},
 		{
@@ -306,7 +306,7 @@
 			"api": "csp_XBPQ",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,
+			"filterable": 1,
 			"ext": "./XBPQ/人人美剧.json"
 		},
 		{
@@ -329,7 +329,7 @@
 			"api": "csp_XBPQ",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,
+			"filterable": 1,
 			"ext": "./XBPQ/兄弟影视.json"
 		},
 		{
@@ -339,7 +339,7 @@
 			"api": "csp_XBPQ",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,
+			"filterable": 1,
 			"ext": "./XBPQ/Vidhub.json"
 		},
 		
@@ -350,7 +350,7 @@
 			"api": "csp_XBPQ",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,
+			"filterable": 1,
 			"ext": "./XBPQ/映迷.json"
 		},
 		{
@@ -360,7 +360,7 @@
 			"api": "csp_XBPQ",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,
+			"filterable": 1,
 			"ext": "./XBPQ/落攻阁.json"
 		},
 		{
@@ -370,7 +370,7 @@
 			"api": "csp_XBPQ",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,
+			"filterable": 1,
 			"ext": "./XBPQ/libvio.json"
 		},
 		 {
@@ -380,7 +380,7 @@
 			"api": "csp_XBPQ",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,
+			"filterable": 1,
 			"ext": "./XBPQ/人人影视p.json"
 		},
 		{
@@ -390,7 +390,7 @@
 			"api": "csp_XBPQ",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,
+			"filterable": 1,
 			"ext": "./XBPQ/达达龟.json"
 		},
 		{
@@ -400,7 +400,7 @@
 			"api": "csp_XBPQ",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,
+			"filterable": 1,
 			"ext":"./XBPQ/胖虎影视.json"
 		},
 		
@@ -431,7 +431,7 @@
 			"api": "csp_XBPQ",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,
+			"filterable": 1,
 			"ext": {
 				"分类": "电影$1#电视剧$2#综艺$4#动漫$3#纪录片$5#",
 				  "嗅探词": ".m3u8#m3u8?#.mp4#mp4?#ixigua#.czspp#.flv#.mp3#.m4a#?item/video#is_play_url=1#play/?#qianpailive",
@@ -445,7 +445,7 @@
 			"api": "csp_XBPQ",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,
+			"filterable": 1,
 			"ext": {
 				"分类": "电影$1#电视剧$2#综艺$3#动漫$4#纪录片$22#",
 				"分类url": "https://hua355.vip/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"
@@ -471,7 +471,7 @@
 			"api": "csp_XBPQ",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,
+			"filterable": 1,
 			"ext": {
 				"分类": "电影$1#电视剧$2#动漫$3#综艺$4#",
 				"分类url": "https://www.bhxoxo.com/fl/{cateId}--{by}------{catePg}---.html"
@@ -484,7 +484,7 @@
 			"api": "csp_XBPQ",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,
+			"filterable": 1,
 			"ext": {
 				"数组": "class=\"module-item\">&&module-item-text",
 				"分类": "电影$1#剧集$2#综艺$3#动漫$4#纪录片$5#体育$56#",
@@ -513,8 +513,18 @@
 			"api": "csp_XBPQ",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,
+			"filterable": 1,
 			"ext":"./XBPQ/爱看影院.json"
+		},
+		{
+			"key": "秋霞影视",
+			"name": "😐秋霞影视",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext":"./XBPQ/秋霞影视.json"
 		},
 		{
 			"key": "6080",
@@ -523,7 +533,7 @@
 			"api": "csp_XBPQ",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,
+			"filterable": 1,
 			"ext": {
 				"数组": "class=\"module-item\">&&module-item-text",
 				"分类": "电影$1#剧集$2#综艺$3#动漫$4#纪录片$5#体育$56#",
@@ -537,7 +547,7 @@
 			"api": "csp_XBPQ",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,
+			"filterable": 1,
 			"ext": {
 				"数组": "<a&&class=\"module-poster-item-title\"",
 				"分类": "电影$1#剧集$2#综艺$3#动漫$5#纪录片$4#",
@@ -551,7 +561,7 @@
 			"api": "csp_XBPQ",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,
+			"filterable": 1,
 			"ext": {
 				"数组": "<a&&class=\"module-poster-item-title\"",
 				"分类": "电影$1#剧集$2#综艺$3#动漫$4#纪录片$5#",
@@ -565,7 +575,7 @@
 			"api": "csp_XBPQ",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,
+			"filterable": 1,
 			"ext": {
 				"数组": "class=\"aplus-exp\"&&</a>",
 				"分类": "电影$1#剧集$2#动漫$4#综艺$3#纪录$20",
@@ -880,6 +890,16 @@
 			"ext": "./XBPQ/大豆高清.json"
 		},
 		{
+			"key": "真不卡",
+			"name": "❤ 真不卡",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/真不卡.json"
+		},
+		{
 			"key": "奇优影视",
 			"name": " 😮奇优影视",
 			"type": 3,
@@ -907,7 +927,7 @@
 			"api": "csp_XBPQ",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,
+			"filterable": 1,
 			"ext": {
 				"数组": "class=\"stui-vodlist__box\"&&</li>",
 				"分类": "电影$1#剧集$2#动漫$4#综艺$5#纪录片$3#",
