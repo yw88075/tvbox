@@ -527,6 +527,16 @@
 			"ext":"./XBPQ/秋霞影视.json"
 		},
 		{
+			"key": "无名小站",
+			"name": "😐无名小站",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext":"./XBPQ/无名小站.json"
+		},
+		{
 			"key": "6080",
 			"name": " 🤩6080 ",
 			"type": 3,
@@ -1165,6 +1175,7 @@
 			"api": "./lib/drpy2.min.js",
 			"ext": "./js/秋霞影视.js"
 		},
+		
 		{
 			"key": "drpy_js_网飞.TV",
 			"name": " 网飞.TV ",
