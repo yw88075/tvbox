@@ -1,10 +1,10 @@
 {
-  "作者": "菜妮丝https://cainisi.cf",
+  "作者": "心魔",
   "站名": "冷曦影视",
   "主页url": "https://www.lenxitv.cc",
   
-  "分类": "电影&电视剧&综艺&动漫",
-  "分类值": "movie&tv&zongyi&dongman",
+  "分类": "电影$movie#剧集$tv#综艺$zongyi#动漫$dongman#直播$zhibo#",
+
   
   "分类url": "https://www.lenxitv.cc/t/{cateId}-{catePg}.html",
   
