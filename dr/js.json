@@ -961,6 +961,26 @@
 			"filterable": 1,
 			"ext": "./XBPQ/我爱跟剧.json"
 		},
+			{
+			"key": "咖啡影院",
+			"name": "咖啡影院",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/咖啡影院.json"
+		},
+		{
+			"key": "YOHUTV",
+			"name": "🙄YOHUTV",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/YOHUTV.json"
+		},
 		{
 			"key": "热播之家",
 			"name": "😋热播之家 ",
