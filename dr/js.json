@@ -976,13 +976,23 @@
 		},
 		{
 			"key": "WZ影视",
-			"name": "WZ影视",
+			"name": "🙄WZ影视",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "./XBPQ/WZ影视.json"
+		},
+			{
+			"key": "洞庭影视",
+			"name": "🙄洞庭影视",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/洞庭影视.json"
 		},
 		{
 			"key": "热播之家",
