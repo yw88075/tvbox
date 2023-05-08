@@ -526,6 +526,16 @@
 			"filterable": 1,
 			"ext":"./XBPQ/秋霞影视.json"
 		},
+			{
+			"key": "小鹿影视",
+			"name": "😐小鹿影视",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/小鹿影视.json"
+		},
 		{
 			"key": "无名小站",
 			"name": "😐无名小站",
