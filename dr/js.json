@@ -2230,6 +2230,11 @@
 			"url": "Demo"
 		},
 		{
+            "name": "Json轮询",
+            "type": 2,
+            "url": "Sequence"
+        },
+		{
 			"name": "自动嗅探",
 			"type": 3,
 			"url": "Web",
@@ -2247,6 +2252,16 @@
 			"type": 3,
 			"url": "Demo"
 		},
+		 {
+            "name": "星辰云解析",
+            "type": 1,
+            "url": "http://xn--wnup5g.xn--z7x900a.love:63/Art0425/analysis.php?v="
+        },
+		{
+            "name": "菜妮丝",
+            "type": 0,
+            "url": "https://jx.cainisi.cf/?v="
+        },
 		{
 			"name": "虾米",
 			"type": 0,
