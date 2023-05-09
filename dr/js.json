@@ -1226,6 +1226,26 @@
 			"api": "./lib/drpy2.min.js",
 			"ext": "./js/稀饭影视.js"
 		},
+				{
+			"key": "汪了个汪",
+			"name": "汪了个汪",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/汪了个汪.json"
+		},
+			{
+			"key": "鸭奈非",
+			"name": "鸭奈非",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/鸭奈非.json"
+		},
 		{
 			"key": "csp_AppMr",
 			"name": "❤  明明",
