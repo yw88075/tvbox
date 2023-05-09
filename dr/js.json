@@ -1228,7 +1228,7 @@
 		},
 				{
 			"key": "汪了个汪",
-			"name": "汪了个汪",
+			"name": "😔汪了个汪",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
@@ -1238,7 +1238,7 @@
 		},
 			{
 			"key": "鸭奈非",
-			"name": "鸭奈非",
+			"name": "😔鸭奈非",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
@@ -1247,8 +1247,18 @@
 			"ext": "./XBPQ/鸭奈非.json"
 		},
 			{
+			"key": "鸭奈非4K",
+			"name": "😔鸭奈非4K",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/鸭奈非4K.json"
+		},
+			{
 			"key": "饭团",
-			"name": "饭团",
+			"name": "😍饭团",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
