@@ -1246,6 +1246,16 @@
 			"filterable": 1,
 			"ext": "./XBPQ/鸭奈非.json"
 		},
+			{
+			"key": "饭团",
+			"name": "饭团",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/饭团.json"
+		},
 		{
 			"key": "csp_AppMr",
 			"name": "❤  明明",
