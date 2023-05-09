@@ -1,11 +1,11 @@
 {
 	"作者": "心魔",
 	"站名": "鸭奈非",
-	"主页url": "https://yanetflix.me/",
+	"主页url": "https://yanaifei.com",
 	"热门": "",
 	"分类": "电影$1#剧集$2#综艺$3#动漫$4#",
 	"分类url": "https://yanaifei.com/vod/show/{cateId}--------{catePg}---.html",
-	"分类": "电影$1#剧集$2#综艺$3#动漫$4#",
+	
 	"数组": "<a&&module-poster-item-title",
 	"副标题": "",
 	"图片": "data-original=\"&&\"",
