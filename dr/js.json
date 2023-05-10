@@ -862,6 +862,16 @@
 			"ext": "./XBPQ/NIKETV.json"
 		},
 		{
+			"key": "独播库",
+			"name": "🙄独播库 ",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "./XBPQ/独播库.json"
+		},
+		{
 			"key": "看了么",
 			"name": "😗看了么 ",
 			"type": 3,
