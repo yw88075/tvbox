@@ -534,6 +534,16 @@
 			"ext": "./XBPQ/影视工场.json"
 		},
 		{
+			"key": "AUETE影视",
+			"name": "🤨AUETE影视",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/AUETE影视.json"
+		},
+		{
 			"key": "无名小站",
 			"name": "😐无名小站",
 			"type": 3,
