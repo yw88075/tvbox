@@ -514,6 +514,16 @@
 			"ext": "./XBPQ/小鹿影视.json"
 		},
 		{
+			"key": "慢大浪",
+			"name": "😍慢大浪",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/慢大浪.json"
+		},
+		{
 			"key": "无名小站",
 			"name": "😐无名小站",
 			"type": 3,
@@ -625,7 +635,7 @@
 		},
 		{
 			"key": "在线之家",
-			"name": "在线之家┃XBPQ",
+			"name": "在线之家",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
@@ -995,6 +1005,47 @@
 			"filterable": 1,
 			"ext": "./XBPQ/皮皮鸭.json"
 		},
+			{
+			"key": "鸭奈非",
+			"name": "😔鸭奈非",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/鸭奈非.json"
+		},
+			{
+			"key": "鸭奈非4K",
+			"name": "😔鸭奈非4K",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/鸭奈非4K.json"
+		},
+			{
+			"key": "饭团",
+			"name": "😍饭团",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/饭团.json"
+		},
+		{
+			"key": "城市电影",
+			"name": "😍城市电影",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/城市电影.json"
+		},
+		
 		{
 			"key": "热播之家",
 			"name": "😋热播之家 ",
@@ -1228,7 +1279,7 @@
 		},
 				{
 			"key": "汪了个汪",
-			"name": "😔汪了个汪",
+			"name": "😔汪了个汪(可能跑路)",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
@@ -1236,36 +1287,7 @@
 			"filterable": 1,
 			"ext": "./XBPQ/汪了个汪.json"
 		},
-			{
-			"key": "鸭奈非",
-			"name": "😔鸭奈非",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./XBPQ/鸭奈非.json"
-		},
-			{
-			"key": "鸭奈非4K",
-			"name": "😔鸭奈非4K",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./XBPQ/鸭奈非4K.json"
-		},
-			{
-			"key": "饭团",
-			"name": "😍饭团",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./XBPQ/饭团.json"
-		},
+		
 		{
 			"key": "csp_AppMr",
 			"name": "❤  明明",
@@ -1295,13 +1317,7 @@
 			"api": "./lib/drpy2.min.js",
 			"ext": "./js/星空影视.js"
 		},
-		{
-			"key": "drpy_js_视觉影院",
-			"name": " 视觉影院 ",
-			"type": 3,
-			"api": "./lib/drpy2.min.js",
-			"ext": "./js/视觉影院.js"
-		},
+		
 		{
 			"key": "drpy_js_视中影视",
 			"name": " 视中影视 ",
@@ -1690,13 +1706,7 @@
 			"api": "./lib/drpy2.min.js",
 			"ext": "./js/看了么.js"
 		},
-		{
-			"key": "drpy_js_看片狂人",
-			"name": " 看片狂人 ",
-			"type": 3,
-			"api": "./lib/drpy2.min.js",
-			"ext": "./js/看片狂人.js"
-		},
+	
 		{
 			"key": "drpy_js_快云影院",
 			"name": " 快云影院 ",
@@ -1854,14 +1864,7 @@
 			"ext": "./js/74听书.js",
 			"playerType": "2"
 		},
-		{
-			"key": "drpy_js_幻听网听书",
-			"name": "听书 | 幻听网听书 ",
-			"type": 3,
-			"api": "./lib/drpy2.min.js",
-			"ext": "./js/幻听网听书.js",
-			"playerType": "2"
-		},
+
 		{
 			"key": "drpy_js_评书随身听",
 			"name": "听书 | 评书随身听 ",
