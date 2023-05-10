@@ -524,6 +524,16 @@
 			"ext": "./XBPQ/慢大浪.json"
 		},
 		{
+			"key": "影视工场",
+			"name": "😍影视工场",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/影视工场.json"
+		},
+		{
 			"key": "无名小站",
 			"name": "😐无名小站",
 			"type": 3,
