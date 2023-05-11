@@ -391,7 +391,16 @@
 			"filterable": 1,
 			"ext": "./XBPQ/胖虎影视.json"
 		},
-		
+		{
+			"key": "csp_XBPQ",
+			"name": "😦看看电影 ",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/看看电影.json"
+		},
 		{
 			"key": "csp_XBPQ",
 			"name": "😦白嫖影视 ",
@@ -504,6 +513,26 @@
 			"ext": "./XBPQ/秋霞影视.json"
 		},
 		{
+			"key": "歪片星球",
+			"name": "😐歪片星球",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/歪片星球.json"
+		},
+		{
+			"key": "追影猫",
+			"name": "😐追影猫",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/追影猫.json"
+		},
+		{
 			"key": "小鹿影视",
 			"name": "😐小鹿影视",
 			"type": 3,
@@ -542,6 +571,16 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "./XBPQ/AUETE影视.json"
+		},
+		{
+			"key": "厂长",
+			"name": "🤩厂长",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/厂长.json"
 		},
 		{
 			"key": "天空影视",
@@ -861,16 +900,7 @@
 			"filterable": 0,
 			"ext": "./XBPQ/NIKETV.json"
 		},
-		{
-			"key": "独播库",
-			"name": "🙄独播库 ",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "./XBPQ/独播库.json"
-		},
+		
 		{
 			"key": "看了么",
 			"name": "😗看了么 ",
@@ -1085,7 +1115,16 @@
 			"filterable": 1,
 			"ext": "./XBPQ/城市电影.json"
 		},
-		
+		{
+			"key": "独播库",
+			"name": "🙄独播库 ",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "./XBPQ/独播库.json"
+		},
 		{
 			"key": "热播之家",
 			"name": "😋热播之家 ",
