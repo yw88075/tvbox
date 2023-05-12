@@ -578,11 +578,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": {
-				"数组": "<a&&class=\"module-poster-item-title\"",
-				"分类": "电影$1#剧集$2#综艺$3#动漫$5#纪录片$4#",
-				"分类url": "https://www.fuxiafood.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"
-			}
+			"ext":"./XBPQ/蓝光影院.json"
 		},
 		{
 			"key": "莫扎兔",
