@@ -458,18 +458,7 @@
 			"filterable": 1,
 			"ext": "./XBPQ/土豪影视.json"
 		},
-		{
-			"key": "慢大浪",
-			"name": "💧慢大浪 ",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"ext": {
-				"分类": "电影$2#连续剧$1#综艺$3#动漫$4#纪录片$5",
-				"分类url": "https://mdlys.vip/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}.html",
-				"线路数组": "class=\"swiper-slide\">&&</a>",
-				"线路标题": "</i>&nbsp;&&</a>"
-			}
-		},
+		
 		{
 			"key": "爱看影院",
 			"name": "😐爱看影院 ",
@@ -579,11 +568,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": {
-				"数组": "class=\"module-item\">&&module-item-text",
-				"分类": "电影$1#剧集$2#综艺$3#动漫$4#纪录片$5#体育$56#",
-				"分类url": "https://www.6080dy3.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"
-			}
+			"ext":"./XBPQ/6080.json"
 		},
 		{
 			"key": "蓝光",
