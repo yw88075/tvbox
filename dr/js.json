@@ -522,16 +522,7 @@
 			"filterable": 1,
 			"ext": "./XBPQ/歪片星球.json"
 		},
-		{
-			"key": "追影猫",
-			"name": "😐追影猫",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./XBPQ/追影猫.json"
-		},
+	
 		{
 			"key": "小鹿影视",
 			"name": "😐小鹿影视",
@@ -802,7 +793,7 @@
 		},
 		{
 			"key": "端木",
-			"name": "😆端木 ",
+			"name": "😆端木（跑路） ",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
