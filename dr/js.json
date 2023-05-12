@@ -410,17 +410,13 @@
 		},
 		{
 			"key": "金曼TV",
-			"name": "🤑金曼 ",
+			"name": "🤑金曼TV ",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": {
-				"分类": "电影$1#电视剧$2#综艺$4#动漫$3#纪录片$5#",
-				"嗅探词": ".m3u8#m3u8?#.mp4#mp4?#ixigua#.czspp#.flv#.mp3#.m4a#?item/video#is_play_url=1#play/?#qianpailive",
-				"分类url": "https://jinmantv.com/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/year/{year}/page/{catePg}.html"
-			}
+			"ext": "./XBPQ/金曼TV.json""
 		},
 		{
 			"key": "花花",
