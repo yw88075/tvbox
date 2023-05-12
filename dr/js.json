@@ -721,6 +721,16 @@
 				"分类url": "https://cddys.vip/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"
 			}
 		},
+				{
+			"key": "奈落影院",
+			"name": "奈落影院",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/奈落影院.json"
+		},
 		{
 			"key": "端木",
 			"name": "😆端木（跑路） ",
