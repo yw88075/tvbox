@@ -31,7 +31,7 @@
 	"播放标题": "<span>&&</span>",
 	"播放链接": "href=\"&&\"",
 	"分类url": "https://pyys.art/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/{year}/page/{catePg}.html",
-	"分类": "电影$1#剧集$2#综艺$3#动漫$4#哔哩$36##",
+	"分类": "电影$1#剧集$2#综艺$3#动漫$4#哔哩$36#",
 	"筛选": {
 		"1": [
 			{

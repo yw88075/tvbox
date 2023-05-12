@@ -1,8 +1,8 @@
 {
 	"作者": "心魔",
-	"站名": "孜然影视",
-	"主页url": "https://kan3456.cc/",
-	"数组": "class=\"module-item\">&&class=\"module-item-title\"",
+	"站名": "思古影视",
+	"主页url": "https://www.siguyy.com/",
+	"数组": "class=\"myui-vodlist__box\"&&class=\"col-lg-6 col-md-6 col-sm-4 col-xs-3\"",
 	"直接播放": "0",
 	"图片": "data-original=\"&&\"",
 	"标题": "title=\"&&\"",
@@ -22,16 +22,16 @@
 	"影片状态": "状态：&&</li>",
 	"导演": "导演：&&</li>",
 	"主演": "主演：&&</li>",
-	"简介": "vod_content&&</span>",
+	"简介": "line-height: 20px&&</p>",
 	"嗅探词": ".m3u8#m3u8?#.mp4#mp4?#ixigua#.czspp#.flv#.mp3#.m4a#?item/video#is_play_url=1#play/?#qianpailive",
 	"线路数组": "",
 	"线路标题": "",
 	"播放数组": "",
-	"播放列表": "<a&&</a>",
-	"播放标题": "<span>&&</span>",
+	"播放列表": "",
+	"播放标题": "",
 	"播放链接": "href=\"&&\"",
-	"分类url": "https://kan3456.cc/index.php/vod/show/by/{by}/id/{cateId}/lang/{lang}/year/{year}/page/{catePg}.html",
-	"分类": "电影$1#剧集$2#综艺$3#动漫$4#",
+	"分类url": "https://www.siguyy.com/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+	"分类": "电影$m#剧集$tv#动漫$ct#综艺$va#",
 	"筛选": {
 		"1": [
 			{
