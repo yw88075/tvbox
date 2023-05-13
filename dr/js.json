@@ -358,6 +358,17 @@
 			"filterable": 1,
 			"ext": "./XBPQ/libvio.json"
 		},
+				{
+			"key": "美剧天堂",
+			"name": "🤩美剧天堂",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/美剧天堂.json"
+		},
+
 		{
 			"key": "人人影视p",
 			"name": "😍人人影视p ",
