@@ -368,6 +368,16 @@
 			"filterable": 1,
 			"ext": "./XBPQ/美剧天堂.json"
 		},
+			{
+			"key": "久久美剧网",
+			"name": "🤩久久美剧网",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/久久美剧网.json"
+		},
 
 		{
 			"key": "人人影视p",
