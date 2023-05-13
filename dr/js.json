@@ -885,16 +885,7 @@
 			"filterable": 1,
 			"ext": "./XBPQ/明帝影视.json"
 		},
-		{
-			"key": "大豆高清",
-			"name": "❤ 大豆高清",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./XBPQ/大豆高清.json"
-		},
+		
 		{
 			"key": "真不卡",
 			"name": "❤ 真不卡",
