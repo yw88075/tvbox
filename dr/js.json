@@ -298,6 +298,16 @@
 			"filterable": 1,
 			"ext": "./XBPQ/人人美剧.json"
 		},
+			{
+			"key": "91美剧",
+			"name": "91美剧",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/91美剧.json"
+		},
 		{
 			"key": "csp_XBPQ_一龙影视",
 			"name": "  🐍一龙影视 ",
