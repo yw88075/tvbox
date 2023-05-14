@@ -1,11 +1,11 @@
 {
   "作者": "心魔",
   "站名": "端木",
-  "主页url": "http://dmsvip.top/",
+  "主页url": "http://dmsvip1.top/",
   "热门": "",
   
-  "分类": "电影$1#剧集$2#动漫$4#综艺$3#纪录片$29#",
-    "分类url": "http://dmsvip.top/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html",
+  "分类": "电影$1#剧集$2#动漫$4#综艺$3#纪录片$20#",
+    "分类url": "http://dmsvip1.top/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html",
   
   
   "数组": "class=\"module-item\"&&class=\"module-item-text\"",
