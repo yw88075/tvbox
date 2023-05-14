@@ -348,16 +348,7 @@
 			"filterable": 1,
 			"ext": "./XBPQ/Vidhub.json"
 		},
-		{
-			"key": "映迷",
-			"name": "😘映迷 ",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./XBPQ/映迷.json"
-		},
+		
 		{
 			"key": "落攻阁",
 			"name": "😘落攻阁 ",
@@ -646,7 +637,7 @@
 			"api": "csp_XBPQ",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,
+			"filterable": 1,
 			"ext": "./XBPQ/朴樱影视.json"
 		},
 		{
@@ -656,7 +647,7 @@
 			"api": "csp_XBPQ",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,
+			"filterable": 1,
 			"ext": "./XBPQ/孜然影视.json"
 		},
 		{
@@ -666,7 +657,7 @@
 			"api": "csp_XBPQ",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,
+			"filterable": 1,
 			"ext":"./XBPQ/思古影视.json"
 		},
 		{
@@ -676,7 +667,7 @@
 			"api": "csp_XBPQ",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,
+			"filterable": 1,
 			"ext": "./XBPQ/在线之家.json"
 		},
 		{
@@ -686,7 +677,7 @@
 			"api": "csp_XBPQ",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,
+			"filterable": 1,
 			"ext": "./XBPQ/freeok.json"
 		},
 		{
@@ -696,7 +687,7 @@
 			"api": "csp_XBPQ",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,
+			"filterable": 1,
 			"ext": "./XBPQ/看一看.json"
 		},
 		{
@@ -706,8 +697,18 @@
 			"api": "csp_XBPQ",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,
+			"filterable": 1,
 			"ext": "./XBPQ/人人筷子.json"
+		},
+			{
+			"key": "无极影院",
+			"name": "无极影院",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/无极影院.json"
 		},
 		{
 			"key": "大米星球",
@@ -716,7 +717,7 @@
 			"api": "csp_XBPQ",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,
+			"filterable": 1,
 			"ext": "./XBPQ/大米星球.json"
 		},
 		{
@@ -726,7 +727,7 @@
 			"api": "csp_XBPQ",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,
+			"filterable": 1,
 			"ext": {
 				"数组": "class=\"myui-vodlist__box\"&&</div>",
 				"分类": "电影$1#剧集$2#动漫$4#综艺$3#",
@@ -774,12 +775,12 @@
 		},
 		{
 			"key": "端木",
-			"name": "😆端木（跑路） ",
+			"name": "😆端木",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,
+			"filterable": 1,
 			"ext": "./XBPQ/端木.json"
 		},
 		{
