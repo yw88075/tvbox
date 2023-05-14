@@ -631,6 +631,16 @@
 			"ext": "./XBPQ/23影视.json"
 		},
 		{
+			"key": "八戒影院",
+			"name": "八戒影院(少线路)",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/八戒影院.json"
+		},
+		{
 			"key": "朴樱影视",
 			"name": " 🤞朴樱影视 ",
 			"type": 3,
