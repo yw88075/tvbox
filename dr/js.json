@@ -120,7 +120,18 @@
 				"喜剧片"
 			]
 		},
-				{
+			
+		{
+			"key": "6v电影",
+			"name": "6v电影",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "./XBPQ/6v电影.json"
+		},
+			{
 			"key": "天天影院",
 			"name": "天天影院",
 			"type": 3,
