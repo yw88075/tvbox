@@ -1,5 +1,5 @@
 {
-	"spider": "./fty0503.jar",
+	"spider": "./spider.jar",
 	"sites": [
 		{
 			"key": "drpy_js_豆瓣",
@@ -257,6 +257,26 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "./XBPQ/伊人追剧.json"
+		},
+		{
+			"key": "八戒影院",
+			"name": "🙄八戒影院 ",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/八戒影院.json"
+		},
+		{
+			"key": "小狗影院",
+			"name": "🙄小狗影院 ",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/小狗影院.json"
 		},
 		{
 			"key": "北川影视",
