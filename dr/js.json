@@ -123,7 +123,7 @@
 			
 		{
 			"key": "6v电影",
-			"name": "6v电影",
+			"name": "🤩6v电影",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
@@ -133,7 +133,7 @@
 		},
 			{
 			"key": "天天影院",
-			"name": "天天影院",
+			"name": "🤩天天影院",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
@@ -244,7 +244,7 @@
 		},
 		{
 			"key": "drpy_js_莫扎兔儿",
-			"name": "  ☺莫扎兔儿 ",
+			"name": "☺莫扎兔儿 ",
 			"type": 3,
 			"api": "./lib/drpy2.min.js",
 			"ext": "./js/莫扎兔.js"
@@ -341,7 +341,7 @@
 		},
 			{
 			"key": "91美剧",
-			"name": "91美剧",
+			"name": "🤨91美剧",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
@@ -351,7 +351,7 @@
 		},
 		{
 			"key": "csp_XBPQ_一龙影视",
-			"name": "  🐍一龙影视 ",
+			"name": " 🐍一龙影视 ",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
@@ -503,7 +503,7 @@
 		},
 		{
 			"key": "白狐影视",
-			"name": "白狐影视",
+			"name": "🤨白狐影视",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
@@ -633,7 +633,7 @@
 		},
 		{
 			"key": "蓝光",
-			"name": " 😙蓝光影院 ",
+			"name": "😙蓝光影院 ",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
@@ -643,7 +643,7 @@
 		},
 		{
 			"key": "莫扎兔",
-			"name": " 😙莫扎兔 ",
+			"name": "😙莫扎兔 ",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
@@ -663,7 +663,7 @@
 		},
 		{
 			"key": "八戒影院",
-			"name": "八戒影院(少线路)",
+			"name": "🤨八戒影院",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
@@ -703,7 +703,7 @@
 		},
 		{
 			"key": "在线之家",
-			"name": "在线之家",
+			"name": "🤨在线之家",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
@@ -743,7 +743,7 @@
 		},
 			{
 			"key": "无极影院",
-			"name": "无极影院",
+			"name": "🤨无极影院",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
@@ -806,7 +806,7 @@
 		},
 				{
 			"key": "奈落影院",
-			"name": "奈落影院",
+			"name": "🤨奈落影院",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
@@ -971,7 +971,7 @@
 		
 		{
 			"key": "真不卡",
-			"name": "❤ 真不卡",
+			"name": "❤真不卡",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
@@ -981,7 +981,7 @@
 		},
 		{
 			"key": "奇优影视",
-			"name": " 😮奇优影视",
+			"name": "😮奇优影视",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
@@ -1001,7 +1001,7 @@
 		},
 		{
 			"key": "看看剧",
-			"name": "看看剧",
+			"name": "🤨看看剧",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
@@ -1145,7 +1145,7 @@
 		},
 		{
 			"key": "drpy_js_农民",
-			"name": "😆  农民 ",
+			"name": "农民 ",
 			"type": 3,
 			"api": "./lib/drpy2.min.js",
 			"ext": "./js/农民.js"
@@ -1183,28 +1183,28 @@
 		},
 		{
 			"key": "drpy_js_LIBVIO",
-			"name": "❤LIBVIO ",
+			"name": "LIBVIO ",
 			"type": 3,
 			"api": "./lib/drpy2.min.js",
 			"ext": "./js/LIBVIO.js"
 		},
 		{
 			"key": "drpy_js_007影视",
-			"name": "❤007影视 ",
+			"name": "007影视 ",
 			"type": 3,
 			"api": "./lib/drpy2.min.js",
 			"ext": "./js/007影视.js"
 		},
 		{
 			"key": "drpy_js_9U电影",
-			"name": "🤗9U电影 ",
+			"name": "9U电影 ",
 			"type": 3,
 			"api": "./lib/drpy2.min.js",
 			"ext": "./js/9U电影.js"
 		},
 		{
 			"key": "drpy_js_凌云影视",
-			"name": "🤗凌云影视 ",
+			"name": "凌云影视 ",
 			"type": 3,
 			"api": "./lib/drpy2.min.js",
 			"ext": "./js/凌云影视.js"
@@ -1232,7 +1232,7 @@
 		},
 		{
 			"key": "drpy_js_云播影院",
-			"name": "❤云播影院 ",
+			"name": "云播影院 ",
 			"type": 3,
 			"api": "./lib/drpy2.min.js",
 			"ext": "./js/云播.js"
@@ -1260,7 +1260,7 @@
 		},
 		{
 			"key": "drpy_js_影渣渣",
-			"name": "❤ 影渣渣 ",
+			"name": "影渣渣 ",
 			"type": 3,
 			"api": "./lib/drpy2.min.js",
 			"ext": "./js/影渣渣.js"
@@ -1276,21 +1276,21 @@
 		},
 		{
 			"key": "drpy_js_乐猪TV",
-			"name": "😆乐猪TV ",
+			"name": "乐猪TV ",
 			"type": 3,
 			"api": "./lib/drpy2.min.js",
 			"ext": "./js/乐猪TV.js"
 		},
 		{
 			"key": "drpy_js_大米星球",
-			"name": "😆大米星球 ",
+			"name": "大米星球 ",
 			"type": 3,
 			"api": "./lib/drpy2.min.js",
 			"ext": "./js/大米星球.js"
 		},
 		{
 			"key": "drpy_js_鸭奈飞",
-			"name": "😆鸭奈飞 ",
+			"name": "鸭奈飞 ",
 			"type": 3,
 			"api": "./lib/drpy2.min.js",
 			"ext": "./js/鸭奈飞.js"
@@ -1360,16 +1360,7 @@
 			"api": "./lib/drpy2.min.js",
 			"ext": "./js/稀饭影视.js"
 		},
-		{
-			"key": "汪了个汪",
-			"name": "😔汪了个汪(可能跑路)",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./XBPQ/汪了个汪.json"
-		},
+	
 		{
 			"key": "csp_AppMr",
 			"name": "❤  明明",
