@@ -722,6 +722,16 @@
 			"ext": "./XBPQ/freeok.json"
 		},
 		{
+			"key": "西瓜影视",
+			"name": "😑西瓜影视",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/西瓜影视.json"
+		},
+		{
 			"key": "看一看",
 			"name": " ☺看一看 ",
 			"type": 3,
