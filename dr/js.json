@@ -232,15 +232,14 @@
 			"ext": "./XBPQ/豆巴影视.json"
 		},
 		{
-			"key": "csp_XYQHiker_234影视",
-			"name": "😦234影视 ",
+			"key": "243影视网",
+			"name": "243影视网",
 			"type": 3,
-			"api": "csp_XYQHiker",
-			"playerType": 2,
+			"api": "csp_XBPQ",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XYQHiker/234影视.json"
+			"ext": "./XBPQ/243影视网.json"
 		},
 		{
 			"key": "drpy_js_莫扎兔儿",
@@ -1139,6 +1138,16 @@
 			"filterable": 0,
 			"ext": "./XBPQ/独播库.json"
 		},
+			{
+			"key": "CHNNETFILX",
+			"name": "CHNNETFILX",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/CHNNETFILX.json"
+		},
 		{
 			"key": "热播之家",
 			"name": "😋热播之家 ",
@@ -1160,16 +1169,7 @@
 			"api": "./lib/drpy2.min.js",
 			"ext": "./js/农民.js"
 		},
-		{
-			"key": "csp_Bili",
-			"name": "哔哔合集",
-			"type": 3,
-			"api": "csp_Bili",
-			"searchable": 1,
-			"quickSearch": 0,
-			"filterable": 0,
-			"ext": "./bilibili.json"
-		},
+		
 		{
 			"key": "drpy_js_FreeOK",
 			"name": " FreeOK ",
