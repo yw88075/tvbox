@@ -299,6 +299,16 @@
 			"ext": "./XBPQ/北川影视.json"
 		},
 		{
+			"key": "全能影视",
+			"name": "全能影视",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/全能影视.json"
+		},
+		{
 			"key": "乌龟影院",
 			"name": "🙄乌龟影院",
 			"type": 3,
