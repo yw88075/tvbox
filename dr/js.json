@@ -318,6 +318,16 @@
 			"filterable": 1,
 			"ext": "./XBPQ/555.json"
 		},
+			{
+			"key": "美剧天堂",
+			"name": "🤩美剧天堂",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/美剧天堂.json"
+		},
 		{
 			"key": "美剧窝",
 			"name": "🤩美剧窝",
@@ -347,6 +357,37 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "./XBPQ/91美剧.json"
+		},
+				{
+			"key": "美剧网",
+			"name": "🤩美剧网",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/美剧网.json"
+		},
+			{
+			"key": "久久美剧网",
+			"name": "🤩久久美剧网",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/久久美剧网.json"
+		},
+
+		{
+			"key": "人人影视p",
+			"name": "😍人人影视p ",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/人人影视p.json"
 		},
 		{
 			"key": "csp_XBPQ_一龙影视",
@@ -399,37 +440,7 @@
 			"filterable": 1,
 			"ext": "./XBPQ/libvio.json"
 		},
-				{
-			"key": "美剧天堂",
-			"name": "🤩美剧天堂",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./XBPQ/美剧天堂.json"
-		},
-			{
-			"key": "久久美剧网",
-			"name": "🤩久久美剧网",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./XBPQ/久久美剧网.json"
-		},
-
-		{
-			"key": "人人影视p",
-			"name": "😍人人影视p ",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./XBPQ/人人影视p.json"
-		},
+		
 		{
 			"key": "达达龟",
 			"name": "😍达达龟 ",
