@@ -1163,6 +1163,16 @@
 			}
 		},
 		{
+			"key": "大师兄影视",
+			"name": "大师兄影视（bug版）",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/大师兄影视.json"
+		},
+		{
 			"key": "drpy_js_农民",
 			"name": "农民 ",
 			"type": 3,
