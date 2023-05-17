@@ -30,8 +30,8 @@
 	"播放列表": "",
 	"播放标题": "",
 	"播放链接": "",
-	"分类url": "https://www.yohu.tv/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html",
-	"分类": "电影$1#剧集$2#综艺$3#动漫$4#纪录片$5#",
+	"分类url": "https://www.yohu.tv/vodshow/{cateId}--{by}------{catePg}---.html",
+	"分类": "电影$1#剧集$2#综艺$3#动漫$4#",
 	"筛选": {
 		"1": [
 			{
