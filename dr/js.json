@@ -1070,6 +1070,17 @@
 			"ext": "./XBPQ/九九影院.json"
 		},
 		{
+            "key": "csp_appys_酷影",
+            "name": "酷影",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://kuyun.realku.cn/api.php/app/"
+        }
+
+		{
 			"key": "YOHUTV",
 			"name": "🙄YOHUTV",
 			"type": 3,
