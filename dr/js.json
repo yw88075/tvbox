@@ -130,7 +130,7 @@
 			"filterable": 0,
 			"ext": "./XBPQ/6v电影.json"
 		},
-			{
+		{
 			"key": "蓝光电影网",
 			"name": "😃蓝光电影网",
 			"type": 3,
@@ -899,7 +899,6 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": "./XBPQ/哆咪.json"
-			
 		},
 		{
 			"key": "万博剧院",
@@ -1212,8 +1211,18 @@
 			}
 		},
 		{
+			"key": "音范丝",
+			"name": "😵音范丝",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/音范丝.json"
+		},
+		{
 			"key": "188kan",
-			"name": "188kan",
+			"name": "😐188kan",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
@@ -1221,7 +1230,7 @@
 			"filterable": 1,
 			"ext": "./XBPQ/188kan.json"
 		},
-			{
+		{
 			"key": "巨人影院",
 			"name": "😃巨人影院",
 			"type": 3,
