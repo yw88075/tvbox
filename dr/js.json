@@ -130,6 +130,16 @@
 			"filterable": 0,
 			"ext": "./XBPQ/6v电影.json"
 		},
+			{
+			"key": "蓝光电影网",
+			"name": "😃蓝光电影网",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/蓝光电影网.json"
+		},
 		{
 			"key": "天天影院",
 			"name": "🤩天天影院",
@@ -1067,7 +1077,7 @@
 		},
 		{
 			"key": "csp_appys_酷影",
-			"name": "酷影",
+			"name": "😃酷影",
 			"type": 3,
 			"api": "csp_AppYsV2",
 			"searchable": 1,
@@ -1078,7 +1088,7 @@
 		},
 		{
 			"key": "多米蓝光",
-			"name": "多米蓝光",
+			"name": "😃多米蓝光",
 			"type": 3,
 			"api": "csp_AppYsV2",
 			"searchable": 1,
@@ -1201,9 +1211,19 @@
 				"分类url": "https://rebozj.pro/show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"
 			}
 		},
+		{
+			"key": "188kan",
+			"name": "188kan",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/188kan.json"
+		},
 			{
 			"key": "巨人影院",
-			"name": "巨人影院",
+			"name": "😃巨人影院",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
