@@ -889,6 +889,7 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": "./XBPQ/哆咪.json"
+			
 		},
 		{
 			"key": "万博剧院",
@@ -1073,6 +1074,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "http://kuyun.realku.cn/api.php/app/"
+			"jar": "./fty0503.jar"
 		},
 		{
 			"key": "多米蓝光",
@@ -1083,6 +1085,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "http://vod.dmdh.top:5680//api.php/app/"
+			"jar": "./fty0503.jar"
 		},
 		{
 			"key": "YOHUTV",
@@ -1197,6 +1200,16 @@
 				"分类": "电影$1#剧集$2#动漫$4#综艺$5#纪录片$3#",
 				"分类url": "https://rebozj.pro/show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"
 			}
+		},
+			{
+			"key": "巨人影院",
+			"name": "巨人影院",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/巨人影院.json"
 		},
 		{
 			"key": "大师兄影视",
