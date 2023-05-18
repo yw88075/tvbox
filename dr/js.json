@@ -1073,7 +1073,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "http://kuyun.realku.cn/api.php/app/"
+			"ext": "http://kuyun.realku.cn/api.php/app/",
 			"jar": "./fty0503.jar"
 		},
 		{
@@ -1084,7 +1084,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "http://vod.dmdh.top:5680//api.php/app/"
+			"ext": "http://vod.dmdh.top:5680//api.php/app/",
 			"jar": "./fty0503.jar"
 		},
 		{
