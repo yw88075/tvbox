@@ -798,32 +798,24 @@
 			"ext": "./XBPQ/大米星球.json"
 		},
 		{
-			"key": "麦豆",
-			"name": " 🌱麦豆 ",
+			"key": "麦豆TV",
+			"name": " 🌱麦豆TV ",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": {
-				"数组": "class=\"myui-vodlist__box\"&&</div>",
-				"分类": "电影$1#剧集$2#动漫$4#综艺$3#",
-				"分类url": "https://www.mdoutv.cc/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"
-			}
+			"ext": "./XBPQ/麦豆TV.json"
 		},
 		{
-			"key": "麻花",
-			"name": " 🥵麻花电影 ",
+			"key": "麻花影视",
+			"name": " 🥵麻花影视 ",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,
-			"ext": {
-				"数组": "<a&&class=\"module-poster-item-title\"",
-				"分类": "电影$mhdy#剧集$mhds#动漫$mhdm#综艺$mhzy#午夜剧场$wyjc#",
-				"分类url": "https://www.mhyyy.com/show/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/year/{year}/page/{catePg}.html"
-			}
+			"filterable": 1,
+			"ext": "./XBPQ/麻花影视.json"
 		},
 		{
 			"key": "臭蛋蛋",
@@ -832,13 +824,8 @@
 			"api": "csp_XBPQ",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,
-			"ext": {
-				"数组": "<a&&class=\"module-poster-item-title\"",
-				"分类": "电影$1#剧集$2#动漫$4#综艺$3#纪录片$38#",
-				"嗅探词": ".m3u8#m3u8?#.mp4#mp4?#ixigua#.czspp#.flv#.mp3#.m4a#?item/video#is_play_url=1#play/?#qianpailive",
-				"分类url": "https://cddys.vip/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"
-			}
+			"filterable": 1,
+			"ext": "./XBPQ/臭蛋蛋.json"
 		},
 		{
 			"key": "奈落影院",
@@ -947,7 +934,7 @@
 			"api": "csp_XBPQ",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,
+			"filterable": 1,
 			"ext": "./XBPQ/NIKETV.json"
 		},
 		{
@@ -957,12 +944,8 @@
 			"api": "csp_XBPQ",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,
-			"ext": {
-				"数组": "class=\"dx-vod\"&&</div>",
-				"分类": "电影$dy#剧集$tv#动漫$dm#记录片$jl#",
-				"分类url": "https://www.ksksl.com/show/{cateId}/area/{area}/by/{by}/class/{class}/year/{year}/page/{catePg}.html"
-			}
+			"filterable": 1,
+			"ext": "./XBPQ/看了吗.json"
 		},
 		{
 			"key": "野荷塘",
@@ -1204,11 +1187,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": {
-				"数组": "class=\"stui-vodlist__box\"&&</li>",
-				"分类": "电影$1#剧集$2#动漫$4#综艺$5#纪录片$3#",
-				"分类url": "https://rebozj.pro/show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"
-			}
+			"ext": "./XBPQ/热播之家.json"
 		},
 		{
 			"key": "音范丝",
