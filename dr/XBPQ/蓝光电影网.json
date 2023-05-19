@@ -3,7 +3,7 @@
 	"站名": "蓝光电影网",
 	"主页url": "http://www.languangdy.com/",
 	"热门": "",
-    "分类": "Bluray蓝光原盘$Bluray#4K超高清$4K&蓝光1080$1080P#WEB-DL高清电影$WEB-DL#TVshow$other/TVshow#电影合集$other/Collection#其他资源$other",
+    "分类": "Bluray蓝光原盘$Bluray#4K超高清$4K#蓝光1080$1080P#WEB-DL高清电影$WEB-DL#TVshow$other/TVshow#电影合集$other/Collection#其他资源$other",
 
 	"分类url": "http://www.languangdy.com/{cateId}/index_{catePg}.html[http://www.languangdy.com/{cateId}]",
 	"数组": "post box row fixed-hight&&info_date info_ico",
