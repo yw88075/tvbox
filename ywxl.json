@@ -21,6 +21,10 @@
             "name": "香雅本地推送",
             "url": "https://fastly.jsdelivr.net/gh/yw88075/tvbox@main/XYQTVBox/XYQTVBox.json"
         },
+        {
+            "name": "荷城茶秀",
+            "url": "http://rihou.cc:88/荷城茶秀"
+        },
         
         {
             "name": "小雅",
