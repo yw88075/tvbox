@@ -1221,13 +1221,23 @@
 		},
 		{
 			"key": "大师兄影视",
-			"name": "大师兄影视（bug版）",
+			"name": "😉大师兄影视（bug版）",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "./XBPQ/大师兄影视.json"
+		},
+		{
+			"key": "网飞TV",
+			"name": "😉网飞TV",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/网飞TV.json"
 		},
 		{
 			"key": "drpy_js_农民",
