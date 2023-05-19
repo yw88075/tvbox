@@ -1239,6 +1239,16 @@
 			"filterable": 1,
 			"ext": "./XBPQ/网飞TV.json"
 		},
+			{
+			"key": "星空影视",
+			"name": "😗星空影视",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/星空影视.json"
+		},
 		{
 			"key": "drpy_js_农民",
 			"name": "农民 ",
