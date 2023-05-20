@@ -1503,6 +1503,16 @@
 			"ext": "./dr/XBPQ/星空影视.json"
 		},
 		{
+			"key": "酷茶影视",
+			"name": "😗酷茶影视",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./dr/XBPQ/酷茶影视.json"
+		},
+		{
 			"key": "drpy_js_农民",
 			"name": "农民 ",
 			"type": 3,
