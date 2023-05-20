@@ -1303,7 +1303,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "http://kuyun.realku.cn/api.php/app/",
-			"jar": "./fty0503.jar"
+			"jar": "./dr/fty0503.jar"
 		},
 		{
 			"key": "多米蓝光",
@@ -1314,7 +1314,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "http://vod.dmdh.top:5680//api.php/app/",
-			"jar": "./fty0503.jar"
+			"jar": "./dr/fty0503.jar"
 		},
 		{
 			"key": "YOHUTV",
@@ -1764,7 +1764,7 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": "http://47.104.99.175",
-			"jar": "./fix230320.jar"
+			"jar": "./dr/fix230320.jar"
 		},
 		{
 			"key": "drpy_js_星空影视",
