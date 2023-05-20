@@ -29,13 +29,7 @@
 			"api": "./dr/lib/drpy2.min.js",
 			"ext": "./dr/js/555影视.js"
 		},
-		{
-			"key": "drpy_js_兰花影院",
-			"name": "❤ 兰花影院 ",
-			"type": 3,
-			"api": "./dr/lib/drpy2.min.js",
-			"ext": "./dr/js/兰花影院.js"
-		},
+		
 		{
 			"key": "drpy_js_美剧网",
 			"name": " 🤩美剧网 ",
@@ -1461,6 +1455,16 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "./dr/XBPQ/巨人影院.json"
+		},
+		{
+			"key": "400影视",
+			"name": "😃400影视",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./dr/XBPQ/400影视.json"
 		},
 		{
 			"key": "大师兄影视",
