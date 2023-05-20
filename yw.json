@@ -1,5 +1,5 @@
 {
-	"spider": "./spider.jar",
+	"spider": "./dr/spider.jar",
 	"sites": [
 		{
 			"key": "drpy_js_豆瓣",
