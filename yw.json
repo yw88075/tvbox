@@ -3,7 +3,7 @@
 	"sites": [
 		{
 			"key": "drpy_js_豆瓣",
-			"name": "豆瓣| 😈心魔自用 ",
+			"name": "😈心魔自用😈 ",
 			"type": 3,
 			"api": "./lib/drpy2.min.js",
 			"ext": "./dr/js/drpy.js"
