@@ -1467,6 +1467,16 @@
 			"ext": "./dr/XBPQ/400影视.json"
 		},
 		{
+			"key": "磁力熊",
+			"name": "😃磁力熊",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./dr/XBPQ/磁力熊.json"
+		},
+		{
 			"key": "大师兄影视",
 			"name": "😉大师兄影视（bug版）",
 			"type": 3,
