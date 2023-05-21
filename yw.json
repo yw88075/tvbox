@@ -2670,32 +2670,7 @@
 			"type": 0,
 			"url": "https://jx.xmflv.com/?url="
 		},
-		{
-			"name": "parwix1",
-			"type": 0,
-			"url": "https://jx.bozrc.com:4433/player/?url=",
-			"ext": {
-				"flag": [
-					"qq",
-					"腾讯",
-					"qiyi",
-					"爱奇艺",
-					"奇艺",
-					"youku",
-					"优酷",
-					"mgtv",
-					"芒果",
-					"letv",
-					"乐视",
-					"pptv",
-					"PPTV",
-					"sohu",
-					"bilibili",
-					"哔哩哔哩",
-					"哔哩"
-				]
-			}
-		},
+	
 		{
 			"name": "OK解析",
 			"type": 0,
@@ -2723,16 +2698,8 @@
 				]
 			}
 		},
-		{
-			"name": "yparse",
-			"type": 0,
-			"url": "https://jx.yparse.com/index.php?url="
-		},
-		{
-			"name": "jsonplayer",
-			"type": 0,
-			"url": "https://jx.jsonplayer.com/player/?url="
-		},
+		
+		
 		{
 			"name": "777",
 			"type": 0,
@@ -2743,11 +2710,7 @@
 			"type": 0,
 			"url": "http://xiaoxin.1080p.me/api/?key=368b2df76af1b58d897bbe31a00180c0&url="
 		},
-		{
-			"name": "盘古",
-			"type": 0,
-			"url": "https://www.pangujiexi.cc/jiexi.php?url="
-		},
+	
 		{
 			"name": "猫影视",
 			"type": 1,
@@ -2791,11 +2754,7 @@
 				]
 			}
 		},
-		{
-			"name": "综合",
-			"type": 0,
-			"url": "https://jx.jsonplayer.com/player/?url="
-		},
+		
 		{
 			"name": "肥猫官解",
 			"type": 1,
@@ -2844,31 +2803,15 @@
 			"type": 0,
 			"url": "https://jx.jsonplayer.com/player/?url="
 		},
-		{
-			"name": "综合/B站",
-			"type": 0,
-			"url": "https://jx.jsonplayer.com/player/?url="
-		},
-		{
-			"name": "纯净1",
-			"type": 0,
-			"url": "https://im1907.top/?jx="
-		},
-		{
-			"name": "B站1",
-			"type": 0,
-			"url": "https://jx.jsonplayer.com/player/?url="
-		},
+	
+		
+		
 		{
 			"name": "爱豆",
 			"type": 0,
 			"url": "https://jx.aidouer.net/?url="
 		},
-		{
-			"name": "BL",
-			"type": 0,
-			"url": "https://vip.bljiex.com/?v="
-		},
+		
 		{
 			"name": "冰豆",
 			"type": 0,
@@ -2884,21 +2827,9 @@
 			"type": 0,
 			"url": "https://www.ckmov.vip/api.php?url="
 		},
-		{
-			"name": "H8",
-			"type": 0,
-			"url": "https://www.h8jx.com/jiexi.php?url="
-		},
-		{
-			"name": "JY",
-			"type": 0,
-			"url": "https://jx.playerjy.com/?url="
-		},
-		{
-			"name": "解析",
-			"type": 0,
-			"url": "https://ckmov.ccyjjd.com/ckmov/?url="
-		},
+		
+		
+		
 		{
 			"name": "解析la",
 			"type": 0,
@@ -2909,26 +2840,14 @@
 			"type": 0,
 			"url": "https://www.mtosz.com/m3u8.php?url="
 		},
-		{
-			"name": "M3U8",
-			"type": 0,
-			"url": "https://jx.m3u8.tv/jiexi/?url="
-		},
+		
 		{
 			"name": "诺讯",
 			"type": 0,
 			"url": "https://www.nxflv.com/?url="
 		},
-		{
-			"name": "OK",
-			"type": 0,
-			"url": "https://okjx.cc/?url="
-		},
-		{
-			"name": "PM",
-			"type": 0,
-			"url": "https://www.playm3u8.cn/jiexi.php?url="
-		},
+		
+		
 		{
 			"name": "盘古",
 			"type": 0,
@@ -2954,11 +2873,7 @@
 			"type": 0,
 			"url": "https://jx.ivito.cn/?url="
 		},
-		{
-			"name": "虾米",
-			"type": 0,
-			"url": "https://jx.xmflv.com/?url="
-		},
+		
 		{
 			"name": "云析",
 			"type": 0,
@@ -2984,16 +2899,8 @@
 			"type": 0,
 			"url": "https://www.8090g.cn/?url="
 		},
-		{
-			"name": "爱豆",
-			"type": 0,
-			"url": "https://jx.aidouer.net/?url="
-		},
-		{
-			"name": "虾米",
-			"type": 0,
-			"url": "https://jx.xmflv.com/?url="
-		},
+		
+		
 		{
 			"name": "yangtu",
 			"type": 0,
@@ -3009,46 +2916,16 @@
 			"type": 0,
 			"url": "https://okjx.cc/?url="
 		},
-		{
-			"name": "诺讯",
-			"type": 0,
-			"url": "https://www.nxflv.com/?url="
-		},
+	
 		{
 			"name": "夜幕",
 			"type": 0,
 			"url": "https://www.yemu.xyz/?url="
 		},
-		{
-			"name": "M3U8.TV",
-			"type": 0,
-			"url": "https://jx.m3u8.tv/jiexi/?url="
-		},
-		{
-			"name": "七哥",
-			"type": 0,
-			"url": "https://jx.nnxv.cn/tv.php?url="
-		},
-		{
-			"name": "冰豆",
-			"type": 0,
-			"url": "https://api.qianqi.net/vip/?url="
-		},
-		{
-			"name": "CK",
-			"type": 0,
-			"url": "https://www.ckplayer.vip/jiexi/?url="
-		},
-		{
-			"name": "ckmov",
-			"type": 0,
-			"url": "https://www.ckmov.vip/api.php?url="
-		},
-		{
-			"name": "playerjy/B站",
-			"type": 0,
-			"url": "https://jx.playerjy.com/?url="
-		},
+		
+		
+	
+		
 		{
 			"name": "ccyjjd",
 			"type": 0,
@@ -3059,21 +2936,9 @@
 			"type": 0,
 			"url": "https://www.ckmov.com/?url="
 		},
-		{
-			"name": "H8",
-			"type": 0,
-			"url": "https://www.h8jx.com/jiexi.php?url="
-		},
-		{
-			"name": "BL",
-			"type": 0,
-			"url": "https://vip.bljiex.com/?v="
-		},
-		{
-			"name": "解析la",
-			"type": 0,
-			"url": "https://api.jiexi.la/?url="
-		},
+	
+		
+		
 		{
 			"name": "MUTV",
 			"type": 0,
@@ -3084,31 +2949,15 @@
 			"type": 0,
 			"url": "https://www.mtosz.com/m3u8.php?url="
 		},
-		{
-			"name": "盘古",
-			"type": 0,
-			"url": "https://www.pangujiexi.cc/jiexi.php?url="
-		},
+	
 		{
 			"name": "无名",
 			"type": 0,
 			"url": "https://www.administratorw.com/video.php?url="
 		},
-		{
-			"name": "纯净1",
-			"type": 0,
-			"url": "https://im1907.top/?jx="
-		},
-		{
-			"name": "B站1",
-			"type": 0,
-			"url": "https://jx.jsonplayer.com/player/?url="
-		},
-		{
-			"name": "爱豆",
-			"type": 0,
-			"url": "https://jx.aidouer.net/?url="
-		},
+		
+		
+
 		{
 			"name": "BL",
 			"type": 0,
@@ -3134,11 +2983,7 @@
 			"type": 0,
 			"url": "https://jx.zhanlangbu.com/?url="
 		},
-		{
-			"name": "ok",
-			"type": 0,
-			"url": "https://okjx.cc/?url="
-		},
+		
 		{
 			"name": "bozrc",
 			"type": 0,
