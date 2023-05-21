@@ -1,5 +1,5 @@
 {
-	"spider": "./dr/spider.jar",
+	"spider": "./dr/fty0503.jar",
 	"sites": [
 		{
 			"key": "drpy_js_豆瓣",
@@ -29,7 +29,6 @@
 			"api": "./dr/lib/drpy2.min.js",
 			"ext": "./dr/js/555影视.js"
 		},
-		
 		{
 			"key": "drpy_js_美剧网",
 			"name": " 🤩美剧网 ",
@@ -1526,7 +1525,6 @@
 			"filterable": 1,
 			"ext": "./dr/XBPQ/酷茶影视.json"
 		},
-		
 		{
 			"key": "爱迪影视",
 			"name": "😗爱迪影视",
@@ -2643,84 +2641,22 @@
 			"url": "https://raw.gitmirror.com/yw88075/tvbox/main/live.txt"
 		}
 	],
-	"rules": [
-		{
-			"host": "www.djuu.com",
-			"rule": [
-				"mp4.djuu.com",
-				"m4a"
-			]
-		},
-		{
-			"host": "www.sharenice.net",
-			"rule": [
-				"huoshan.com",
-				"/item/video/"
-			],
-			"filter": []
-		},
-		{
-			"host": "www.sharenice.net",
-			"rule": [
-				"sovv.qianpailive.com",
-				"vid="
-			],
-			"filter": []
-		},
-		{
-			"host": "www.sharenice.net",
-			"rule": [
-				"douyin.com",
-				"/play/"
-			]
-		},
-		{
-			"host": "m.ysxs8.vip",
-			"rule": [
-				"ysting.ysxs8.vip:81",
-				"xmcdn.com"
-			],
-			"filter": []
-		},
-		{
-			"host": "https://api.live.bilibili.com",
-			"rule": [
-				"bilivideo.com",
-				"/index.m3u8"
-			],
-			"filter": [
-				"data.bilibili.com/log/web",
-				"i0.hdslb.com/bfs/live/"
-			]
-		},
-		{
-			"host": "www.agemys.cc",
-			"rule": [
-				"cdn-tos",
-				"obj/tos-cn"
-			]
-		},
-		{
-			"host": "www.fun4k.com",
-			"rule": [
-				"https://hd.ijycnd.com/play",
-				"index.m3u8"
-			]
-		},
-		{
-			"host": "zjmiao.com",
-			"rule": [
-				"play.videomiao.vip/API.php",
-				"time=",
-				"key=",
-				"path="
-			]
-		}
-	],
 	"parses": [
-		{"name":"Json轮询","type":2,"url":"Sequence"},
-{"name":"Json并发","type":2,"url":"Parallel"},
-{"name":"解析聚合","type":3,"url":"Demo"},
+		{
+			"name": "Json轮询",
+			"type": 2,
+			"url": "Sequence"
+		},
+		{
+			"name": "Json并发",
+			"type": 2,
+			"url": "Parallel"
+		},
+		{
+			"name": "解析聚合",
+			"type": 3,
+			"url": "Demo"
+		},
 		{
 			"name": "星辰云解析",
 			"type": 1,
@@ -2808,7 +2744,6 @@
 			"name": "小新",
 			"type": 0,
 			"url": "http://xiaoxin.1080p.me/api/?key=368b2df76af1b58d897bbe31a00180c0&url="
-
 		},
 		{
 			"name": "盘古",
