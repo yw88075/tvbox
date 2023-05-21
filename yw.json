@@ -2718,34 +2718,9 @@
 		}
 	],
 	"parses": [
-		{
-			"name": "Json聚合",
-			"type": 3,
-			"url": "Demo"
-		},
-		{
-			"name": "Json轮询",
-			"type": 2,
-			"url": "Sequence"
-		},
-		{
-			"name": "自动嗅探",
-			"type": 3,
-			"url": "Web",
-			"header": {
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
-			}
-		},
-		{
-			"name": "Json并发",
-			"type": 2,
-			"url": "Parallel"
-		},
-		{
-			"name": "解析聚合",
-			"type": 3,
-			"url": "Demo"
-		},
+		{"name":"Json轮询","type":2,"url":"Sequence"},
+{"name":"Json并发","type":2,"url":"Parallel"},
+{"name":"解析聚合","type":3,"url":"Demo"},
 		{
 			"name": "星辰云解析",
 			"type": 1,
@@ -2828,6 +2803,12 @@
 			"name": "777",
 			"type": 0,
 			"url": "https://jx.777jiexi.com/player/?url="
+		},
+		{
+			"name": "小新",
+			"type": 0,
+			"url": "http://xiaoxin.1080p.me/api/?key=368b2df76af1b58d897bbe31a00180c0&url="
+
 		},
 		{
 			"name": "盘古",
