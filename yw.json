@@ -1301,8 +1301,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "http://kuyun.realku.cn/api.php/app/",
-			"jar": "./dr/fty0503.jar"
+			"ext": "http://kuyun.realku.cn/api.php/app/"
 		},
 		{
 			"key": "多米蓝光",
@@ -1312,8 +1311,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "http://vod.dmdh.top:5680//api.php/app/",
-			"jar": "./dr/fty0503.jar"
+			"ext": "http://vod.dmdh.top:5680//api.php/app/"
 		},
 		{
 			"key": "YOHUTV",
