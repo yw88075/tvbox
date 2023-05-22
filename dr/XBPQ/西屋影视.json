@@ -3,10 +3,10 @@
 	"站名": "西屋影视",
 	"主页url": "https://xiwutv.com/",
 	"热门": "",
-    "分类": "电影$1#电视剧$2#综艺$3#动漫$4#",
+    "分类": "电影$20#电视剧$21#综艺$22#动漫$23#",
 
-	"分类url": "https://xiwutv.com/vodshow/{cateId}-{area}-{by}------{catePg}---/",
-	"数组": "fed-list-item fed-padding fed-col-xs4 fed-col-sm3 fed-col-md2&&</li>",
+	"分类url": "https://xiwutv.com/index.php/vod/show/id/{cateId}/page/{catePg}.html",
+	"数组": "<a&&module-poster-item-title",
 	"副标题": "",
 	"图片": "data-original=\"&&\"",
 	"标题": "ed-part-eone\" href=\"*\" >&&</a>",
