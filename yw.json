@@ -1,5 +1,5 @@
 {
-	"spider": "./dr/fan519.jar",
+	"spider": "./dr/fty0503.jar",
 	"sites": [
 		{
 			"key": "drpy_js_豆瓣",
@@ -143,6 +143,50 @@
 				"悬疑片",
 				"奇幻片",
 				"动画片",
+				"国产动漫",
+				"日本动漫",
+				"欧美动漫",
+				"港台动漫",
+				"海外动漫",
+				"大陆综艺",
+				"港台综艺",
+				"日韩综艺",
+				"欧美综艺"
+			]
+		},
+		{
+			"key": "csp_xml_红牛",
+			"name": "❤红牛资源",
+			"type": 1,
+			"api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"playerType": 2,
+			"categories": [
+				"动作片",
+				"喜剧片",
+				"科幻片",
+				"恐怖片",
+				"爱情片",
+				"剧情片",
+				"战争片",
+				"纪录片",
+				"动漫电影",
+				"国产剧",
+				"欧美剧",
+				"犯罪片",
+				"港澳剧",
+				"韩剧",
+				"泰剧",
+				"台湾剧",
+				"日剧",
+				"海外剧",
+				"其他片",
+				"悬疑片",
+				"奇幻片",
+				"动画片",
+				"体育赛事",
 				"国产动漫",
 				"日本动漫",
 				"欧美动漫",
@@ -733,6 +777,16 @@
 			"filterable": 1,
 			"ext": "./dr/XBPQ/白嫖影视.json"
 		},
+		{
+         "key": "csp_appys_如意4K",
+         "name": "如意4K",
+         "type": 3,
+         "api": "csp_AppYsV2",
+         "searchable": 1,
+         "quickSearch": 1,
+         "filterable": 1,
+         "ext": "http://cms.maoyingshi.cc/api.php/app/"
+    }, 
 		{
 			"key": "金曼TV",
 			"name": "🤑金曼TV ",
@@ -1464,14 +1518,25 @@
 			"ext": "./dr/XBPQ/400影视.json"
 		},
 		{
-			"key": "磁力熊",
-			"name": "😃磁力熊",
+			"key": "磁力熊1",
+			"name": "😃磁力熊1",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/磁力熊.json"
+			"ext": "./dr/XBPQ/磁力熊.json",
+			"jar": "./dr/csp_XBPQ.jar"
+		},
+		{
+			"key": "磁力熊2",
+			"name": "️磁力熊2",
+			"type": 1,
+			"api": "https://v.3412.net.cn/macapi.php/provide/vod",
+			"playUrl": "https://player.3412.net.cn/?url=",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
 		},
 		{
 			"key": "大师兄影视",
@@ -2541,12 +2606,16 @@
 			"ext": "./dr/js/音乐演唱.json"
 		},
 		{
-			"key": "drpy_js_我的哔哩",
-			"name": "我的哔哩 ",
-			"type": 3,
-			"api": "./dr/lib/drpy2.min.js",
-			"ext": "./dr/js/我的哔哩.js"
-		},
+            "key": "csp_Bili",
+            "name": "哔哔合集",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0,
+            "ext": "http://饭太硬.ga/x/json/bilibili.json"
+        },
 		{
 			"key": "AList",
 			"name": "网盘 | Alist[jar]",
@@ -2670,7 +2739,6 @@
 			"type": 0,
 			"url": "https://jx.xmflv.com/?url="
 		},
-	
 		{
 			"name": "OK解析",
 			"type": 0,
@@ -2698,8 +2766,6 @@
 				]
 			}
 		},
-		
-		
 		{
 			"name": "777",
 			"type": 0,
@@ -2710,7 +2776,6 @@
 			"type": 0,
 			"url": "http://xiaoxin.1080p.me/api/?key=368b2df76af1b58d897bbe31a00180c0&url="
 		},
-	
 		{
 			"name": "猫影视",
 			"type": 1,
@@ -2754,7 +2819,6 @@
 				]
 			}
 		},
-		
 		{
 			"name": "肥猫官解",
 			"type": 1,
@@ -2803,15 +2867,11 @@
 			"type": 0,
 			"url": "https://jx.jsonplayer.com/player/?url="
 		},
-	
-		
-		
 		{
 			"name": "爱豆",
 			"type": 0,
 			"url": "https://jx.aidouer.net/?url="
 		},
-		
 		{
 			"name": "冰豆",
 			"type": 0,
@@ -2827,9 +2887,6 @@
 			"type": 0,
 			"url": "https://www.ckmov.vip/api.php?url="
 		},
-		
-		
-		
 		{
 			"name": "解析la",
 			"type": 0,
@@ -2840,14 +2897,11 @@
 			"type": 0,
 			"url": "https://www.mtosz.com/m3u8.php?url="
 		},
-		
 		{
 			"name": "诺讯",
 			"type": 0,
 			"url": "https://www.nxflv.com/?url="
 		},
-		
-		
 		{
 			"name": "盘古",
 			"type": 0,
@@ -2873,7 +2927,6 @@
 			"type": 0,
 			"url": "https://jx.ivito.cn/?url="
 		},
-		
 		{
 			"name": "云析",
 			"type": 0,
@@ -2899,8 +2952,6 @@
 			"type": 0,
 			"url": "https://www.8090g.cn/?url="
 		},
-		
-		
 		{
 			"name": "yangtu",
 			"type": 0,
@@ -2916,16 +2967,11 @@
 			"type": 0,
 			"url": "https://okjx.cc/?url="
 		},
-	
 		{
 			"name": "夜幕",
 			"type": 0,
 			"url": "https://www.yemu.xyz/?url="
 		},
-		
-		
-	
-		
 		{
 			"name": "ccyjjd",
 			"type": 0,
@@ -2936,9 +2982,6 @@
 			"type": 0,
 			"url": "https://www.ckmov.com/?url="
 		},
-	
-		
-		
 		{
 			"name": "MUTV",
 			"type": 0,
@@ -2949,15 +2992,11 @@
 			"type": 0,
 			"url": "https://www.mtosz.com/m3u8.php?url="
 		},
-	
 		{
 			"name": "无名",
 			"type": 0,
 			"url": "https://www.administratorw.com/video.php?url="
 		},
-		
-		
-
 		{
 			"name": "BL",
 			"type": 0,
@@ -2983,7 +3022,6 @@
 			"type": 0,
 			"url": "https://jx.zhanlangbu.com/?url="
 		},
-		
 		{
 			"name": "bozrc",
 			"type": 0,
