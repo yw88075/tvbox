@@ -25,8 +25,10 @@
 	"主演": "主演：&&</li>",
 	"简介": "line-height: 20px&&</p>",
 	"嗅探词": ".m3u8#m3u8?#.mp4#mp4?#ixigua#.czspp#.flv#.mp3#.m4a#?item/video#is_play_url=1#play/?#qianpailive",
+	"线路数组": "data-hash=\"slide{1}\"&&</small>",
+	"线路标题": "\">&&<",
 	
-	
+	"播放数组": "class=\"module-play-list\">&&</div>",
 	"播放列表": "<a&&</a>",
 	"播放标题": "<span>&&</span>",
 	"播放链接": "href=\"&&\"",
