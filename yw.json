@@ -167,7 +167,7 @@
 		},
 		{
 			"key": "243影视网",
-			"name": "😀243影视网（可能跑路）",
+			"name": "😀243影视网",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
@@ -1589,6 +1589,26 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "./dr/XBPQ/爱迪影视.json"
+		},
+			{
+			"key": "影视之家",
+			"name": "😗影视之家",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./dr/XBPQ/影视之家.json"
+		},
+		{
+			"key": "免费电影",
+			"name": "😗免费电影",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./dr/XBPQ/免费电影.json"
 		},
 		{
 			"key": "drpy_js_农民",
