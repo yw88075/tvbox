@@ -1877,14 +1877,14 @@
 			"ext": "./dr/XBPQ/影视之家.json"
 		},
 		{
-			"key": "免费电影",
-			"name": "😗免费电影",
+			"key": "免费思古",
+			"name": "😗免费思古",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/免费电影.json"
+			"ext": "./dr/XBPQ/免费思古.json"
 		},
 		
 		{
