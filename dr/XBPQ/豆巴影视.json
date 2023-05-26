@@ -3,15 +3,15 @@
   "站名": "豆巴影视",
   "主页url": "https://www.doubays.com/",
   "热门": "",
-    "嗅探词": ".m3u8#m3u8?#.mp4#mp4?#ixigua#.czspp#.flv#.mp3#.m4a#?item/video#is_play_url=1#play/?#qianpailive",
+  "嗅探词": ".m3u8#m3u8?#.mp4#mp4?#ixigua#.czspp#.flv#.mp3#.m4a#?item/video#is_play_url=1#play/?#qianpailive",
   "分类": "电影$1#剧集$2#动漫$3#综艺$4#",
   
   "分类url": "https://www.doubays.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
-  
-  "数组": "<a&&module-poster-item-title",
+  "标题": "title=\"&&\"",
+  "数组": "hl-item-thumb hl-lazy&&</li>",
   "副标题": "",
-  "图片": "",
-  
+  "图片": "data-original=\"&&\"",
+  "链接": "href=\"&&\"",
   "搜索模式": "1",
   "搜索url": "https://www.doubays.com/vodsearch/-------------.html?wd={wd}",
   "搜索数组": "",
