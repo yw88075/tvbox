@@ -1217,7 +1217,7 @@
 		},
 		{
 			"key": "无名小站",
-			"name": "😐无名小站5.26跑路",
+			"name": "😐无名小站",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
@@ -1886,7 +1886,16 @@
 			"filterable": 1,
 			"ext": "./dr/XBPQ/免费思古.json"
 		},
-		
+		{
+			"key": "简单影视",
+			"name": "😗简单影视",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./dr/XBPQ/简单影视.json"
+		},
 		{
 			"key": "drpy_js_农民",
 			"name": "农民 ",
