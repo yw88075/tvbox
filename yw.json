@@ -1,5 +1,5 @@
 {
-	"spider": "./dr/fan528.jar",
+	"spider": "./fan528.jar",
 	"sites": [
 		{
 			"key": "drpy_js_豆瓣",
@@ -51,7 +51,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "./dr/XBPQ/6v电影.json"
+			"ext": "./XBPQ/6v电影.json"
 		},
 		{
 			"key": "蓝光电影网",
@@ -61,7 +61,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/蓝光电影网.json"
+			"ext": "./XBPQ/蓝光电影网.json"
 		},
 		{
 			"key": "天天影院",
@@ -71,7 +71,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "./dr/XBPQ/天天影院.json"
+			"ext": "./XBPQ/天天影院.json"
 		},
 		{
 			"key": "稀饭",
@@ -81,7 +81,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "./dr/XBPQ/稀饭.json"
+			"ext": "./XBPQ/稀饭.json"
 		},
 		{
 			"key": "voflix",
@@ -91,7 +91,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "./dr/XBPQ/voflix.json"
+			"ext": "./XBPQ/voflix.json"
 		},
 		{
 			"key": "无极影院",
@@ -101,7 +101,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/无极影院.json"
+			"ext": "./XBPQ/无极影院.json"
 		},
 		{
 			"key": "大米星球",
@@ -111,7 +111,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/大米星球.json"
+			"ext": "./XBPQ/大米星球.json"
 		},
 		{
 			"key": "野荷塘",
@@ -121,7 +121,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "./dr/XBPQ/野荷塘.json"
+			"ext": "./XBPQ/野荷塘.json"
 		},
 		{
 			"key": "假低端",
@@ -131,7 +131,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "./dr/XBPQ/假低端.json"
+			"ext": "./XBPQ/假低端.json"
 		},
 		{
 			"key": "TV云播",
@@ -141,7 +141,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "./dr/XBPQ/TV云播.json"
+			"ext": "./XBPQ/TV云播.json"
 		},
 		{
 			"key": "凌云影视",
@@ -151,7 +151,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "./dr/XBPQ/凌云影视.json"
+			"ext": "./XBPQ/凌云影视.json"
 		},
 		{
 			"key": "两个BT",
@@ -161,7 +161,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "./dr/XBPQ/两个BT.json"
+			"ext": "./XBPQ/两个BT.json"
 		},
 		{
 			"key": "快看影视",
@@ -171,7 +171,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "./dr/XBPQ/快看影视.json"
+			"ext": "./XBPQ/快看影视.json"
 		},
 		{
 			"key": "豆巴影视",
@@ -181,7 +181,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "./dr/XBPQ/豆巴影视.json"
+			"ext": "./XBPQ/豆巴影视.json"
 		},
 		{
 			"key": "243影视网",
@@ -191,7 +191,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/243影视网.json"
+			"ext": "./XBPQ/243影视网.json"
 		},
 		{
 			"key": "drpy_js_莫扎兔儿",
@@ -208,7 +208,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/COKEMV.json"
+			"ext": "./XBPQ/COKEMV.json"
 		},
 		{
 			"key": "伊人追剧",
@@ -218,7 +218,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/伊人追剧.json"
+			"ext": "./XBPQ/伊人追剧.json"
 		},
 		{
 			"key": "八戒影院",
@@ -228,7 +228,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/八戒影院.json"
+			"ext": "./XBPQ/八戒影院.json"
 		},
 		{
 			"key": "小狗影院",
@@ -238,7 +238,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/小狗影院.json"
+			"ext": "./XBPQ/小狗影院.json"
 		},
 		{
 			"key": "北川影视",
@@ -248,7 +248,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/北川影视.json"
+			"ext": "./XBPQ/北川影视.json"
 		},
 		{
 			"key": "全能影视",
@@ -258,7 +258,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/全能影视.json"
+			"ext": "./XBPQ/全能影视.json"
 		},
 		{
 			"key": "乌龟影院",
@@ -268,7 +268,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/乌龟影院.json"
+			"ext": "./XBPQ/乌龟影院.json"
 		},
 		{
 			"key": "555",
@@ -278,7 +278,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/555.json"
+			"ext": "./XBPQ/555.json"
 		},
 		{
 			"key": "美剧天堂",
@@ -288,7 +288,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/美剧天堂.json"
+			"ext": "./XBPQ/美剧天堂.json"
 		},
 		{
 			"key": "美剧窝",
@@ -298,7 +298,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/美剧窝.json"
+			"ext": "./XBPQ/美剧窝.json"
 		},
 		{
 			"key": "人人美剧",
@@ -308,7 +308,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/人人美剧.json"
+			"ext": "./XBPQ/人人美剧.json"
 		},
 		{
 			"key": "91美剧",
@@ -318,7 +318,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/91美剧.json"
+			"ext": "./XBPQ/91美剧.json"
 		},
 		{
 			"key": "美剧网",
@@ -328,7 +328,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/美剧网.json"
+			"ext": "./XBPQ/美剧网.json"
 		},
 		{
 			"key": "久久美剧网",
@@ -338,7 +338,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/久久美剧网.json"
+			"ext": "./XBPQ/久久美剧网.json"
 		},
 		{
 			"key": "人人影视p",
@@ -348,7 +348,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/人人影视p.json"
+			"ext": "./XBPQ/人人影视p.json"
 		},
 		{
 			"key": "csp_XBPQ_一龙影视",
@@ -358,7 +358,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/一龙影视.json"
+			"ext": "./XBPQ/一龙影视.json"
 		},
 		{
 			"key": "兄弟影视",
@@ -368,7 +368,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/兄弟影视.json"
+			"ext": "./XBPQ/兄弟影视.json"
 		},
 		
 		{
@@ -1003,7 +1003,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/Vidhub.json"
+			"ext": "./XBPQ/Vidhub.json"
 		},
 		{
 			"key": "落攻阁",
@@ -1013,7 +1013,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/落攻阁.json"
+			"ext": "./XBPQ/落攻阁.json"
 		},
 		{
 			"key": "libvio",
@@ -1023,7 +1023,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/libvio.json"
+			"ext": "./XBPQ/libvio.json"
 		},
 		{
 			"key": "达达龟",
@@ -1033,7 +1033,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/达达龟.json"
+			"ext": "./XBPQ/达达龟.json"
 		},
 		{
 			"key": "胖虎影视",
@@ -1043,7 +1043,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/胖虎影视.json"
+			"ext": "./XBPQ/胖虎影视.json"
 		},
 		{
 			"key": "看看电影",
@@ -1053,7 +1053,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/看看电影.json"
+			"ext": "./XBPQ/看看电影.json"
 		},
 		{
 			"key": "csp_XBPQ",
@@ -1063,7 +1063,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/白嫖影视.json"
+			"ext": "./XBPQ/白嫖影视.json"
 		},
 		{
 			"key": "csp_appys_如意4K",
@@ -1083,7 +1083,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/金曼TV.json"
+			"ext": "./XBPQ/金曼TV.json"
 		},
 		{
 			"key": "花花",
@@ -1093,7 +1093,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/花花.json"
+			"ext": "./XBPQ/花花.json"
 		},
 		{
 			"key": "神马影院",
@@ -1103,7 +1103,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/神马影院.json"
+			"ext": "./XBPQ/神马影院.json"
 		},
 		{
 			"key": "白狐影视",
@@ -1113,7 +1113,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/白狐影视.json"
+			"ext": "./XBPQ/白狐影视.json"
 		},
 		{
 			"key": "土豪影视",
@@ -1123,7 +1123,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/土豪影视.json"
+			"ext": "./XBPQ/土豪影视.json"
 		},
 		{
 			"key": "爱看影院",
@@ -1133,7 +1133,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/爱看影院.json"
+			"ext": "./XBPQ/爱看影院.json"
 		},
 		{
 			"key": "秋霞影视",
@@ -1143,7 +1143,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/秋霞影视.json"
+			"ext": "./XBPQ/秋霞影视.json"
 		},
 		{
 			"key": "歪片星球",
@@ -1153,7 +1153,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/歪片星球.json"
+			"ext": "./XBPQ/歪片星球.json"
 		},
 		{
 			"key": "小鹿影视",
@@ -1163,7 +1163,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/小鹿影视.json"
+			"ext": "./XBPQ/小鹿影视.json"
 		},
 		{
 			"key": "慢大浪",
@@ -1173,7 +1173,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/慢大浪.json"
+			"ext": "./XBPQ/慢大浪.json"
 		},
 		{
 			"key": "影视工场",
@@ -1183,7 +1183,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/影视工场.json"
+			"ext": "./XBPQ/影视工场.json"
 		},
 		{
 			"key": "AUETE影视",
@@ -1193,7 +1193,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/AUETE影视.json"
+			"ext": "./XBPQ/AUETE影视.json"
 		},
 		{
 			"key": "厂长",
@@ -1203,7 +1203,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/厂长.json"
+			"ext": "./XBPQ/厂长.json"
 		},
 		{
 			"key": "天空影视",
@@ -1213,7 +1213,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/天空影视.json"
+			"ext": "./XBPQ/天空影视.json"
 		},
 		{
 			"key": "无名小站",
@@ -1223,7 +1223,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/无名小站.json"
+			"ext": "./XBPQ/无名小站.json"
 		},
 		{
 			"key": "6080",
@@ -1233,7 +1233,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/6080.json"
+			"ext": "./XBPQ/6080.json"
 		},
 		{
 			"key": "蓝光",
@@ -1243,7 +1243,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/蓝光影院.json"
+			"ext": "./XBPQ/蓝光影院.json"
 		},
 		{
 			"key": "莫扎兔",
@@ -1253,7 +1253,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/莫扎兔.json"
+			"ext": "./XBPQ/莫扎兔.json"
 		},
 		{
 			"key": "23影视",
@@ -1263,7 +1263,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/23影视.json"
+			"ext": "./XBPQ/23影视.json"
 		},
 		{
 			"key": "八戒影院",
@@ -1273,7 +1273,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/八戒影院.json"
+			"ext": "./XBPQ/八戒影院.json"
 		},
 		{
 			"key": "朴樱影视",
@@ -1283,7 +1283,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/朴樱影视.json"
+			"ext": "./XBPQ/朴樱影视.json"
 		},
 		{
 			"key": "孜然影视",
@@ -1293,7 +1293,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/孜然影视.json"
+			"ext": "./XBPQ/孜然影视.json"
 		},
 		{
 			"key": "思古影视",
@@ -1303,7 +1303,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/思古影视.json"
+			"ext": "./XBPQ/思古影视.json"
 		},
 		{
 			"key": "在线之家",
@@ -1313,7 +1313,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/在线之家.json"
+			"ext": "./XBPQ/在线之家.json"
 		},
 		{
 			"key": "FREEOK",
@@ -1323,7 +1323,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/freeok.json"
+			"ext": "./XBPQ/freeok.json"
 		},
 		{
 			"key": "西瓜影视",
@@ -1333,7 +1333,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/西瓜影视.json"
+			"ext": "./XBPQ/西瓜影视.json"
 		},
 		{
 			"key": "看一看",
@@ -1343,7 +1343,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/看一看.json"
+			"ext": "./XBPQ/看一看.json"
 		},
 		{
 			"key": "人人筷子",
@@ -1353,7 +1353,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/人人筷子.json"
+			"ext": "./XBPQ/人人筷子.json"
 		},
 		{
 			"key": "麦豆TV",
@@ -1363,7 +1363,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/麦豆TV.json"
+			"ext": "./XBPQ/麦豆TV.json"
 		},
 		{
 			"key": "麻花影视",
@@ -1373,7 +1373,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/麻花影视.json"
+			"ext": "./XBPQ/麻花影视.json"
 		},
 		{
 			"key": "臭蛋蛋",
@@ -1383,7 +1383,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/臭蛋蛋.json"
+			"ext": "./XBPQ/臭蛋蛋.json"
 		},
 		{
 			"key": "奈落影院",
@@ -1393,7 +1393,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/奈落影院.json"
+			"ext": "./XBPQ/奈落影院.json"
 		},
 		{
 			"key": "端木",
@@ -1403,7 +1403,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/端木.json"
+			"ext": "./XBPQ/端木.json"
 		},
 		{
 			"key": "霹雳影视",
@@ -1413,7 +1413,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "./dr/XBPQ/霹雳影视.json"
+			"ext": "./XBPQ/霹雳影视.json"
 		},
 		{
 			"key": "素白白",
@@ -1423,7 +1423,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "./dr/XBPQ/素白白.json"
+			"ext": "./XBPQ/素白白.json"
 		},
 		{
 			"key": "双十",
@@ -1433,7 +1433,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "./dr/XBPQ/双十.json"
+			"ext": "./XBPQ/双十.json"
 		},
 		{
 			"key": "哆咪",
@@ -1443,7 +1443,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "./dr/XBPQ/哆咪.json"
+			"ext": "./XBPQ/哆咪.json"
 		},
 		{
 			"key": "万博剧院",
@@ -1453,7 +1453,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "./dr/XBPQ/万博剧院.json"
+			"ext": "./XBPQ/万博剧院.json"
 		},
 		{
 			"key": "影渣渣",
@@ -1463,7 +1463,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "./dr/XBPQ/影渣渣.json"
+			"ext": "./XBPQ/影渣渣.json"
 		},
 		{
 			"key": "骚火影视",
@@ -1473,7 +1473,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/骚火影视.json"
+			"ext": "./XBPQ/骚火影视.json"
 		},
 		{
 			"key": "八蛋影视",
@@ -1483,7 +1483,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "./dr/XBPQ/八蛋影视.json"
+			"ext": "./XBPQ/八蛋影视.json"
 		},
 		{
 			"key": "NIKETV",
@@ -1493,7 +1493,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/NIKETV.json"
+			"ext": "./XBPQ/NIKETV.json"
 		},
 		{
 			"key": "看了么",
@@ -1503,7 +1503,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/看了吗.json"
+			"ext": "./XBPQ/看了吗.json"
 		},
 		{
 			"key": "野荷塘",
@@ -1513,7 +1513,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/野荷塘.json"
+			"ext": "./XBPQ/野荷塘.json"
 		},
 		{
 			"key": "喵影视",
@@ -1523,7 +1523,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/喵影视.json"
+			"ext": "./XBPQ/喵影视.json"
 		},
 		{
 			"key": "锐行加速",
@@ -1533,7 +1533,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/锐行加速.json"
+			"ext": "./XBPQ/锐行加速.json"
 		},
 		{
 			"key": "明帝影视",
@@ -1543,7 +1543,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/明帝影视.json"
+			"ext": "./XBPQ/明帝影视.json"
 		},
 		{
 			"key": "真不卡",
@@ -1553,7 +1553,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/真不卡.json"
+			"ext": "./XBPQ/真不卡.json"
 		},
 		{
 			"key": "奇优影视",
@@ -1563,7 +1563,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/奇优影视.json"
+			"ext": "./XBPQ/奇优影视.json"
 		},
 		{
 			"key": "冷曦影视",
@@ -1573,7 +1573,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/冷曦影视.json"
+			"ext": "./XBPQ/冷曦影视.json"
 		},
 		{
 			"key": "看看剧",
@@ -1583,7 +1583,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/看看剧.json"
+			"ext": "./XBPQ/看看剧.json"
 		},
 		{
 			"key": "我爱跟剧",
@@ -1593,7 +1593,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/我爱跟剧.json"
+			"ext": "./XBPQ/我爱跟剧.json"
 		},
 		{
 			"key": "咖啡影院",
@@ -1603,7 +1603,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/咖啡影院.json"
+			"ext": "./XBPQ/咖啡影院.json"
 		},
 		{
 			"key": "九九影院",
@@ -1613,7 +1613,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/九九影院.json"
+			"ext": "./XBPQ/九九影院.json"
 		},
 		{
 			"key": "csp_appys_酷影",
@@ -1643,7 +1643,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/YOHUTV.json"
+			"ext": "./XBPQ/YOHUTV.json"
 		},
 		{
 			"key": "WZ影视",
@@ -1653,7 +1653,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/WZ影视.json"
+			"ext": "./XBPQ/WZ影视.json"
 		},
 		{
 			"key": "洞庭影视",
@@ -1663,7 +1663,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/洞庭影视.json"
+			"ext": "./XBPQ/洞庭影视.json"
 		},
 		{
 			"key": "皮皮鸭",
@@ -1673,7 +1673,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/皮皮鸭.json"
+			"ext": "./XBPQ/皮皮鸭.json"
 		},
 		{
 			"key": "鸭奈非",
@@ -1683,7 +1683,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/鸭奈非.json"
+			"ext": "./XBPQ/鸭奈非.json"
 		},
 		{
 			"key": "鸭奈非4K",
@@ -1693,7 +1693,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/鸭奈非4K.json"
+			"ext": "./XBPQ/鸭奈非4K.json"
 		},
 		{
 			"key": "饭团",
@@ -1703,7 +1703,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/饭团.json"
+			"ext": "./XBPQ/饭团.json"
 		},
 		{
 			"key": "城市电影",
@@ -1713,7 +1713,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/城市电影.json"
+			"ext": "./XBPQ/城市电影.json"
 		},
 		{
 			"key": "独播库",
@@ -1723,7 +1723,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "./dr/XBPQ/独播库.json"
+			"ext": "./XBPQ/独播库.json"
 		},
 		{
 			"key": "CHNNETFILX",
@@ -1733,7 +1733,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/CHNNETFILX.json"
+			"ext": "./XBPQ/CHNNETFILX.json"
 		},
 		{
 			"key": "热播之家",
@@ -1743,7 +1743,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/热播之家.json"
+			"ext": "./XBPQ/热播之家.json"
 		},
 		{
 			"key": "音范丝",
@@ -1753,7 +1753,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/音范丝.json"
+			"ext": "./XBPQ/音范丝.json"
 		},
 		{
 			"key": "188kan",
@@ -1763,7 +1763,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/188kan.json"
+			"ext": "./XBPQ/188kan.json"
 		},
 		{
 			"key": "巨人影院",
@@ -1773,7 +1773,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/巨人影院.json"
+			"ext": "./XBPQ/巨人影院.json"
 		},
 		{
 			"key": "400影视",
@@ -1783,7 +1783,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/400影视.json"
+			"ext": "./XBPQ/400影视.json"
 		},
 		{
 			"key": "磁力熊1",
@@ -1793,7 +1793,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/磁力熊.json",
+			"ext": "./XBPQ/磁力熊.json",
 			"jar": "./dr/csp_XBPQ.jar"
 		},
 		{
@@ -1814,7 +1814,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/大师兄影视.json"
+			"ext": "./XBPQ/大师兄影视.json"
 		},
 		{
 			"key": "网飞TV",
@@ -1824,7 +1824,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/网飞TV.json"
+			"ext": "./XBPQ/网飞TV.json"
 		},
 		{
 			"key": "西屋影视",
@@ -1834,7 +1834,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/西屋影视.json"
+			"ext": "./XBPQ/西屋影视.json"
 		},
 		{
 			"key": "星空影视",
@@ -1844,7 +1844,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/星空影视.json"
+			"ext": "./XBPQ/星空影视.json"
 		},
 		{
 			"key": "酷茶影视",
@@ -1854,7 +1854,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/酷茶影视.json"
+			"ext": "./XBPQ/酷茶影视.json"
 		},
 		{
 			"key": "爱迪影视",
@@ -1864,7 +1864,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/爱迪影视.json"
+			"ext": "./XBPQ/爱迪影视.json"
 		},
 		{
 			"key": "影视之家",
@@ -1874,7 +1874,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/影视之家.json"
+			"ext": "./XBPQ/影视之家.json"
 		},
 		{
 			"key": "免费思古",
@@ -1884,7 +1884,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/免费思古.json"
+			"ext": "./XBPQ/免费思古.json"
 		},
 		{
 			"key": "简单影视",
@@ -1894,7 +1894,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/简单影视.json"
+			"ext": "./XBPQ/简单影视.json"
 		},
 		{
 			"key": "映迷影院",
@@ -1904,7 +1904,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./dr/XBPQ/映迷影院.json"
+			"ext": "./XBPQ/映迷影院.json"
 		},
 		{
 			"key": "drpy_js_农民",
