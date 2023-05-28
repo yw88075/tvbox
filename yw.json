@@ -1,5 +1,5 @@
 {
-	"spider": "./fan528.jar",
+	"spider": "./yw528.jar",
 	"sites": [
 		{
 			"key": "drpy_js_豆瓣",
@@ -1927,7 +1927,16 @@
 			"filterable": 1,
 			"ext": "./XBPQ/批哩㕷哩.json"
 		},
-		
+		{
+			"key": "酷绘",
+			"name": "😗酷绘",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/酷绘.json"
+		},
 		{
 			"key": "drpy_js_农民",
 			"name": "农民 ",
