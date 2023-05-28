@@ -1897,6 +1897,16 @@
 			"ext": "./dr/XBPQ/简单影视.json"
 		},
 		{
+			"key": "映迷影院",
+			"name": "😗映迷影院",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./dr/XBPQ/映迷影院.json"
+		},
+		{
 			"key": "drpy_js_农民",
 			"name": "农民 ",
 			"type": 3,
