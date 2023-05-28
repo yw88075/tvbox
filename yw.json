@@ -1907,6 +1907,16 @@
 			"ext": "./XBPQ/映迷影院.json"
 		},
 		{
+			"key": "野菊花电影网",
+			"name": "😗野菊花电影网",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/野菊花电影网.json"
+		},
+		{
 			"key": "drpy_js_农民",
 			"name": "农民 ",
 			"type": 3,
