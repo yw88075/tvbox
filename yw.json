@@ -1916,6 +1916,17 @@
 			"filterable": 1,
 			"ext": "./XBPQ/野菊花电影网.json"
 		},
+		
+		{
+			"key": "批哩㕷哩",
+			"name": "😗批哩㕷哩",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/批哩㕷哩.json"
+		},
 		{
 			"key": "drpy_js_农民",
 			"name": "农民 ",
