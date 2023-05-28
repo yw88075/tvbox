@@ -1904,6 +1904,34 @@
 			"ext": "./dr/js/农民.js"
 		},
 		{
+			"key": "drpy_js_布雷蓝光",
+			"name": "布雷蓝光 ",
+			"type": 3,
+			"api": "./dr/lib/drpy2.min.js",
+			"ext": "./dr/js/布雷蓝光.js"
+		},
+		{
+			"key": "drpy_js_映迷影院",
+			"name": "映迷影院 ",
+			"type": 3,
+			"api": "./dr/lib/drpy2.min.js",
+			"ext": "./dr/js/映迷影院.js"
+		},
+		{
+			"key": "drpy_js_兰花影院",
+			"name": "兰花影院 ",
+			"type": 3,
+			"api": "./dr/lib/drpy2.min.js",
+			"ext": "./dr/js/兰花影院.js"
+		},
+		{
+			"key": "drpy_js_8K影视",
+			"name": "8K影视 ",
+			"type": 3,
+			"api": "./dr/lib/drpy2.min.js",
+			"ext": "./dr/js/8K影视.js"
+		},
+		{
 			"key": "drpy_js_FreeOK",
 			"name": " FreeOK ",
 			"type": 3,
