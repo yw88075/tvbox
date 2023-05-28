@@ -1,0 +1,105 @@
+{
+  "作者": "心魔",
+  "站名": "无极影院",
+  "主页url": "https://www.wuji7.com/",
+  "数组": "img-pic&&</div>",
+  "直接播放": "0",
+  "图片": "data-original=\"&&\"",
+  "标题": "title=\"&&\"",
+  "链接": "href=\"&&\"",
+  "链接前缀": "",
+  "链接后缀": "",
+  "副标题": "",
+  "搜索url": "",
+  "搜索数组": "",
+  "搜索图片": "",
+  "搜索标题": "",
+  "搜索链接": "",
+  "搜索副标题": "",
+  "影片类型": "类型：&&</li>",
+  "影片年代": "年份：&&</a>",
+  "影片地区": "地区：&&</a>",
+  "影片状态": "状态：&&</li>",
+  "导演": "导演：&&</li>",
+  "主演": "主演：&&</li>",
+  "简介": "line-height: 20px&&</p>",
+  "嗅探词": ".m3u8#m3u8?#.mp4#mp4?#ixigua#.czspp#.flv#.mp3#.m4a#?item/video#is_play_url=1#play/?#qianpailive",
+  "线路数组": "a id=&&</a>",
+  "线路标题": "\">&&</a>",
+  "播放数组": "play-list fade-in&&</ul>",
+  "播放列表": "a target=\"_blank&&</li>",
+  "播放标题": ">&&</a>",
+  "播放链接": "href=\"&&\"",
+  "分类url": "https://www.wuji7.com/{cateId}/index______{catePg}.html",
+  "分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi#",
+  "筛选": {
+    "dianying": [
+      {
+        "key": "cateId",
+        "name": "类型",
+        "value": [
+          {
+            "n": "全部",
+            "v": ""
+          },
+          {
+            "n": "动作片",
+            "v": "dongzuopian"
+          },
+          {
+            "n": "喜剧片",
+            "v": "xijupian"
+          },
+          {
+            "n": "爱情片",
+            "v": "aiqingpian"
+          },
+          {
+            "n": "科幻片",
+            "v": "kehuanpian"
+          },
+          {
+            "n": "恐怖片",
+            "v": "kongbupian"
+          },
+          {
+            "n": "纪录片",
+            "v": "jilupian"
+          },
+          {
+            "n": "战争片",
+            "v": "zhanzhengpian"
+          }
+        ]
+      }
+    ],
+    "dianshiju": [
+      {
+        "key": "cateId",
+        "name": "类型",
+        "value": [
+          {
+            "n": "全部",
+            "v": ""
+          },
+          {
+            "n": "国产剧",
+            "v": "guocanju"
+          },
+          {
+            "n": "港台剧",
+            "v": "xianggangju"
+          },
+          {
+            "n": "韩剧",
+            "v": "hanguoju"
+          },
+          {
+            "n": "欧美剧",
+            "v": "oumeiju"
+          }
+        ]
+      }
+    ]
+  }
+}
