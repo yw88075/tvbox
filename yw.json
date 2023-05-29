@@ -144,8 +144,8 @@
 			"ext": "./XBPQ/假低端.json"
 		},
 		{
-			"key": "TV云播",
-			"name": "☺TV云播 ",
+			"key": "TVB云播",
+			"name": "☺TVB云播 ",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
