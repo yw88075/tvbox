@@ -44,6 +44,16 @@
 			"ext": "./dr/js/ddys.js"
 		},
 		{
+			"key": "厂长",
+			"name": "🤩厂长",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/厂长.json"
+		},
+		{
 			"key": "6v电影",
 			"name": "🤩6v电影",
 			"type": 3,
@@ -1195,16 +1205,7 @@
 			"filterable": 1,
 			"ext": "./XBPQ/AUETE影视.json"
 		},
-		{
-			"key": "厂长",
-			"name": "🤩厂长",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./XBPQ/厂长.json"
-		},
+		
 		{
 			"key": "天空影视",
 			"name": "🤨天空影视",
@@ -1936,6 +1937,16 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "./XBPQ/酷绘.json"
+		},
+			{
+			"key": "首播影视",
+			"name": "😗首播影视",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/首播影视.json"
 		},
 		{
 			"key": "drpy_js_农民",
