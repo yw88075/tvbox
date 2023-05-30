@@ -2223,6 +2223,34 @@
 			"jar": "./dr/fix230320.jar"
 		},
 		{
+			"key": "drpy_js_飞云[V2]",
+			"name": "飞云[V2]",
+			"type": 3,
+			"api": "./dr/lib/drpy2.min.js",
+			"ext": "./dr/js/飞云[V2].js"
+		},
+		{
+			"key": "drpy_js_迷你库[V2]",
+			"name": "迷你库[V2]",
+			"type": 3,
+			"api": "./dr/lib/drpy2.min.js",
+			"ext": "./dr/js/迷你库[V2].js"
+		},
+		{
+			"key": "drpy_js_如意[V2]",
+			"name": "如意[V2]",
+			"type": 3,
+			"api": "./dr/lib/drpy2.min.js",
+			"ext": "./dr/js/如意[V2].js"
+		},
+		{
+			"key": "drpy_js_多米[V2]",
+			"name": "多米[V2]",
+			"type": 3,
+			"api": "./dr/lib/drpy2.min.js",
+			"ext": "./dr/js/多米[V2].js"
+		},
+		{
 			"key": "drpy_js_星空影视",
 			"name": " 星空影视 ",
 			"type": 3,
@@ -2467,13 +2495,7 @@
 			"api": "./dr/lib/drpy2.min.js",
 			"ext": "./dr/js/骚火电影.js"
 		},
-		{
-			"key": "drpy_js_回响影视",
-			"name": " 回响影视 ",
-			"type": 3,
-			"api": "./dr/lib/drpy2.min.js",
-			"ext": "./dr/js/回响影视.js"
-		},
+	
 		{
 			"key": "drpy_js_闪影影院",
 			"name": " 闪影影院 ",
@@ -2530,13 +2552,7 @@
 			"api": "./dr/lib/drpy2.min.js",
 			"ext": "./dr/js/零度影视.js"
 		},
-		{
-			"key": "drpy_js_哔哩影视",
-			"name": " 哔哩影视 ",
-			"type": 3,
-			"api": "./dr/lib/drpy2.min.js",
-			"ext": "./dr/js/哔哩影视.js"
-		},
+		
 		{
 			"key": "csp_MeiJu69",
 			"name": "69美剧（等修）",
