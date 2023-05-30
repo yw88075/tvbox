@@ -36,6 +36,7 @@
 			"api": "./dr/lib/drpy2.min.js",
 			"ext": "./dr/js/萌蛋蛋.js"
 		},
+		
 		{
 			"key": "drpy_js_低端",
 			"name": "❤  低端 ",
@@ -52,6 +53,16 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "./XBPQ/厂长.json"
+		},
+		{
+			"key": "臭蛋蛋",
+			"name": " 😀臭蛋蛋 ",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/臭蛋蛋.json"
 		},
 		{
 			"key": "6v电影",
@@ -102,6 +113,16 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "./XBPQ/vidhub.json"
+		},
+		{
+			"key": "素白白",
+			"name": "😆素白白 ",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "./XBPQ/素白白.json"
 		},
 		{
 			"key": "蓝光电影网",
@@ -1380,16 +1401,7 @@
 			"filterable": 1,
 			"ext": "./XBPQ/麻花影视.json"
 		},
-		{
-			"key": "臭蛋蛋",
-			"name": " 😀臭蛋蛋 ",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./XBPQ/臭蛋蛋.json"
-		},
+		
 		{
 			"key": "奈落影院",
 			"name": "🤨奈落影院",
@@ -1420,16 +1432,7 @@
 			"filterable": 0,
 			"ext": "./XBPQ/霹雳影视.json"
 		},
-		{
-			"key": "素白白",
-			"name": "😆素白白 ",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "./XBPQ/素白白.json"
-		},
+		
 		{
 			"key": "双十",
 			"name": "😆双十 ",
