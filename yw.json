@@ -64,6 +64,46 @@
 			"ext": "./XBPQ/6v电影.json"
 		},
 		{
+			"key": "FREEOK",
+			"name": " ☺FREEOK ",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/freeok.json"
+		},
+			{
+			"key": "libvio",
+			"name": "😘libvio ",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/libvio.json"
+		},
+		{
+			"key": "AUETE影视",
+			"name": "🤨AUETE影视",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/AUETE影视.json"
+		},
+		{
+			"key": "Vidhub",
+			"name": "😘Vidhub ",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/vidhub.json"
+		},
+		{
 			"key": "蓝光电影网",
 			"name": "😃蓝光电影网",
 			"type": 3,
@@ -1005,16 +1045,7 @@
 				"欧美综艺"
 			]
 		},
-		{
-			"key": "Vidhub",
-			"name": "😘Vidhub ",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./XBPQ/Vidhub.json"
-		},
+		
 		{
 			"key": "落攻阁",
 			"name": "😘落攻阁 ",
@@ -1025,16 +1056,7 @@
 			"filterable": 1,
 			"ext": "./XBPQ/落攻阁.json"
 		},
-		{
-			"key": "libvio",
-			"name": "😘libvio ",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./XBPQ/libvio.json"
-		},
+	
 		{
 			"key": "达达龟",
 			"name": "😍达达龟 ",
@@ -1195,16 +1217,7 @@
 			"filterable": 1,
 			"ext": "./XBPQ/影视工场.json"
 		},
-		{
-			"key": "AUETE影视",
-			"name": "🤨AUETE影视",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./XBPQ/AUETE影视.json"
-		},
+		
 		
 		{
 			"key": "天空影视",
@@ -1316,16 +1329,7 @@
 			"filterable": 1,
 			"ext": "./XBPQ/在线之家.json"
 		},
-		{
-			"key": "FREEOK",
-			"name": " ☺FREEOK ",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./XBPQ/freeok.json"
-		},
+		
 		{
 			"key": "西瓜影视",
 			"name": "😑西瓜影视",
@@ -1947,6 +1951,16 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "./XBPQ/首播影视.json"
+		},
+			{
+			"key": "NO视频",
+			"name": "😗NO视频",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/NO视频.json"
 		},
 		{
 			"key": "drpy_js_农民",
