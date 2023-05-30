@@ -5,7 +5,7 @@
   "热门": "",
   "嗅探词": ".m3u8#m3u8?#.mp4#mp4?#ixigua#.czspp#.flv#.mp3#.m4a#?item/video#is_play_url=1#play/?#qianpailive",
   "分类": "电影$1#连续剧$2#动漫$4#综艺纪录$3##",
-    "分类url": "https://fskc177.com/vodshow/{cateId}-{area}-hits-{class}-{lang}----{catePg}---{year}.html",
+    "分类url": "https://fskc177.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
    "标题": "",
   
   "数组": "a&&module-poster-item-title",
