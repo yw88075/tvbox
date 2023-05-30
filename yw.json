@@ -71,7 +71,7 @@
 			"api": "csp_XBPQ",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,
+			"filterable": 1,
 			"ext": "./XBPQ/6v电影.json"
 		},
 		{
@@ -121,7 +121,7 @@
 			"api": "csp_XBPQ",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,
+			"filterable": 1,
 			"ext": "./XBPQ/素白白.json"
 		},
 		{
@@ -141,7 +141,7 @@
 			"api": "csp_XBPQ",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,
+			"filterable": 1,
 			"ext": "./XBPQ/天天影院.json"
 		},
 		{
@@ -151,7 +151,7 @@
 			"api": "csp_XBPQ",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,
+			"filterable": 1,
 			"ext": "./XBPQ/稀饭.json"
 		},
 		{
@@ -161,7 +161,7 @@
 			"api": "csp_XBPQ",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,
+			"filterable": 1,
 			"ext": "./XBPQ/voflix.json"
 		},
 		{
@@ -191,7 +191,7 @@
 			"api": "csp_XBPQ",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,
+			"filterable": 1,
 			"ext": "./XBPQ/野荷塘.json"
 		},
 		{
@@ -201,7 +201,7 @@
 			"api": "csp_XBPQ",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,
+			"filterable": 1,
 			"ext": "./XBPQ/假低端.json"
 		},
 		{
@@ -211,7 +211,7 @@
 			"api": "csp_XBPQ",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,
+			"filterable": 1,
 			"ext": "./XBPQ/TV云播.json"
 		},
 		{
@@ -221,7 +221,7 @@
 			"api": "csp_XBPQ",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,
+			"filterable": 1,
 			"ext": "./XBPQ/凌云影视.json"
 		},
 		{
@@ -231,7 +231,7 @@
 			"api": "csp_XBPQ",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,
+			"filterable": 1,
 			"ext": "./XBPQ/两个BT.json"
 		},
 		{
@@ -241,7 +241,7 @@
 			"api": "csp_XBPQ",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,
+			"filterable": 1,
 			"ext": "./XBPQ/快看影视.json"
 		},
 		{
@@ -251,7 +251,7 @@
 			"api": "csp_XBPQ",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,
+			"filterable": 1,
 			"ext": "./XBPQ/豆巴影视.json"
 		},
 		{
@@ -1429,7 +1429,7 @@
 			"api": "csp_XBPQ",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,
+			"filterable": 1,
 			"ext": "./XBPQ/霹雳影视.json"
 		},
 		
@@ -1440,7 +1440,7 @@
 			"api": "csp_XBPQ",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,
+			"filterable": 1,
 			"ext": "./XBPQ/双十.json"
 		},
 		{
@@ -1450,7 +1450,7 @@
 			"api": "csp_XBPQ",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,
+			"filterable": 1,
 			"ext": "./XBPQ/哆咪.json"
 		},
 		{
@@ -1460,7 +1460,7 @@
 			"api": "csp_XBPQ",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,
+			"filterable": 1,
 			"ext": "./XBPQ/万博剧院.json"
 		},
 		{
@@ -1470,7 +1470,7 @@
 			"api": "csp_XBPQ",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,
+			"filterable": 1,
 			"ext": "./XBPQ/影渣渣.json"
 		},
 		{
@@ -1490,7 +1490,7 @@
 			"api": "csp_XBPQ",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,
+			"filterable": 1,
 			"ext": "./XBPQ/八蛋影视.json"
 		},
 		{
@@ -1964,6 +1964,16 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "./XBPQ/NO视频.json"
+		},
+			{
+			"key": "樱花动漫",
+			"name": "😗樱花动漫",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/樱花动漫.json"
 		},
 		{
 			"key": "drpy_js_农民",
