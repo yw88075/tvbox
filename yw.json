@@ -2966,7 +2966,7 @@
 			"api": "./dr/lib/drpy2.min.js",
 			"ext": "./dr/js/优酷.js"
 		},
-		{"key":"MGT","name":"🍋┃芒果┃官源","type":3,"api":"csp_Mtv","searchable":1,"quickSearch":1,"filterable":1},
+		{"key":"MGT","name":"芒果┃官源","type":3,"api":"csp_Mtv","searchable":1,"quickSearch":1,"filterable":1},
 		{
 			"key": "drpy_js_腾云驾雾",
 			"name": "官源 | 腾讯 ",
