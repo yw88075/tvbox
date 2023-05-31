@@ -2395,13 +2395,7 @@
 			"api": "./dr/lib/drpy2.min.js",
 			"ext": "./dr/js/粤爱看.js"
 		},
-		{
-			"key": "drpy_js_慢大浪",
-			"name": " 慢大浪 ",
-			"type": 3,
-			"api": "./dr/lib/drpy2.min.js",
-			"ext": "./dr/js/慢大浪.js"
-		},
+		
 		{
 			"key": "drpy_js_91free",
 			"name": " 91free ",
