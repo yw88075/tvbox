@@ -36,7 +36,16 @@
 			"api": "./dr/lib/drpy2.min.js",
 			"ext": "./dr/js/萌蛋蛋.js"
 		},
-		
+		{
+			"key": "饭团",
+			"name": "😍饭团",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/饭团.json"
+		},
 		{
 			"key": "drpy_js_低端",
 			"name": "❤  低端 ",
@@ -1694,16 +1703,7 @@
 			"filterable": 1,
 			"ext": "./XBPQ/鸭奈非4K.json"
 		},
-		{
-			"key": "饭团",
-			"name": "😍饭团",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./XBPQ/饭团.json"
-		},
+		
 		{
 			"key": "城市电影",
 			"name": "😍城市电影",
