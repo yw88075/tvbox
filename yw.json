@@ -224,16 +224,7 @@
 			"filterable": 1,
 			"ext": "./XBPQ/凌云影视.json"
 		},
-		{
-			"key": "两个BT",
-			"name": "🤪两个BT ",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./XBPQ/两个BT.json"
-		},
+		
 		{
 			"key": "快看影视",
 			"name": "😍快看影视 ",
@@ -1775,7 +1766,7 @@
 		},
 		{
 			"key": "巨人影院",
-			"name": "😃巨人影院5.26跑路",
+			"name": "😃巨人影院",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
@@ -1965,15 +1956,19 @@
 			"filterable": 1,
 			"ext": "./XBPQ/NO视频.json"
 		},
-			{
-			"key": "樱花动漫",
-			"name": "😗樱花动漫",
+		{
+			"key": "drpy_js_云镜影视",
+			"name": "云镜影视 ",
 			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./XBPQ/樱花动漫.json"
+			"api": "./dr/lib/drpy2.min.js",
+			"ext": "./dr/js/云镜影视.js"
+		},
+		{
+			"key": "drpy_js_大豆",
+			"name": "大豆 ",
+			"type": 3,
+			"api": "./dr/lib/drpy2.min.js",
+			"ext": "./dr/js/大豆.js"
 		},
 		{
 			"key": "drpy_js_农民",
@@ -2152,13 +2147,7 @@
 			"api": "./dr/lib/drpy2.min.js",
 			"ext": "./dr/js/被窝电影.js"
 		},
-		{
-			"key": "drpy_js_利丽娅电影",
-			"name": "😆利丽娅电影 ",
-			"type": 3,
-			"api": "./dr/lib/drpy2.min.js",
-			"ext": "./dr/js/利丽娅电影.js"
-		},
+		
 		{
 			"key": "drpy_js_南柯电影",
 			"name": " 南柯电影 ",
@@ -2281,34 +2270,9 @@
 			"api": "./dr/lib/drpy2.min.js",
 			"ext": "./dr/js/豆巴影视.js"
 		},
-		{
-			"key": "drpy_js_人人影视",
-			"name": " 人人影视 ",
-			"type": 3,
-			"api": "./dr/lib/drpy2.min.js",
-			"ext": "./dr/js/人人影视.js"
-		},
-		{
-			"key": "drpy_js_影视之家",
-			"name": " 影视之家 ",
-			"type": 3,
-			"api": "./dr/lib/drpy2.min.js",
-			"ext": "./dr/js/影视之家.js"
-		},
-		{
-			"key": "drpy_js_HG影院[V2]",
-			"name": " HG影院[V2] ",
-			"type": 3,
-			"api": "./dr/lib/drpy2.min.js",
-			"ext": "./dr/js/HG影院[V2].js"
-		},
-		{
-			"key": "drpy_js_吼吼[飞]",
-			"name": "😆吼吼[飞] ",
-			"type": 3,
-			"api": "./dr/lib/drpy2.min.js",
-			"ext": "./dr/js/吼吼[飞].js"
-		},
+		
+	
+		
 		{
 			"key": "drpy_js_落攻阁影视",
 			"name": " 落攻阁影视 ",
@@ -2351,20 +2315,8 @@
 			"api": "./dr/lib/drpy2.min.js",
 			"ext": "./dr/js/米爱影视.js"
 		},
-		{
-			"key": "drpy_js_朴樱影视",
-			"name": " 朴樱影视 ",
-			"type": 3,
-			"api": "./dr/lib/drpy2.min.js",
-			"ext": "./dr/js/朴樱影视.js"
-		},
-		{
-			"key": "drpy_js_UM电影",
-			"name": " UM电影 ",
-			"type": 3,
-			"api": "./dr/lib/drpy2.min.js",
-			"ext": "./dr/js/UM电影.js"
-		},
+		
+		
 		{
 			"key": "drpy_js_139影视",
 			"name": " 139影视 ",
@@ -2386,13 +2338,7 @@
 			"api": "./dr/lib/drpy2.min.js",
 			"ext": "./dr/js/NyaFun.js"
 		},
-		{
-			"key": "drpy_js_创艺影视[V2]",
-			"name": " 创艺影视[V2] ",
-			"type": 3,
-			"api": "./dr/lib/drpy2.min.js",
-			"ext": "./dr/js/创艺影视[V2].js"
-		},
+		
 		{
 			"key": "drpy_js_TV云播",
 			"name": "😆TV云播 ",
@@ -2463,13 +2409,7 @@
 			"api": "./dr/lib/drpy2.min.js",
 			"ext": "./dr/js/91free.js"
 		},
-		{
-			"key": "drpy_js_YOKE影视",
-			"name": " YOKE影视 ",
-			"type": 3,
-			"api": "./dr/lib/drpy2.min.js",
-			"ext": "./dr/js/YOKE影视.js"
-		},
+		
 		{
 			"key": "drpy_js_无名小站",
 			"name": " 无名小站 ",
@@ -2520,13 +2460,7 @@
 			"api": "./dr/lib/drpy2.min.js",
 			"ext": "./dr/js/电影先生.js"
 		},
-		{
-			"key": "drpy_js_AB影院[飞]",
-			"name": " AB影院[飞] ",
-			"type": 3,
-			"api": "./dr/lib/drpy2.min.js",
-			"ext": "./dr/js/AB影院[飞].js"
-		},
+	
 		{
 			"key": "drpy_js_l0l",
 			"name": " l0l ",
@@ -2534,13 +2468,7 @@
 			"api": "./dr/lib/drpy2.min.js",
 			"ext": "./dr/js/l0l.js"
 		},
-		{
-			"key": "drpy_js_创艺影视",
-			"name": " 创艺影视 ",
-			"type": 3,
-			"api": "./dr/lib/drpy2.min.js",
-			"ext": "./dr/js/创艺影视.js"
-		},
+		
 		{
 			"key": "drpy_js_皮皮鸭",
 			"name": " 皮皮鸭 ",
@@ -2615,13 +2543,7 @@
 			"api": "./dr/lib/drpy2.min.js",
 			"ext": "./dr/js/大师兄影视.js"
 		},
-		{
-			"key": "drpy_js_捷华影视",
-			"name": " 捷华影视 ",
-			"type": 3,
-			"api": "./dr/lib/drpy2.min.js",
-			"ext": "./dr/js/捷华影视.js"
-		},
+		
 		{
 			"key": "drpy_js_看BZ影视",
 			"name": " 看BZ影视 ",
@@ -2643,13 +2565,7 @@
 			"api": "./dr/lib/drpy2.min.js",
 			"ext": "./dr/js/看了么.js"
 		},
-		{
-			"key": "drpy_js_快云影院",
-			"name": " 快云影院 ",
-			"type": 3,
-			"api": "./dr/lib/drpy2.min.js",
-			"ext": "./dr/js/快云影院.js"
-		},
+	
 		{
 			"key": "drpy_js_追剧迷",
 			"name": " 追剧迷 ",
@@ -2713,21 +2629,8 @@
 			"api": "./dr/lib/drpy2.min.js",
 			"ext": "./dr/js/菜狗.js"
 		},
-		{
-			"key": "drpy_js_DJ音乐",
-			"name": "音频 | DJ音乐 ",
-			"type": 3,
-			"api": "./dr/lib/drpy2.min.js",
-			"ext": "./dr/js/DJ音乐.js",
-			"playerType": "2"
-		},
-		{
-			"key": "drpy_js_种子音乐",
-			"name": "音频 | 种子音乐 ",
-			"type": 3,
-			"api": "./dr/lib/drpy2.min.js",
-			"ext": "./dr/js/种子音乐.js"
-		},
+		
+		
 		{
 			"key": "drpy_js_蜻蜓FM",
 			"name": "广播 | 蜻蜓FM ",
@@ -2816,20 +2719,7 @@
 			"ext": "./dr/js/相声随身听.js",
 			"playerType": "2"
 		},
-		{
-			"key": "drpy_js_短视频",
-			"name": "聚合 | 短视频 ",
-			"type": 3,
-			"api": "./dr/lib/drpy2.min.js",
-			"ext": "./dr/js/短视频.js"
-		},
-		{
-			"key": "drpy_js_酷6网",
-			"name": "聚合 | 酷6网 ",
-			"type": 3,
-			"api": "./dr/lib/drpy2.min.js",
-			"ext": "./dr/js/酷6网.js"
-		},
+	
 		{
 			"key": "drpy_js_网易公版影像",
 			"name": "聚合 | 网易公版影像 ",
@@ -2914,27 +2804,9 @@
 			"api": "./dr/lib/drpy2.min.js",
 			"ext": "./dr/js/310直播.js"
 		},
-		{
-			"key": "drpy_js_抓饭体育",
-			"name": "体育 | 抓饭体育 ",
-			"type": 3,
-			"api": "./dr/lib/drpy2.min.js",
-			"ext": "./dr/js/抓饭体育.js"
-		},
-		{
-			"key": "drpy_js_爱弹幕",
-			"name": "动漫 | 爱弹幕 ",
-			"type": 3,
-			"api": "./dr/lib/drpy2.min.js",
-			"ext": "./dr/js/爱弹幕.js"
-		},
-		{
-			"key": "drpy_js_兔小贝",
-			"name": "动漫 | 兔小贝 ",
-			"type": 3,
-			"api": "./dr/lib/drpy2.min.js",
-			"ext": "./dr/js/兔小贝.js"
-		},
+		
+		
+		
 		{
 			"key": "drpy_js_AnFuns",
 			"name": "动漫 | AnFuns ",
@@ -3019,13 +2891,7 @@
 			"api": "./dr/lib/drpy2.min.js",
 			"ext": "./dr/js/异世界动漫.js"
 		},
-		{
-			"key": "bili",
-			"name": "B站 | Bili[jar]",
-			"type": 3,
-			"api": "csp_Bili",
-			"ext": "./dr/js/音乐演唱.json"
-		},
+	
 		{
 			"key": "csp_Bili",
 			"name": "哔哔合集",
@@ -3100,6 +2966,7 @@
 			"api": "./dr/lib/drpy2.min.js",
 			"ext": "./dr/js/优酷.js"
 		},
+		{"key":"MGT","name":"🍋┃芒果┃官源","type":3,"api":"csp_Mtv","searchable":1,"quickSearch":1,"filterable":1},
 		{
 			"key": "drpy_js_腾云驾雾",
 			"name": "官源 | 腾讯 ",
@@ -3107,13 +2974,7 @@
 			"api": "./dr/lib/drpy2.min.js",
 			"ext": "./dr/js/腾云驾雾.js"
 		},
-		{
-			"key": "drpy_js_百忙无果",
-			"name": "官源 | 芒果 ",
-			"type": 3,
-			"api": "./dr/lib/drpy2.min.js",
-			"ext": "./dr/js/百忙无果.js"
-		},
+		
 		{
 			"key": "push_agent",
 			"name": "阿里 | 推送",
@@ -3192,11 +3053,7 @@
 			"type": 0,
 			"url": "https://jx.777jiexi.com/player/?url="
 		},
-		{
-			"name": "小新",
-			"type": 0,
-			"url": "http://xiaoxin.1080p.me/api/?key=368b2df76af1b58d897bbe31a00180c0&url="
-		},
+		
 		{
 			"name": "猫影视",
 			"type": 1,
