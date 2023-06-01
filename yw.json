@@ -47,6 +47,16 @@
 			"ext": "./XBPQ/饭团.json"
 		},
 		{
+			"key": "小鱼影视",
+			"name": "🐟小鱼影视",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/小鱼影视.json"
+		},
+		{
 			"key": "drpy_js_低端",
 			"name": "❤  低端 ",
 			"type": 3,
