@@ -302,6 +302,16 @@
 			"ext": "./XBPQ/COKEMV.json"
 		},
 		{
+			"key": "干饭影视",
+			"name": "🍱干饭影视 ",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/干饭影视.json"
+		},
+		{
 			"key": "伊人追剧",
 			"name": "😋伊人追剧 ",
 			"type": 3,
