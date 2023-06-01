@@ -38,7 +38,7 @@
 		},
 		{
 			"key": "饭团",
-			"name": "😍饭团",
+			"name": "🍙饭团",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
@@ -64,8 +64,18 @@
 			"ext": "./XBPQ/厂长.json"
 		},
 		{
+			"key": "101影视",
+			"name": "🖐101影视",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/101影视.json"
+		},
+		{
 			"key": "1080",
-			"name": "🤩1080",
+			"name": "🤏1080",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
@@ -75,7 +85,7 @@
 		},
 		{
 			"key": "臭蛋蛋",
-			"name": " 😀臭蛋蛋 ",
+			"name": "🌸臭蛋蛋 ",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
@@ -85,7 +95,7 @@
 		},
 		{
 			"key": "6v电影",
-			"name": "🤩6v电影",
+			"name": "🤙6v电影",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
@@ -185,7 +195,7 @@
 		},
 		{
 			"key": "无极影院",
-			"name": "🤨无极影院",
+			"name": "😁无极影院",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
@@ -205,7 +215,7 @@
 		},
 		{
 			"key": "野荷塘",
-			"name": "😘野荷塘 ",
+			"name": "🙃野荷塘 ",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
