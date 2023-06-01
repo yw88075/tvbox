@@ -1986,6 +1986,16 @@
 			"filterable": 1,
 			"ext": "./XBPQ/NO视频.json"
 		},
+			{
+			"key": "番茄电影网",
+			"name": "🍅番茄电影网",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/番茄电影网.json"
+		},
 		{
 			"key": "drpy_js_云镜影视",
 			"name": "云镜影视 ",
