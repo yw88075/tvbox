@@ -1494,6 +1494,16 @@
 			"ext": "./XBPQ/万博剧院.json"
 		},
 		{
+			"key": "追剧兔",
+			"name": "🐇追剧兔",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/追剧兔.json"
+		},
+		{
 			"key": "影渣渣",
 			"name": "😚影渣渣 ",
 			"type": 3,
