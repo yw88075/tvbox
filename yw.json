@@ -74,6 +74,16 @@
 			"ext": "./XBPQ/厂长.json"
 		},
 		{
+			"key": "米爱影视",
+			"name": "🤩米爱影视",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/米爱影视.json"
+		},
+		{
 			"key": "101影视",
 			"name": "🖐101影视",
 			"type": 3,
