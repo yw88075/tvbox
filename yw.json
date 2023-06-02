@@ -2026,6 +2026,16 @@
 			"filterable": 1,
 			"ext": "./XBPQ/番茄电影网.json"
 		},
+				{
+			"key": "起飞影视",
+			"name": "👐起飞影视",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/起飞影视.json"
+		},
 		{
 			"key": "drpy_js_云镜影视",
 			"name": "云镜影视 ",
