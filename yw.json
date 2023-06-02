@@ -2056,6 +2056,16 @@
 			"filterable": 1,
 			"ext": "./XBPQ/ok影院.json"
 		},
+				{
+			"key": "小鸭看看",
+			"name": " 🦢小鸭看看",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/小鸭看看.json"
+		},
 		{
 			"key": "drpy_js_云镜影视",
 			"name": "云镜影视 ",
