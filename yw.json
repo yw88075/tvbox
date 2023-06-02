@@ -2046,6 +2046,16 @@
 			"filterable": 1,
 			"ext": "./XBPQ/app影院.json"
 		},
+				{
+			"key": "ok影院",
+			"name": "👌ok影院",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/ok影院.json"
+		},
 		{
 			"key": "drpy_js_云镜影视",
 			"name": "云镜影视 ",
