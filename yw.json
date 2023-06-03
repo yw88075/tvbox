@@ -114,6 +114,16 @@
 			"ext": "./XBPQ/1080.json"
 		},
 		{
+			"key": "电影蜜蜂",
+			"name": "🐝电影蜜蜂",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/电影蜜蜂.json"
+		},
+		{
 			"key": "臭蛋蛋",
 			"name": "🌸臭蛋蛋 ",
 			"type": 3,
