@@ -1839,6 +1839,16 @@
 			"ext": "./XBPQ/188kan.json"
 		},
 		{
+			"key": "影视大全",
+			"name": "😐影视大全",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/影视大全.json"
+		},
+		{
 			"key": "巨人影院",
 			"name": "😃巨人影院",
 			"type": 3,
