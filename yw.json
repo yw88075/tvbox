@@ -105,6 +105,16 @@
 			"ext": "./XBPQ/电影先生.json"
 		},
 		{
+			"key": "网飞TV",
+			"name": "😉网飞TV",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/网飞TV.json"
+		},
+		{
 			"key": "101影视",
 			"name": "🖐101影视",
 			"type": 3,
@@ -195,6 +205,16 @@
 			"ext": "./XBPQ/vidhub.json"
 		},
 		{
+			"key": "喵影视",
+			"name": "❤ 喵影视",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/喵影视.json"
+		},
+		{
 			"key": "素白白",
 			"name": "😆素白白 ",
 			"type": 3,
@@ -203,6 +223,36 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "./XBPQ/素白白.json"
+		},
+		{
+			"key": "慢大浪",
+			"name": "😍慢大浪",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/慢大浪.json"
+		},
+		{
+			"key": "影视工场",
+			"name": "😍影视工场",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/影视工场.json"
+		},
+		{
+			"key": "天空影视",
+			"name": "🤨天空影视",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/天空影视.json"
 		},
 		{
 			"key": "蓝光电影网",
@@ -313,6 +363,56 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "./XBPQ/快看影视.json"
+		},
+			{
+			"key": "骚火影视",
+			"name": "🥰骚火影视",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/骚火影视.json"
+		},
+		{
+			"key": "八蛋影视",
+			"name": "😗八蛋影视 ",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/八蛋影视.json"
+		},
+		{
+			"key": "NIKETV",
+			"name": "😗NIKETV ",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/NIKETV.json"
+		},
+		{
+			"key": "看了么",
+			"name": "😗看了么 ",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/看了吗.json"
+		},
+		{
+			"key": "野荷塘",
+			"name": "❤ 野荷塘",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/野荷塘.json"
 		},
 		{
 			"key": "豆巴影视",
@@ -510,6 +610,36 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "./XBPQ/一龙影视.json"
+		},
+		{
+			"key": "双十",
+			"name": "😆双十 ",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/双十.json"
+		},
+			{
+			"key": "端木",
+			"name": "😆端木",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/端木.json"
+		},
+		{
+			"key": "霹雳影视",
+			"name": "😆霹雳影视 ",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/霹雳影视.json"
 		},
 		{
 			"key": "兄弟影视",
@@ -1299,36 +1429,7 @@
 			"filterable": 1,
 			"ext": "./XBPQ/小鹿影视.json"
 		},
-		{
-			"key": "慢大浪",
-			"name": "😍慢大浪",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./XBPQ/慢大浪.json"
-		},
-		{
-			"key": "影视工场",
-			"name": "😍影视工场",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./XBPQ/影视工场.json"
-		},
-		{
-			"key": "天空影视",
-			"name": "🤨天空影视",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./XBPQ/天空影视.json"
-		},
+		
 		{
 			"key": "无名小站",
 			"name": "😐无名小站",
@@ -1489,36 +1590,8 @@
 			"filterable": 1,
 			"ext": "./XBPQ/奈落影院.json"
 		},
-		{
-			"key": "端木",
-			"name": "😆端木",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./XBPQ/端木.json"
-		},
-		{
-			"key": "霹雳影视",
-			"name": "😆霹雳影视 ",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./XBPQ/霹雳影视.json"
-		},
-		{
-			"key": "双十",
-			"name": "😆双十 ",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./XBPQ/双十.json"
-		},
+	
+		
 		{
 			"key": "哆咪",
 			"name": "😆哆咪 ",
@@ -1559,66 +1632,8 @@
 			"filterable": 1,
 			"ext": "./XBPQ/影渣渣.json"
 		},
-		{
-			"key": "骚火影视",
-			"name": "🥰骚火影视",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./XBPQ/骚火影视.json"
-		},
-		{
-			"key": "八蛋影视",
-			"name": "😗八蛋影视 ",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./XBPQ/八蛋影视.json"
-		},
-		{
-			"key": "NIKETV",
-			"name": "😗NIKETV ",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./XBPQ/NIKETV.json"
-		},
-		{
-			"key": "看了么",
-			"name": "😗看了么 ",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./XBPQ/看了吗.json"
-		},
-		{
-			"key": "野荷塘",
-			"name": "❤ 野荷塘",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./XBPQ/野荷塘.json"
-		},
-		{
-			"key": "喵影视",
-			"name": "❤ 喵影视",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./XBPQ/喵影视.json"
-		},
+	
+		
 		{
 			"key": "锐行加速",
 			"name": "❤ 锐行加速",
@@ -1902,16 +1917,7 @@
 			"filterable": 1,
 			"ext": "./XBPQ/大师兄影视.json"
 		},
-		{
-			"key": "网飞TV",
-			"name": "😉网飞TV",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./XBPQ/网飞TV.json"
-		},
+		
 		{
 			"key": "西屋影视",
 			"name": "😗西屋影视",
