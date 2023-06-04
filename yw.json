@@ -56,7 +56,6 @@
 			"filterable": 1,
 			"ext": "./XBPQ/小鱼影视.json"
 		},
-		
 		{
 			"key": "drpy_js_低端",
 			"name": "❤  低端 ",
@@ -364,7 +363,7 @@
 			"filterable": 1,
 			"ext": "./XBPQ/快看影视.json"
 		},
-			{
+		{
 			"key": "骚火影视",
 			"name": "🥰骚火影视",
 			"type": 3,
@@ -621,7 +620,7 @@
 			"filterable": 1,
 			"ext": "./XBPQ/双十.json"
 		},
-			{
+		{
 			"key": "端木",
 			"name": "😆端木",
 			"type": 3,
@@ -1429,7 +1428,6 @@
 			"filterable": 1,
 			"ext": "./XBPQ/小鹿影视.json"
 		},
-		
 		{
 			"key": "无名小站",
 			"name": "😐无名小站",
@@ -1590,8 +1588,6 @@
 			"filterable": 1,
 			"ext": "./XBPQ/奈落影院.json"
 		},
-	
-		
 		{
 			"key": "哆咪",
 			"name": "😆哆咪 ",
@@ -1632,8 +1628,6 @@
 			"filterable": 1,
 			"ext": "./XBPQ/影渣渣.json"
 		},
-	
-		
 		{
 			"key": "锐行加速",
 			"name": "❤ 锐行加速",
@@ -1905,8 +1899,18 @@
 			"ext": "./XBPQ/磁力熊.json",
 			"jar": "./dr/csp_XBPQ.jar"
 		},
-		 {"key":"磁力熊3","name":"️🐻磁力熊2","type":1,"api":"https://v.3412.net.cn/macapi.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"playerType":1,"playUrl":"https://player.i597.cc/?url="},
-
+		{
+			"key": "磁力熊3",
+			"name": "️🐻磁力熊2",
+			"type": 1,
+			"api": "https://v.3412.net.cn/macapi.php/provide/vod/",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 1,
+			"playerType": 1,
+			"playUrl": "https://player.i597.cc/?url="
+		},
 		{
 			"key": "大师兄影视",
 			"name": "😉大师兄影视（bug版）",
@@ -1917,7 +1921,6 @@
 			"filterable": 1,
 			"ext": "./XBPQ/大师兄影视.json"
 		},
-		
 		{
 			"key": "西屋影视",
 			"name": "😗西屋影视",
@@ -2038,7 +2041,6 @@
 			"filterable": 1,
 			"ext": "./XBPQ/首播影视.json"
 		},
-		
 		{
 			"key": "番茄电影网",
 			"name": "🍅番茄电影网",
@@ -3107,6 +3109,49 @@
 			"url": "Demo"
 		},
 		{
+			"name": "测试",
+			"type": 1,
+			"url": "http://27.124.4.42:4567/jhjson/ceshi.php?url=",
+			"ext": {
+				"flag": [
+					"qq",
+					"腾讯",
+					"企鹅",
+					"IQiYi",
+					"qiyi",
+					"爱奇艺",
+					"奇艺",
+					"youku",
+					"YouKu",
+					"优酷",
+					"sohu",
+					"SoHu",
+					"搜狐",
+					"letv",
+					"LeShi",
+					"乐视",
+					"imgo",
+					"mgtv",
+					"MangGuo",
+					"芒果",
+					"SLYS4k",
+					"BYGA",
+					"luanzi",
+					"AliS",
+					"dxzy",
+					"bilibili",
+					"QEYSS",
+					"xigua",
+					"西瓜视频",
+					"腾讯视频",
+					"奇艺视频",
+					"优酷视频",
+					"芒果视频",
+					"乐视视频"
+				]
+			}
+		},
+		{
 			"name": "星辰云解析",
 			"type": 1,
 			"url": "http://xn--wnup5g.xn--z7x900a.love:63/Art0425/analysis.php?v="
@@ -3127,46 +3172,46 @@
 			"url": "https://jx.xmflv.com/?url="
 		},
 		{
-      "name": "xhww",
-      "type": 1,
-      "url": "http://xhww.fun:63/%E7%B1%B3%E9%A5%AD.php?url=",
-      "User-Agent": "okhttp/3.12.0",
-      "ext": {
-        "flag": [
-          "qq",
-          "ruyi4K",
-          "腾讯",
-          "hgvip",
-          "hgyx",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "XAl",
-          "yk",
-          "mgtv",
-          "imgo",
-          "芒果",
-          "CL4K",
-          "renrenmi",
-          "hulihuli-",
-          "ltnb",
-          "bilibili",
-          "BAGY",
-          "SLYS4K",
-          "DM-FT1",
-          "DM-FT3",
-          "bilibili",
-          "1905",
-          "xigua"
-        ]
-      }
-    },
+			"name": "xhww",
+			"type": 1,
+			"url": "http://xhww.fun:63/%E7%B1%B3%E9%A5%AD.php?url=",
+			"User-Agent": "okhttp/3.12.0",
+			"ext": {
+				"flag": [
+					"qq",
+					"ruyi4K",
+					"腾讯",
+					"hgvip",
+					"hgyx",
+					"qiyi",
+					"爱奇艺",
+					"奇艺",
+					"youku",
+					"优酷",
+					"sohu",
+					"搜狐",
+					"letv",
+					"乐视",
+					"XAl",
+					"yk",
+					"mgtv",
+					"imgo",
+					"芒果",
+					"CL4K",
+					"renrenmi",
+					"hulihuli-",
+					"ltnb",
+					"bilibili",
+					"BAGY",
+					"SLYS4K",
+					"DM-FT1",
+					"DM-FT3",
+					"bilibili",
+					"1905",
+					"xigua"
+				]
+			}
+		},
 		{
 			"name": "OK解析",
 			"type": 0,
