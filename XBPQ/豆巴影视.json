@@ -8,7 +8,7 @@
   
   "分类url": "https://www.doubays.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
   "标题": "title=\"&&\"",
-  "数组": "hl-item-thumb hl-lazy&&</li>",
+  "数组": "a&&module-poster-item-title",
   "副标题": "",
   "图片": "data-original=\"&&\"",
   "链接": "href=\"&&\"",

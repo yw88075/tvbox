@@ -8,7 +8,7 @@
   
   "分类url": "https://www.panghuys.com/vodshow/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html",
   
-  "数组": "<a&&module-poster-item-title",
+  "数组": "pack-ykpack&&pack-subtitle cor3 hidden",
   "副标题": "title\">&&</div>",
   
   "搜索模式": "1",
