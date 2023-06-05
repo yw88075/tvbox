@@ -2092,6 +2092,16 @@
 			"ext": "./XBPQ/小鸭看看.json"
 		},
 		{
+			"key": "熊猫影视",
+			"name": "🐼熊猫影视",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/熊猫影视.json"
+		},
+		{
 			"key": "drpy_js_云镜影视",
 			"name": "云镜影视 ",
 			"type": 3,
@@ -2289,15 +2299,7 @@
 			"api": "./dr/lib/drpy2.min.js",
 			"ext": "./dr/js/南柯电影网.js"
 		},
-		{
-			"key": "csp_panghu",
-			"name": "胖虎",
-			"type": 3,
-			"api": "csp_Panghu",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
+	
 		{
 			"key": "drpy_js_兄弟影视",
 			"name": " 兄弟影视 ",
