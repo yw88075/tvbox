@@ -17,6 +17,10 @@
             "name": "饭太硬",
             "url": "http://饭太硬.top/tv"
         },
+		{
+            "name": "小米",
+            "url": "http://xhww.fun:63/小米/DEMO.json"
+        },
        {
             "name": "香雅本地推送",
             "url": "https://raw.gitmirror.com/yw88075/tvbox/main/XYQTVBox/XYQTVBox.json"
