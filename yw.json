@@ -1348,6 +1348,36 @@
         "记录片"
       ]
     },
+	 {
+      "key": "快看资源",
+      "name": "❤快看",
+      "type": 1,
+      "api": "https://kuaikan-api.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "国产剧",
+        "韩国剧",
+        "香港剧",
+        "台湾剧",
+        "欧美剧",
+        "动作片",
+        "科幻片",
+        "战争片",
+        "奇幻片",
+        "喜剧片",
+        "爱情片",
+        "恐怖片",
+        "犯罪片",
+        "悬疑片",
+        "惊悚片",
+        "剧情片",
+        "冒险片",
+        "记录片",
+        "综艺",
+        "动漫"
+      ]
+    },
     {
       "key": "JOJO",
       "name": "😘JOJO ",
@@ -2170,55 +2200,10 @@
       "api": "./dr/lib/drpy2.min.js",
       "ext": "./dr/js/云镜影视.js"
     },
-    {
-      "key": "drpy_js_大豆",
-      "name": "大豆 ",
-      "type": 3,
-      "api": "./dr/lib/drpy2.min.js",
-      "ext": "./dr/js/大豆.js"
-    },
-    {
-      "key": "drpy_js_农民",
-      "name": "农民 ",
-      "type": 3,
-      "api": "./dr/lib/drpy2.min.js",
-      "ext": "./dr/js/农民.js"
-    },
-    {
-      "key": "drpy_js_布雷蓝光",
-      "name": "布雷蓝光 ",
-      "type": 3,
-      "api": "./dr/lib/drpy2.min.js",
-      "ext": "./dr/js/布雷蓝光.js"
-    },
-    {
-      "key": "drpy_js_映迷影院",
-      "name": "映迷影院 ",
-      "type": 3,
-      "api": "./dr/lib/drpy2.min.js",
-      "ext": "./dr/js/映迷影院.js"
-    },
-    {
-      "key": "drpy_js_兰花影院",
-      "name": "兰花影院 ",
-      "type": 3,
-      "api": "./dr/lib/drpy2.min.js",
-      "ext": "./dr/js/兰花影院.js"
-    },
-    {
-      "key": "drpy_js_8K影视",
-      "name": "8K影视 ",
-      "type": 3,
-      "api": "./dr/lib/drpy2.min.js",
-      "ext": "./dr/js/8K影视.js"
-    },
-    {
-      "key": "drpy_js_FreeOK",
-      "name": " FreeOK ",
-      "type": 3,
-      "api": "./dr/lib/drpy2.min.js",
-      "ext": "./dr/js/FreeOK.js"
-    },
+  
+   
+    
+   
     {
       "key": "drpy_js_双十电影",
       "name": " 双十电影 ",
@@ -2361,15 +2346,7 @@
       "api": "./dr/lib/drpy2.min.js",
       "ext": "./dr/js/南柯电影网.js"
     },
-    {
-      "key": "csp_panghu",
-      "name": "胖虎",
-      "type": 3,
-      "api": "csp_Panghu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+   
     {
       "key": "drpy_js_兄弟影视",
       "name": " 兄弟影视 ",
@@ -2377,13 +2354,7 @@
       "api": "./dr/lib/drpy2.min.js",
       "ext": "./dr/js/兄弟影视.js"
     },
-    {
-      "key": "drpy_js_苹果DJ",
-      "name": " 苹果DJ ",
-      "type": 3,
-      "api": "./dr/lib/drpy2.min.js",
-      "ext": "./dr/js/苹果DJ.js"
-    },
+   
     {
       "key": "drpy_js_秋霞影视",
       "name": "😆秋霞影视 ",
