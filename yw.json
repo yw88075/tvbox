@@ -1319,6 +1319,46 @@
 				"欧美综艺"
 			]
 		},
+		 {
+      "key": "蓝光官采",
+      "name": "❤猫咪",
+      "type": 1,
+      "api": "http://zy.xiaomaomi.vip/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "playUrl": "https://jx.jsonplayer.com/player/?url=",
+      "filterable": 0,
+      "categories": [
+        "国产剧",
+        "综艺",
+        "动漫",
+        "香港剧",
+        "动作片",
+        "科幻片",
+        "战争片",
+        "奇幻片",
+        "喜剧片",
+        "爱情片",
+        "恐怖片",
+        "犯罪片",
+        "悬疑片",
+        "惊悚片",
+        "剧情片",
+        "冒险片",
+        "记录片"
+      ]
+    },
+	{
+			"key": "JOJO",
+			"name": "😘JOJO ",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/JOJO.json",
+			"jar": "./小暴脾气2.jar"
+		},
 		{
 			"key": "落攻阁",
 			"name": "😘落攻阁 ",
@@ -1938,7 +1978,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "./XBPQ/磁力熊.json",
-			"jar": "./dr/csp_XBPQ.jar"
+			
 		},
 		{
 			"key": "磁力熊3",
