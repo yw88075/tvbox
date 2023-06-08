@@ -630,6 +630,16 @@
       "filterable": 1,
       "ext": "./XBPQ/端木.json"
     },
+	{
+      "key": "时光影视",
+      "name": "🤩时光影视 ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./XBPQ/时光影视.json"
+    },
     {
       "key": "霹雳影视",
       "name": "😆霹雳影视 ",
@@ -2596,13 +2606,7 @@
       "api": "./dr/lib/drpy2.min.js",
       "ext": "./dr/js/骚火电影.js"
     },
-    {
-      "key": "drpy_js_闪影影院",
-      "name": " 闪影影院 ",
-      "type": 3,
-      "api": "./dr/lib/drpy2.min.js",
-      "ext": "./dr/js/闪影影院.js"
-    },
+ 
     {
       "key": "drpy_js_电影先生",
       "name": " 电影先生 ",
