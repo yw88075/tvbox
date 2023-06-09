@@ -363,6 +363,16 @@
       "filterable": 1,
       "ext": "./XBPQ/快看影视.json"
     },
+	{
+      "key": "来看点播",
+      "name": "😲来看点播 ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./XBPQ/来看点播.json"
+    },
     {
       "key": "骚火影视",
       "name": "🥰骚火影视",
