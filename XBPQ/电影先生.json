@@ -24,7 +24,7 @@
 "影片类型":"分类：&&</a>",
 "导演":"导演：&&</p>",
 "主演":"主演：&&</p>",
-"简介":"style=\"display: none;\">&&</span>",
+"简介":"video-info-content vod_content&&</span>",
 "线路数组": "module-tab-item tab-item&&</div>",
 	"线路标题": "<span>&&</span>",
 	"播放数组": "class=\"module-blocklist\"&&</div>",
