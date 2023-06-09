@@ -1599,16 +1599,7 @@
       "filterable": 1,
       "ext": "./XBPQ/莫扎兔.json"
     },
-    {
-      "key": "23影视",
-      "name": "😊23影视 ",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./XBPQ/23影视.json"
-    },
+    
     {
       "key": "八戒影院",
       "name": "🤨八戒影院",
@@ -1809,16 +1800,7 @@
       "filterable": 1,
       "ext": "./XBPQ/冷曦影视.json"
     },
-    {
-      "key": "看看剧",
-      "name": "🤨看看剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./XBPQ/看看剧.json"
-    },
+  
     {
       "key": "我爱跟剧",
       "name": "🙄我爱跟剧",
