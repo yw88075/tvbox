@@ -6,7 +6,7 @@
     "分类": "电影$1#电视剧$2#综艺$3#动漫$4#纪录片$5#",
 
 	"分类url": "https://www.citydy.com/show/id-{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
-	"数组": "col-sm-6 col-xs-3 hide-actor&&actor text-overflow text-muted",
+	"数组": "class=\"stui-vodlist__box\"&&text text-overflow text-muted hidden-xs",
 	"副标题": "",
 	"图片": "data-original=\"&&\"",
 	"标题": "title=\"&&\"",
@@ -22,12 +22,12 @@
 	"主演": "主演：&&</p>",
 	"简介": "description\" content=\"&& />",
 	"嗅探词":".m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma",
-	"线路数组": "play-list fade-in hide&&</div>",
-	"线路标题": "gico&&</span>",
-	"播放数组": "",
-	"播放列表": "",
-	"播放标题":"",
-	"播放链接": "",
+	"线路数组": "",
+	"线路标题": "\"tab\">&&</a>",
+	"播放数组": "stui-content__playlist clearfix sort-list&&</ul>",
+	"播放列表": "<li>&&</li>",
+	"播放标题":"\">&&</a>",
+	"播放链接": "href=\"&&\"",
 	"筛选": {
 		"1": [
 			{
