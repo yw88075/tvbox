@@ -454,6 +454,16 @@
 			"ext": "./XBPQ/野荷塘.json"
 		},
 		{
+			"key": "热播之家",
+			"name": "😋热播之家 ",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/热播之家.json"
+		},
+		{
 			"key": "真不卡",
 			"name": "❤真不卡",
 			"type": 3,
@@ -580,7 +590,7 @@
 			"filterable": 1,
 			"ext": "./XBPQ/大豆高清.json"
 		},
-			{
+		{
 			"key": "555",
 			"name": "🤩555 ",
 			"type": 3,
@@ -1918,7 +1928,6 @@
 			"filterable": 1,
 			"ext": "./XBPQ/鸭奈非4K.json"
 		},
-		
 		{
 			"key": "独播库",
 			"name": "🙄独播库 ",
@@ -1938,16 +1947,6 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "./XBPQ/CHNNETFILX.json"
-		},
-		{
-			"key": "热播之家",
-			"name": "😋热播之家 ",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./XBPQ/热播之家.json"
 		},
 		{
 			"key": "音范丝",
@@ -2113,7 +2112,7 @@
 		},
 		{
 			"key": "野菊花电影网",
-			"name": "😗野菊花电影网",
+			"name": "😗野菊花电影网(6.10)",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
@@ -2310,16 +2309,6 @@
 			"type": 3,
 			"api": "./dr/lib/drpy2.min.js",
 			"ext": "./dr/js/兄弟影视.js"
-		},
-		{
-			"key": "csp_AppMr",
-			"name": "❤  明明",
-			"type": 3,
-			"api": "csp_AppMr",
-			"m3u8ads": "hd.youyhn.com",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
 		},
 		{
 			"key": "drpy_js_飞云[V2]",
@@ -2600,62 +2589,6 @@
 			"playerType": "2"
 		},
 		{
-			"key": "drpy_js_海洋听书",
-			"name": "听书 | 海洋听书 ",
-			"type": 3,
-			"api": "./dr/lib/drpy2.min.js",
-			"ext": "./dr/js/海洋听书.js",
-			"playerType": "2"
-		},
-		{
-			"key": "drpy_js_有声听书网",
-			"name": "听书 | 有声听书网 ",
-			"type": 3,
-			"api": "./dr/lib/drpy2.min.js",
-			"ext": "./dr/js/有声听书网.js",
-			"playerType": "2"
-		},
-		{
-			"key": "drpy_js_海盗听书",
-			"name": "听书 | 海盗听书 ",
-			"type": 3,
-			"api": "./dr/lib/drpy2.min.js",
-			"ext": "./dr/js/海盗听书.js",
-			"playerType": "2"
-		},
-		{
-			"key": "drpy_js_听书网",
-			"name": "听书 | 听书网 ",
-			"type": 3,
-			"api": "./dr/lib/drpy2.min.js",
-			"ext": "./dr/js/听书网.js",
-			"playerType": "2"
-		},
-		{
-			"key": "drpy_js_有声小说",
-			"name": "听书 | 有声小说 ",
-			"type": 3,
-			"api": "./dr/lib/drpy2.min.js",
-			"ext": "./dr/js/有声小说吧.js",
-			"playerType": "2"
-		},
-		{
-			"key": "drpy_js_i275听书",
-			"name": "听书 | i275听书 ",
-			"type": 3,
-			"api": "./dr/lib/drpy2.min.js",
-			"ext": "./dr/js/i275听书.js",
-			"playerType": "2"
-		},
-		{
-			"key": "drpy_js_74听书",
-			"name": "听书 | 74听书 ",
-			"type": 3,
-			"api": "./dr/lib/drpy2.min.js",
-			"ext": "./dr/js/74听书.js",
-			"playerType": "2"
-		},
-		{
 			"key": "drpy_js_评书随身听",
 			"name": "听书 | 评书随身听 ",
 			"type": 3,
@@ -2686,13 +2619,6 @@
 			"ext": "./dr/js/JRKAN直播.js"
 		},
 		{
-			"key": "drpy_js_88看球",
-			"name": "体育 | 88看球 ",
-			"type": 3,
-			"api": "./dr/lib/drpy2.min.js",
-			"ext": "./dr/js/88看球.js"
-		},
-		{
 			"key": "drpy_js_310直播",
 			"name": "体育 | 310直播 ",
 			"type": 3,
@@ -2712,13 +2638,6 @@
 			"type": 3,
 			"api": "./dr/lib/drpy2.min.js",
 			"ext": "./dr/js/爱弹幕.js"
-		},
-		{
-			"key": "drpy_js_AGE动漫",
-			"name": "动漫 | AGE动漫 ",
-			"type": 3,
-			"api": "./dr/lib/drpy2.min.js",
-			"ext": "./dr/js/AGE动漫.js"
 		},
 		{
 			"key": "drpy_js_NT动漫",
@@ -2742,25 +2661,11 @@
 			"ext": "./dr/js/嘶哩嘶哩.js"
 		},
 		{
-			"key": "drpy_js_omofun动漫",
-			"name": "动漫 | omofun动漫 ",
-			"type": 3,
-			"api": "./dr/lib/drpy2.min.js",
-			"ext": "./dr/js/omofun动漫.js"
-		},
-		{
 			"key": "drpy_js_奇米动漫",
 			"name": "动漫 | 奇米动漫 ",
 			"type": 3,
 			"api": "./dr/lib/drpy2.min.js",
 			"ext": "./dr/js/奇米动漫.js"
-		},
-		{
-			"key": "drpy_js_曲奇动漫",
-			"name": "动漫 | 曲奇动漫 ",
-			"type": 3,
-			"api": "./dr/lib/drpy2.min.js",
-			"ext": "./dr/js/曲奇动漫.js"
 		},
 		{
 			"key": "drpy_js_妮可动漫",
@@ -2782,66 +2687,6 @@
 			"type": 3,
 			"api": "./dr/lib/drpy2.min.js",
 			"ext": "./dr/js/异世界动漫.js"
-		},
-		{
-			"key": "csp_Bili",
-			"name": "哔哔合集",
-			"type": 3,
-			"api": "csp_Bili",
-			"searchable": 1,
-			"quickSearch": 0,
-			"filterable": 0,
-			"changeable": 0,
-			"ext": "http://饭太硬.ga/x/json/bilibili.json"
-		},
-		{
-			"key": "AList",
-			"name": "网盘 | Alist[jar]",
-			"type": 3,
-			"api": "csp_AList",
-			"ext": "./dr/js/alistjar.json"
-		},
-		{
-			"key": "drpy_js_Alist",
-			"name": "网盘 | Alist ",
-			"type": 3,
-			"api": "./dr/lib/alist.min.js",
-			"ext": "./dr/js/alist.json"
-		},
-		{
-			"key": "纸条",
-			"name": "阿里 | 纸条",
-			"type": 3,
-			"api": "csp_Paper",
-			"ext": "./dr/lib/token.txt"
-		},
-		{
-			"key": "易搜",
-			"name": "阿里 | 易搜",
-			"type": 3,
-			"api": "csp_YiSo",
-			"ext": "./dr/lib/token.txt"
-		},
-		{
-			"key": "盘搜",
-			"name": "阿里 | 盘搜",
-			"type": 3,
-			"api": "csp_PanSou",
-			"ext": "./dr/lib/token.txt"
-		},
-		{
-			"key": "UP云搜",
-			"name": "阿里 | UP云搜",
-			"type": 3,
-			"api": "csp_UpYun",
-			"ext": "./dr/lib/token.txt"
-		},
-		{
-			"key": "找資源",
-			"name": "阿里 | 找資源",
-			"type": 3,
-			"api": "csp_Zhaozy",
-			"ext": "./dr/lib/token.txt"
 		},
 		{
 			"key": "drpy_js_奇珍异兽",
