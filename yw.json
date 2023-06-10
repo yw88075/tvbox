@@ -561,6 +561,16 @@
 			"ext": "./XBPQ/乌龟影院.json"
 		},
 		{
+			"key": "大豆高清",
+			"name": "🫘大豆高清 ",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/大豆高清.json"
+		},
+			{
 			"key": "555",
 			"name": "🤩555 ",
 			"type": 3,
