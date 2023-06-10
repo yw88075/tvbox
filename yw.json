@@ -284,6 +284,16 @@
 			"ext": "./XBPQ/奈落影院.json"
 		},
 		{
+			"key": "城市电影",
+			"name": "😍城市电影",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/城市电影.json"
+		},
+		{
 			"key": "天天影院",
 			"name": "🤩天天影院",
 			"type": 3,
@@ -562,7 +572,7 @@
 		},
 		{
 			"key": "大豆高清",
-			"name": "🫘大豆高清 ",
+			"name": "🍗大豆高清 ",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
@@ -1908,16 +1918,7 @@
 			"filterable": 1,
 			"ext": "./XBPQ/鸭奈非4K.json"
 		},
-		{
-			"key": "城市电影",
-			"name": "😍城市电影",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./XBPQ/城市电影.json"
-		},
+		
 		{
 			"key": "独播库",
 			"name": "🙄独播库 ",
