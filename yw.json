@@ -58,7 +58,7 @@
 		},
 		{
 			"key": "小鱼影视",
-			"name": "🐟小鱼影视",
+			"name": "🐟小鱼影视(6.10)",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
@@ -1649,6 +1649,16 @@
 			"ext": "./XBPQ/蓝光影院.json"
 		},
 		{
+			"key": "南瓜影视",
+			"name": "🙃南瓜影视 ",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/南瓜影视.json"
+		},
+		{
 			"key": "莫扎兔",
 			"name": "😙莫扎兔 ",
 			"type": 3,
@@ -2112,13 +2122,23 @@
 		},
 		{
 			"key": "野菊花电影网",
-			"name": "😗野菊花电影网(6.10)",
+			"name": "😗野菊花电影网",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "./XBPQ/野菊花电影网.json"
+		},
+		{
+			"key": "旋风视频",
+			"name": "😗旋风视频",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/旋风视频.json"
 		},
 		{
 			"key": "批哩㕷哩",
