@@ -682,6 +682,46 @@
 			"ext": "./XBPQ/双十.json"
 		},
 		{
+			"key": "达达龟",
+			"name": "😍达达龟 ",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/达达龟.json"
+		},
+		{
+			"key": "胖虎影视",
+			"name": "😍胖虎影视 ",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/胖虎影视.json"
+		},
+		{
+			"key": "YOHUTV",
+			"name": "🙄YOHUTV",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/YOHUTV.json"
+		},
+		{
+			"key": "WZ影视",
+			"name": "🙄WZ影视",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/WZ影视.json"
+		},
+		{
 			"key": "端木",
 			"name": "😆端木",
 			"type": 3,
@@ -1515,26 +1555,7 @@
 			"filterable": 1,
 			"ext": "./XBPQ/落攻阁.json"
 		},
-		{
-			"key": "达达龟",
-			"name": "😍达达龟 ",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./XBPQ/达达龟.json"
-		},
-		{
-			"key": "胖虎影视",
-			"name": "😍胖虎影视 ",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./XBPQ/胖虎影视.json"
-		},
+		
 		{
 			"key": "看看电影",
 			"name": "😦看看电影 ",
@@ -1915,26 +1936,7 @@
 			"filterable": 1,
 			"ext": "./XBPQ/九九影院.json"
 		},
-		{
-			"key": "YOHUTV",
-			"name": "🙄YOHUTV",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./XBPQ/YOHUTV.json"
-		},
-		{
-			"key": "WZ影视",
-			"name": "🙄WZ影视",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./XBPQ/WZ影视.json"
-		},
+		
 		{
 			"key": "洞庭影视",
 			"name": "🙄洞庭影视",
@@ -2014,6 +2016,16 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "./XBPQ/188kan.json"
+		},
+			{
+			"key": "csp_XYQHiker_80影视",
+			"name": "80影视(XYQH)",
+			"type": 3,
+			"api": "csp_XYQHiker",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XYQHiker/80影视.json"
 		},
 		{
 			"key": "影视大全",
@@ -2948,7 +2960,7 @@
 		{
 			"name": "猫影视",
 			"type": 1,
-			"url": "https://www.itvbox.cc/bhc.php?url=",
+			"url": "https://www.itvbox.cc/bftihuan.php?url=",
 			"ext": {
 				"flag": [
 					"qq",
@@ -3036,6 +3048,12 @@
 			"type": 0,
 			"url": "https://jx.jsonplayer.com/player/?url="
 		},
+		{
+			"name": "飞云",
+			"type": 0,
+			"url": "https://vip.daina.hk/fyzy/json.php?&url="
+		},
+		
 		{
 			"name": "爱豆",
 			"type": 0,
