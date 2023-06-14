@@ -1938,16 +1938,7 @@
 			"filterable": 1,
 			"ext": "./XBPQ/洞庭影视.json"
 		},
-		{
-			"key": "皮皮鸭",
-			"name": "😋皮皮鸭",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./XBPQ/皮皮鸭.json"
-		},
+	
 		{
 			"key": "鸭奈非",
 			"name": "😔鸭奈非",
@@ -2058,21 +2049,10 @@
 			"filterable": 1,
 			"ext": "./XBPQ/磁力熊.json"
 		},
-		{
-			"key": "磁力熊3",
-			"name": "️🐻磁力熊2",
-			"type": 1,
-			"api": "https://v.3412.net.cn/macapi.php/provide/vod/",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 1,
-			"playerType": 1,
-			"playUrl": "https://player.i597.cc/?url="
-		},
+		
 		{
 			"key": "大师兄影视",
-			"name": "😉大师兄影视（bug版）",
+			"name": "😉大师兄影视",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
