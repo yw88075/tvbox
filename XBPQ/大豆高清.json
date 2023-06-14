@@ -3,7 +3,7 @@
 	"主页url": "https://www.dadou.pro/",
 	"热门": "",
 	"分类": "电影$1#电视剧$2#综艺$3#番剧$4#纪录$39#",
-	"分类url": "https://www.dadou.pro/vodshow/{cateId}--{by}-{class}-----{catePg}---.html",
+	"分类url": "https://www.dadou.pro/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---.html",
 	"数组": "\"show_play\"&&</li",
 	"图片": "data-original=\"&&\"",
 	"标题": "title=\"&&\"",
