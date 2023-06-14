@@ -3,13 +3,14 @@
   "站名": "凌云影视",
   "主页url": "https://www.lyys8.com/",
   "热门": "",
-  
+  "请求头": "User-Agent@Mozilla/5.0 (Windows NT 10.0；； Win64；； x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
   "分类": "电影$movie#剧集$tv#动漫$cartoon#综艺$variety#",
   
-  "分类url": "https://www.lyys8.com/list/movie-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+  "分类url": "https://www.lyys8.com/list/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
   
-  "数组": "li-img&&</div>",
-  "副标题": "title\">&&</div>",
+  "数组": "li-img&&</li>",
+  "标题": "title=\"&&\"",
+  "副标题": "",
   "图片": "data-src=\"&&\"",
   
   "搜索模式": "1",
