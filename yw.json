@@ -236,7 +236,7 @@
 		},
 		{
 			"key": "影视工场",
-			"name": "😍影视工场",
+			"name": "😍影视工场（6.14挂了）",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
@@ -1606,16 +1606,7 @@
 			"filterable": 1,
 			"ext": "./XBPQ/花花.json"
 		},
-		{
-			"key": "神马影院",
-			"name": "🐴神马影院",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./XBPQ/神马影院.json"
-		},
+		
 		{
 			"key": "白狐影视",
 			"name": "🤨白狐影视",
