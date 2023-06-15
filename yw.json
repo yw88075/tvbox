@@ -22,13 +22,7 @@
 			"api": "./dr/lib/drpy2.min.js",
 			"ext": "./dr/js/酷云77.js"
 		},
-		{
-			"key": "drpy_js_美剧网",
-			"name": " 🤩美剧网 ",
-			"type": 3,
-			"api": "./dr/lib/drpy2.min.js",
-			"ext": "./dr/js/美剧网.js"
-		},
+		
 		{
 			"key": "drpy_js_萌蛋蛋",
 			"name": "❤ 萌蛋蛋 ",
@@ -236,7 +230,7 @@
 		},
 		{
 			"key": "影视工场",
-			"name": "😍影视工场（6.14挂了）",
+			"name": "😍影视工场",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
@@ -631,16 +625,7 @@
 			"filterable": 1,
 			"ext": "./XBPQ/91美剧.json"
 		},
-		{
-			"key": "美剧网",
-			"name": "🤩美剧网",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./XBPQ/美剧网.json"
-		},
+		
 		{
 			"key": "久久美剧网",
 			"name": "🤩久久美剧网",
@@ -2008,6 +1993,16 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "./XYQHiker/80影视.json"
+		},
+			{
+			"key": "csp_XYQHiker_看看剧",
+			"name": "看看剧(XYQH)",
+			"type": 3,
+			"api": "csp_XYQHiker",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XYQHiker/看看剧.json"
 		},
 		{
 			"key": "影视大全",
