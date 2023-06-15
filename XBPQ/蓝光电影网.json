@@ -9,7 +9,7 @@
 	"数组": "post box row fixed-hight&&info_date info_ico",
 	"副标题": "",
 	"图片": "data-original=\"&&\"",
-	"标题": "",
+	"标题": "title=\"&& [",
 	"链接": "href=\"&&\"",
 	"搜索模式": "1",
 	"搜索url": "",
