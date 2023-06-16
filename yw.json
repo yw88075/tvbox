@@ -89,6 +89,16 @@
 			"ext": "./XBPQ/子子影视.json"
 		},
 		{
+			"key": "91影视",
+			"name": "🍸91影视",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/91影视.json"
+		},
+		{
 			"key": "电影先生",
 			"name": "👨‍💼电影先生",
 			"type": 3,
@@ -198,16 +208,7 @@
 			"filterable": 1,
 			"ext": "./XBPQ/vidhub.json"
 		},
-		{
-			"key": "喵影视",
-			"name": "❤ 喵影视",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./XBPQ/喵影视.json"
-		},
+	
 		{
 			"key": "素白白",
 			"name": "😆素白白 ",
