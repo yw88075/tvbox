@@ -78,6 +78,26 @@
 			"filterable": 1,
 			"ext": "./XBPQ/米爱影视.json"
 		},
+				{
+			"key": "速映影视",
+			"name": "💥速映影视",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/速映影视.json"
+		}
+			{
+			"key": "策驰影视",
+			"name": "💮策驰影视",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/策驰影视.json"
+		},
 		{
 			"key": "子子影视",
 			"name": "💪子子影视",
