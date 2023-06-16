@@ -1,7 +1,7 @@
 {
 	"作者": "心魔",
 	"站名": "厂长",
-	"主页url": "https://www.czzyhd.com/",
+	"主页url": "https://cz4k.com/",
 	"数组": " <li>&&display: none",
 	"直接播放": "0",
 	"图片": "data-original=\"&&\"",
@@ -30,7 +30,7 @@
 	"播放列表": "",
 	"播放标题": "\">&&</a>",
 	"播放链接": "href=\"&&\"",
-	"分类url": "https://www.czzyhd.com/{cateId}/page/{catePg}",
+	"分类url": "https://cz4k.com/{cateId}/page/{catePg}",
 	"分类": "豆瓣$dbtop250#最新电影$zuixindianying#电视剧$dsj#国产剧$gcj#美剧$meijutt#剧场版$dongmanjuchangban#韩剧$hanjutv#番剧$fanju#动漫$dm#",
 	"筛选": {
 		"1": [
