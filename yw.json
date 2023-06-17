@@ -446,6 +446,16 @@
 			"filterable": 1,
 			"ext": "./XBPQ/看了吗.json"
 		},
+			{
+			"key": "哔哩兔影视",
+			"name": "🐇哔哩兔影视",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/哔哩兔影视.json"
+		},
 		{
 			"key": "野荷塘",
 			"name": "❤ 野荷塘",
