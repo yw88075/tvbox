@@ -1746,6 +1746,16 @@
 			"filterable": 1,
 			"ext": "./XBPQ/孜然影视.json"
 		},
+			{
+			"key": "思古影视1",
+			"name": "😀思古影视1 ",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/思古影视1.json"
+		},
 		{
 			"key": "思古影视",
 			"name": "😀思古影视 ",
