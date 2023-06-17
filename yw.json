@@ -2872,6 +2872,11 @@
 			"url": "https://jx.xmflv.com/?url="
 		},
 		{
+			"name": "小新",
+			"type": 0,
+			"url": "http://xiaoxin.1080p.me/home/api?type=ys&uid=3011143&key=aefqrtuxzBFJLMPVX5&url="
+		},
+		{
 			"name": "OK解析",
 			"type": 0,
 			"url": "http://okjx.cc/?url=",
@@ -2903,11 +2908,7 @@
 			"type": 0,
 			"url": "https://jx.777jiexi.com/player/?url="
 		},
-		{
-			"name": "瞄影嗅探",
-			"type": 0,
-			"url": "http://www.miaoys.cc/vip/?url="
-		},
+		
 		{
 			"name": "猫影视",
 			"type": 1,
@@ -3011,36 +3012,7 @@
 			"type": 0,
 			"url": "https://jx.zhanlangbu.com/?url="
 		},
-		{
-			"name": "bozrc",
-			"type": 0,
-			"url": "https://jx.bozrc.com:4433/player/?url=",
-			"ext": {
-				"flag": [
-					"qq",
-					"腾讯",
-					"qiyi",
-					"爱奇艺",
-					"奇艺",
-					"youku",
-					"优酷",
-					"mgtv",
-					"芒果",
-					"letv",
-					"leshi",
-					"LS",
-					"pptv",
-					"PPTV",
-					"sohu",
-					"bilibili",
-					"哔哩哔哩",
-					"哔哩"
-				],
-				"header": {
-					"User-Agent": ""
-				}
-			}
-		},
+		
 		{
 			"name": "M3U8",
 			"type": 0,
