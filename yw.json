@@ -693,6 +693,16 @@
 			"filterable": 1,
 			"ext": "./XBPQ/双十.json"
 		},
+			{
+			"key": "兰花影视",
+			"name": "☘兰花影视 ",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/兰花影视.json"
+		},
 		{
 			"key": "达达龟",
 			"name": "😍达达龟 ",
@@ -2908,7 +2918,6 @@
 			"type": 0,
 			"url": "https://jx.777jiexi.com/player/?url="
 		},
-		
 		{
 			"name": "猫影视",
 			"type": 1,
@@ -3012,7 +3021,6 @@
 			"type": 0,
 			"url": "https://jx.zhanlangbu.com/?url="
 		},
-		
 		{
 			"name": "M3U8",
 			"type": 0,
