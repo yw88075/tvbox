@@ -694,6 +694,16 @@
 			"ext": "./XBPQ/双十.json"
 		},
 			{
+			"key": "皮皮鸭",
+			"name": "🦆皮皮鸭 ",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/皮皮鸭.json"
+		},
+			{
 			"key": "兰花影视",
 			"name": "☘兰花影视 ",
 			"type": 3,
