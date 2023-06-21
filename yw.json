@@ -336,6 +336,16 @@
 			"filterable": 1,
 			"ext": "./XBPQ/无极影院.json"
 		},
+			{
+			"key": "北极狐影视",
+			"name": "🦊北极狐影视",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/北极狐影视.json"
+		},
 		{
 			"key": "大米星球",
 			"name": " ☺大米星球 ",
@@ -693,7 +703,7 @@
 			"filterable": 1,
 			"ext": "./XBPQ/双十.json"
 		},
-			{
+		{
 			"key": "皮皮鸭",
 			"name": "🦆皮皮鸭 ",
 			"type": 3,
@@ -703,7 +713,7 @@
 			"filterable": 1,
 			"ext": "./XBPQ/皮皮鸭.json"
 		},
-			{
+		{
 			"key": "兰花影视",
 			"name": "☘兰花影视 ",
 			"type": 3,
