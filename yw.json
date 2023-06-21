@@ -337,6 +337,16 @@
 			"ext": "./XBPQ/无极影院.json"
 		},
 			{
+			"key": "灰太狼影视",
+			"name": "🐺灰太狼影视",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/灰太狼影视.json"
+		},
+			{
 			"key": "北极狐影视",
 			"name": "🦊北极狐影视",
 			"type": 3,
