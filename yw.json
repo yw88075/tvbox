@@ -29,6 +29,26 @@
 			"api": "./dr/lib/drpy2.min.js",
 			"ext": "./dr/js/萌蛋蛋.js"
 		},
+				{
+			"key": "南柯电影网",
+			"name": "🍂南柯电影网",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/南柯电影网.json"
+		},
+			{
+			"key": "四个圈影视",
+			"name": "🚗四个圈影视",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/四个圈影视.json"
+		},
 		{
 			"key": "饭团",
 			"name": "🍙饭团",
