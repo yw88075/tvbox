@@ -87,6 +87,16 @@
 			"filterable": 1,
 			"ext": "./XBPQ/米爱影视.json"
 		},
+			{
+			"key": "ppxdm动漫",
+			"name": "🧛‍♀️ppxdm|动漫",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/ppxdm动漫.json"
+		},
 		{
 			"key": "速映影视",
 			"name": "💥速映影视",
