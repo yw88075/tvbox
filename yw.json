@@ -1968,6 +1968,16 @@
 			"ext": "./XBPQ/冷曦影视.json"
 		},
 		{
+			"key": "777影视",
+			"name": " 7️⃣777影视",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/777影视.json"
+		},
+		{
 			"key": "我爱跟剧",
 			"name": "🙄我爱跟剧",
 			"type": 3,
