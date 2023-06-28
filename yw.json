@@ -2759,59 +2759,14 @@
 			"type": 0,
 			"url": "https://jx.777jiexi.com/player/?url="
 		},
-		{
-			"name": "猫影视",
-			"type": 1,
-			"url": "https://www.itvbox.cc/bftihuan.php?url=",
-			"ext": {
-				"flag": [
-					"qq",
-					"腾讯",
-					"企鹅",
-					"IQiYi",
-					"qiyi",
-					"爱奇艺",
-					"奇艺",
-					"youku",
-					"YouKu",
-					"优酷",
-					"sohu",
-					"SoHu",
-					"搜狐",
-					"letv",
-					"LeShi",
-					"乐视",
-					"imgo",
-					"mgtv",
-					"MangGuo",
-					"芒果",
-					"SLYS4k",
-					"BYGA",
-					"luanzi",
-					"AliS",
-					"dxzy",
-					"bilibili",
-					"QEYSS",
-					"xigua",
-					"西瓜视频",
-					"腾讯视频",
-					"奇艺视频",
-					"优酷视频",
-					"芒果视频",
-					"乐视视频"
-				]
-			}
-		},
+		{"name":"干我","type":1,"url":"http://json.g9.pub:66/?url="},
+		
 		{
 			"name": "杰森",
 			"type": 0,
 			"url": "https://jx.jsonplayer.com/player/?url="
 		},
-		{
-			"name": "飞云",
-			"type": 0,
-			"url": "https://vip.daina.hk/fyzy/json.php?&url="
-		},
+	
 		{
 			"name": "诺讯",
 			"type": 0,
@@ -2825,7 +2780,7 @@
 		{
 			"name": "七哥",
 			"type": 0,
-			"url": "https://jx.nnxv.cn/tv.php?url=
+			"url": "https://jx.nnxv.cn/tv.php?url="
 		},
 		{
 			"name": "8090",
