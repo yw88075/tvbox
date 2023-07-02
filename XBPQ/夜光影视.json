@@ -5,7 +5,7 @@
 	"热门": "",
     "分类": "电影$1#电视剧$2#综艺$3#动漫$4#纪录片$38#",
 
-	"分类url": "https://www.ygpvp.com/vodshow/{cateId}-{class}-{by}------{catePg}---.html",
+	"分类url": "https://www.ygpvp.com/vodshow/{cateId}-{area}-{by}------{catePg}---.html",
 	"数组": "a&&module-poster-item-titl",
 	"副标题": "",
 	"图片": "data-original=\"&&\"",
