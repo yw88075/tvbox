@@ -318,6 +318,16 @@
 			"filterable": 1,
 			"ext": "./XBPQ/天空影视.json"
 		},
+			{
+			"key": "金曼TV",
+			"name": "🤑金曼TV ",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/金曼TV.json"
+		},
 		{
 			"key": "蓝光电影网",
 			"name": "😃蓝光电影网",
@@ -1698,16 +1708,7 @@
 			"filterable": 1,
 			"ext": "http://cms.maoyingshi.cc/api.php/app/"
 		},
-		{
-			"key": "金曼TV",
-			"name": "🤑金曼TV ",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./XBPQ/金曼TV.json"
-		},
+	
 		{
 			"key": "花花",
 			"name": "🌹花花 ",
@@ -1927,6 +1928,16 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "./XBPQ/麦豆TV.json"
+		},
+			{
+			"key": "番茄影视",
+			"name": "🍅番茄影视 ",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/番茄影视.json"
 		},
 		{
 			"key": "麻花影视",
