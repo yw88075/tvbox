@@ -399,6 +399,16 @@
 			"ext": "./XBPQ/灰太狼影视.json"
 		},
 			{
+			"key": "夜光影视",
+			"name": "🌙夜光影视",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/夜光影视.json"
+		},
+				{
 			"key": "北极狐影视",
 			"name": "🦊北极狐影视",
 			"type": 3,
