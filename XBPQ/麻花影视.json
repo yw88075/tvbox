@@ -3,7 +3,7 @@
 	"站名": "麻花影视",
 	"主页url": "https://www.mh620.com/",
 	"热门": "",
-    "分类": "电影$mhdy#剧集$mhds#动漫$mhdm#综艺$mhzy#午夜剧场$wyjc#",
+    "分类": "电影$mhdy#剧集$mhds#动漫$mhdm#综艺$mhzy#",
 
 	"分类url": "https://www.mhyyy.com/show/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/year/{year}/page/{catePg}.html",
 	"数组": "<a&&class=\"module-poster-item-title\"",
