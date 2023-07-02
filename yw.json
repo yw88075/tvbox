@@ -117,6 +117,26 @@
 			"ext": "./XBPQ/米爱影视.json"
 		},
 		{
+			"key": "蘑菇影视",
+			"name": "🍄蘑菇影视",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/蘑菇影视.json"
+		},
+			{
+			"key": "csp_XYQHiker_零度影视",
+			"name": "零度影视(XYQH)",
+			"type": 3,
+			"api": "csp_XYQHiker",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XYQHiker/零度影视.json"
+		},
+		{
 			"key": "ppxdm动漫",
 			"name": "🧛‍♀️ppxdm|动漫",
 			"type": 3,
