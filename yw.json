@@ -116,6 +116,16 @@
 			"filterable": 1,
 			"ext": "./XBPQ/米爱影视.json"
 		},
+			{
+			"key": "漫搜搜影视",
+			"name": "🔎漫搜搜影视",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/漫搜搜影视.json"
+		},
 		{
 			"key": "蘑菇影视",
 			"name": "🍄蘑菇影视",
