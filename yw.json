@@ -156,16 +156,7 @@
 			"filterable": 1,
 			"ext": "./XBPQ/ppxdm动漫.json"
 		},
-		{
-			"key": "速映影视",
-			"name": "💥速映影视",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./XBPQ/速映影视.json"
-		},
+		
 		{
 			"key": "策驰影视",
 			"name": "💮策驰影视",
@@ -545,6 +536,16 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "./XBPQ/热播之家.json"
+		},
+		{
+			"key": "圣城影视",
+			"name": "😬圣城影视",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/圣城影视.json"
 		},
 		{
 			"key": "243影视网",
