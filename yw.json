@@ -538,6 +538,16 @@
 			"ext": "./XBPQ/热播之家.json"
 		},
 		{
+			"key": "139影视",
+			"name": "💛139影视",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/139影视.json"
+		},
+		{
 			"key": "圣城影视",
 			"name": "😬圣城影视",
 			"type": 3,
