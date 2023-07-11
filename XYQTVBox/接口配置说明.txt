@@ -6,5 +6,8 @@ clan://localhost/XYQTVBox/XYQTVBox.json
 道长JS规则
 clan://localhost/XYQTVBox/drpy_js/drjs_config.json
 
-多仓版配置接口（首页点多仓/配置按钮后输入）
+多仓版配置接口
 clan://localhost/XYQTVBox/hiker_store.json
+
+Fengmi影视多线配置接口
+file://XYQTVBox/hiker_offline.json
