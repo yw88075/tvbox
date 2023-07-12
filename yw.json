@@ -834,6 +834,16 @@
 			"filterable": 1,
 			"ext": "./XBPQ/美奇影视.json"
 		},
+		{
+			"key": "57影视",
+			"name": "57影视 ",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/57影视.json"
+		},
 			{
 			"key": "青苹果",
 			"name": "🍏青苹果 ",
