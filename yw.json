@@ -824,6 +824,16 @@
 			"filterable": 1,
 			"ext": "./XBPQ/皮皮影视.json"
 		},
+			{
+			"key": "美奇影视",
+			"name": "👽美奇影视 ",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/美奇影视.json"
+		},
 		{
 			"key": "兄弟影视",
 			"name": "😘兄弟影视 ",
