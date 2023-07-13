@@ -784,15 +784,25 @@
 			"filterable": 1,
 			"ext": "./XBPQ/WZ影视.json"
 		},
-		{
-			"key": "端木",
-			"name": "😆端木",
+			{
+			"key": "爱韩剧",
+			"name": "爱韩剧",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./XBPQ/端木.json"
+			"ext": "./XBPQ/爱韩剧.json"
+		},
+		{
+			"key": "猫影视",
+			"name": "😆猫影视",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/猫影视.json"
 		},
 		{
 			"key": "时光影视",
