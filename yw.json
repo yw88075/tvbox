@@ -784,6 +784,16 @@
 			"filterable": 1,
 			"ext": "./XBPQ/WZ影视.json"
 		},
+		{
+			"key": "极速影院",
+			"name": "极速影院",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/极速影院.json"
+		},
 			{
 			"key": "爱韩剧",
 			"name": "爱韩剧",
