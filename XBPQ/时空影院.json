@@ -3,7 +3,7 @@
 	"站名": "时空影院",
 	"主页url": "https://www.skyy18.com/",
 	"热门": "",
-    "分类": "电影$1#电视剧$2#NETFLIX$26#综艺$3#动漫$4#",
+    "分类": "电影$1#电视剧$2#NETFLIX$26#纪录片$27#综艺$3#动漫$4#",
 
 	"分类url": "https://www.skyy18.com/vodshow/{cateId}--{by}------{catePg}---.html",
 	"数组": "",
