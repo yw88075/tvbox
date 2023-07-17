@@ -96,6 +96,16 @@
 			"filterable": 1,
 			"ext": "./XBPQ/光棍影视.json"
 		},
+			{
+			"key": "时空影院",
+			"name": "时空影院",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/时空影院.json"
+		},
 		{
 			"key": "追剧TU",
 			"name": "🐰追剧TU",
