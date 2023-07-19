@@ -96,7 +96,7 @@
 			"filterable": 1,
 			"ext": "./XBPQ/光棍影视.json"
 		},
-			{
+		{
 			"key": "时空影院",
 			"name": "时空影院",
 			"type": 3,
@@ -105,6 +105,16 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "./XBPQ/时空影院.json"
+		},
+		{
+			"key": "看剧吧",
+			"name": "看剧吧",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/看剧吧.json"
 		},
 		{
 			"key": "追剧TU",
@@ -126,7 +136,7 @@
 			"filterable": 1,
 			"ext": "./XBPQ/米爱影视.json"
 		},
-			{
+		{
 			"key": "漫搜搜影视",
 			"name": "🔎漫搜搜影视",
 			"type": 3,
@@ -146,7 +156,7 @@
 			"filterable": 1,
 			"ext": "./XBPQ/蘑菇影视.json"
 		},
-			{
+		{
 			"key": "csp_XYQHiker_零度影视",
 			"name": "零度影视(XYQH)",
 			"type": 3,
@@ -166,7 +176,6 @@
 			"filterable": 1,
 			"ext": "./XBPQ/ppxdm动漫.json"
 		},
-		
 		{
 			"key": "策驰影视",
 			"name": "💮策驰影视",
@@ -804,7 +813,7 @@
 			"filterable": 1,
 			"ext": "./XBPQ/极速影院.json"
 		},
-			{
+		{
 			"key": "爱韩剧",
 			"name": "爱韩剧",
 			"type": 3,
@@ -854,7 +863,7 @@
 			"filterable": 1,
 			"ext": "./XBPQ/皮皮影视.json"
 		},
-			{
+		{
 			"key": "美奇影视",
 			"name": "👽美奇影视 ",
 			"type": 3,
@@ -864,7 +873,7 @@
 			"filterable": 1,
 			"ext": "./XBPQ/美奇影视.json"
 		},
-			{
+		{
 			"key": "飘花影院",
 			"name": "飘花影院 ",
 			"type": 3,
@@ -874,7 +883,7 @@
 			"filterable": 1,
 			"ext": "./XBPQ/飘花影院.json"
 		},
-			{
+		{
 			"key": "青苹果",
 			"name": "🍏青苹果 ",
 			"type": 3,
@@ -2485,21 +2494,6 @@
 		}
 	],
 	"parses": [
-		{
-			"name": "Json轮询",
-			"type": 2,
-			"url": "Sequence"
-		},
-		{
-			"name": "Json并发",
-			"type": 2,
-			"url": "Parallel"
-		},
-		{
-			"name": "解析聚合",
-			"type": 3,
-			"url": "Demo"
-		},
 		{
 			"name": "测试",
 			"type": 1,
