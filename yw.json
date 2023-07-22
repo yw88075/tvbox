@@ -136,6 +136,16 @@
 			"filterable": 1,
 			"ext": "./XBPQ/米爱影视.json"
 		},
+			{
+			"key": "91影视网",
+			"name": "91影视网",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/91影视网.json"
+		},
 		{
 			"key": "漫搜搜影视",
 			"name": "🔎漫搜搜影视",
