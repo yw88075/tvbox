@@ -824,6 +824,16 @@
 			"ext": "./XBPQ/花花.json"
 		},
 		{
+			"key": "NO视频",
+			"name": "NO视频",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/NO视频.json"
+		},
+		{
 			"key": "极速影院",
 			"name": "极速影院",
 			"type": 3,
