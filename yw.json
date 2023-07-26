@@ -924,6 +924,16 @@
 			"ext": "./XBPQ/青苹果.json"
 		},
 		{
+			"key": "多瑙影院",
+			"name": "多瑙影院",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/多瑙影院.json"
+		},
+		{
 			"key": "兄弟影视",
 			"name": "😘兄弟影视 ",
 			"type": 3,
