@@ -49,6 +49,16 @@
 			"filterable": 1,
 			"ext": "./XBPQ/南柯电影网.json"
 		},
+			{
+			"key": "6080",
+			"name": "6080",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/6080.json"
+		},
 		{
 			"key": "四个圈影视",
 			"name": "🚗四个圈影视",
