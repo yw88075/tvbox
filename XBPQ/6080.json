@@ -1,7 +1,7 @@
 {
 	"作者": "心魔",
 	"站名": "6080",
-	"主页url": "https://www.6080dy3.com/",
+	"主页url": "https://www.6080yy1.com/",
 	"数组": "class=\"module-item\">&&module-item-text",
 	"直接播放": "0",
 	"图片": "data-original=\"&&\"",
@@ -30,7 +30,7 @@
 	"播放列表": "<a&&</a>",
 	"播放标题": "<span>&&</span>",
 	"播放链接": "href=\"&&\"",
-	"分类url": "https://www.6080dy3.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+	"分类url": "https://www.6080yy1.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
 	"分类": "电影$1#剧集$2#综艺$3#动漫$4#",
 	"筛选": {
 		"1": [
