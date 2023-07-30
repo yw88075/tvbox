@@ -50,6 +50,16 @@
 			"ext": "./XBPQ/南柯电影网.json"
 		},
 			{
+			"key": "剧迷影视",
+			"name": "剧迷影视",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/剧迷影视.json"
+		},
+			{
 			"key": "6080",
 			"name": "6080",
 			"type": 3,
