@@ -1,11 +1,11 @@
 {
 	"作者": "心魔",
 	"站名": "灰太狼影视",
-	"主页url": "https://huitailang.tv/",
+	"主页url": "https://huitailang.cc/",
 	"热门": "",
     "分类": "电影$1#电视剧$2#综艺$3#动漫$4#",
 
-	"分类url": "https://huitailang.tv/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}.html",
+	"分类url": "https://huitailang.cc/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}.html",
 	"数组": "",
 	"副标题": "",
 	"图片": "data-original=\"&&\"",
