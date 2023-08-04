@@ -466,6 +466,16 @@
 			"filterable": 1,
 			"ext": "./XBPQ/voflix.json"
 		},
+			{
+			"key": "无心影视",
+			"name": "无心影视",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/无心影视.json"
+		},
 		{
 			"key": "无极影院",
 			"name": "😁无极影院",
