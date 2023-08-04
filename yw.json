@@ -69,6 +69,16 @@
 			"filterable": 1,
 			"ext": "./XBPQ/6080.json"
 		},
+				{
+			"key": "黑影影视",
+			"name": "黑影影视",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/黑影影视.json"
+		},
 		{
 			"key": "四个圈影视",
 			"name": "🚗四个圈影视",
