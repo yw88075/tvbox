@@ -70,6 +70,16 @@
 			"ext": "./XBPQ/6080.json"
 		},
 				{
+			"key": "凤凰城美剧",
+			"name": "凤凰城美剧",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/凤凰城美剧.json"
+		},
+				{
 			"key": "黑影影视",
 			"name": "黑影影视",
 			"type": 3,
