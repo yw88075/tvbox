@@ -49,7 +49,7 @@
 			"filterable": 1,
 			"ext": "./XBPQ/南柯电影网.json"
 		},
-			{
+		{
 			"key": "剧迷影视",
 			"name": "剧迷影视",
 			"type": 3,
@@ -59,7 +59,7 @@
 			"filterable": 1,
 			"ext": "./XBPQ/剧迷影视.json"
 		},
-			{
+		{
 			"key": "6080",
 			"name": "6080",
 			"type": 3,
@@ -69,7 +69,7 @@
 			"filterable": 1,
 			"ext": "./XBPQ/6080.json"
 		},
-				{
+		{
 			"key": "凤凰城美剧",
 			"name": "凤凰城美剧",
 			"type": 3,
@@ -79,7 +79,7 @@
 			"filterable": 1,
 			"ext": "./XBPQ/凤凰城美剧.json"
 		},
-				{
+		{
 			"key": "黑影影视",
 			"name": "黑影影视",
 			"type": 3,
@@ -176,7 +176,7 @@
 			"filterable": 1,
 			"ext": "./XBPQ/米爱影视.json"
 		},
-			{
+		{
 			"key": "91影视网",
 			"name": "91影视网",
 			"type": 3,
@@ -853,7 +853,7 @@
 			"filterable": 1,
 			"ext": "./XBPQ/WZ影视.json"
 		},
-			{
+		{
 			"key": "花花",
 			"name": "花花",
 			"type": 3,
@@ -892,6 +892,16 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "./XBPQ/爱韩剧.json"
+		},
+		{
+			"key": "九禹影视",
+			"name": "九禹影视",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./XBPQ/九禹影视.json"
 		},
 		{
 			"key": "猫影视",
