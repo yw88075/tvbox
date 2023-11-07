@@ -6,11 +6,11 @@
         },
 		{
             "sourceName": "仓库镜像一",
-            "sourceUrl": "https://jihulab.com/yw88075/tvbox/-/raw/main/ywxl.json"
+            "sourceUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/yw88075/tvbox/main/ywxl.json"
         },
 		{
             "sourceName": "仓库镜像二",
-            "sourceUrl": "https://gitee.com/yw88075/tvbox1/raw/main/ywxl.json"
+            "sourceUrl": "https://fastly.jsdelivr.net/gh/yw88075/tvbox@main/ywxl.json"
         }
         
     ]
