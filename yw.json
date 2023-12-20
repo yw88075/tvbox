@@ -2079,9 +2079,9 @@
 			}
 		},
 		{
-			"name": "小鱼之家",
-			"type": 1,
-			"url": "https://json.84jia.com/api/?key=zg2ZE0zTxIAeQPShoD&url="
+			"name": "JY",
+			"type": 0,
+			"url": "https://jx.playerjy.com/?url="
 		},
 		{
 			"name": "菜妮丝",
@@ -2094,36 +2094,16 @@
 			"url": "https://jx.xmflv.com/?url="
 		},
 		{
-			"name": "小新",
-			"type": 1,
-			"url": "http://xiaoxin.1080p.me/home/api?type=ys&uid=3011143&key=cdejlrwyCDFHJLUWY1&url="
+			"name": "冰豆",
+			"type": 0,
+			"url": "https://bd.jx.cn/?url="
 		},
 		{
-			"name": "OK解析",
+			"name": "bl解析",
 			"type": 0,
-			"url": "http://okjx.cc/?url=",
-			"parse": "1",
-			"ext": {
-				"flag": [
-					"qq",
-					"腾讯",
-					"qiyi",
-					"爱奇艺",
-					"奇艺",
-					"youku",
-					"优酷",
-					"mgtv",
-					"芒果",
-					"letv",
-					"乐视",
-					"pptv",
-					"PPTV",
-					"sohu",
-					"bilibili",
-					"哔哩哔哩",
-					"哔哩"
-				]
-			}
+			"url": "https://vip.bljiex.com/?v="
+			
+			
 		},
 		{
 			"name": "777",
@@ -2131,9 +2111,9 @@
 			"url": "https://jx.777jiexi.com/player/?url="
 		},
 		{
-			"name": "干我",
-			"type": 1,
-			"url": "http://json.g9.pub:66/?url="
+			"name": "CK",
+			"type": 0,
+			"url": "https://www.ckplayer.vip/jiexi/?url="
 		},
 		{
 			"name": "杰森",
