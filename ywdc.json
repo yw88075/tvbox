@@ -2,15 +2,15 @@
     "storeHouse": [
         {
             "sourceName": "❤心魔仓库",
-            "sourceUrl": "https://raw.gitmirror.com/yw88075/tvbox/main/ywxl.json"
+            "sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yw88075/tvbox/main/yw.json"
         },
 		{
             "sourceName": "仓库镜像一",
-            "sourceUrl": "hhttps://raw.fgit.cf/yw88075/tvbox/main/ywxl.json"
+            "sourceUrl": "https://ghproxy.net/https://raw.githubusercontent.com/yw88075/tvbox/main/yw.json"
         },
 		{
             "sourceName": "仓库镜像二",
-            "sourceUrl": "https://fastly.jsdelivr.net/gh/yw88075/tvbox@main/ywxl.json"
+            "sourceUrl": "https://fastly.jsdelivr.net/gh/yw88075/tvbox@main/yw.json"
         }
         
     ]
