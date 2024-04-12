@@ -178,7 +178,7 @@ CGTN阿语 576,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/322122722
 平潭综合 576,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227218/index.m3u8#rtsp://183.252.176.54/PLTV/88888888/224/3221226735/45469664.smil
 泉州1 576,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227165/index.m3u8#rtsp://183.252.176.54/PLTV/88888888/224/3221226810/46680493.smil
 漳州1 576,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227169/index.m3u8#rtsp://183.252.176.54/PLTV/88888888/224/3221226728/45553461.smil
-莆田1 576,rtsp://183.252.176.54/PLTV/88888888/224/3221226724/45553236.smil#rtsp://183.252.176.54/PLTV/88888888/224/3221226724/45553236.smil
+莆田1 576,rtsp://183.252.176.54/PLTV/88888888/224/3221226724/45553236.smil
 
 黑莓频道,#genre#
 黑莓动画 4M1080,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225878/index.m3u8
