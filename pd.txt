@@ -146,7 +146,7 @@ CGTN阿语 576,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/322122722
 
 
 福建频道,#genre#
-东南卫视 8M1080,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227156/index.m3u8
+东南卫视 8M1080,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227156/index.m3u8#rtsp://183.252.176.54/PLTV/88888888/224/3221226121/10000100000000060000000002358085_0.smil
 福建乡村振兴公共 8M1080,rtsp://183.252.166.199/PLTV/88888888/224/3221226113/10000100000000060000000002358064_0.smil
 福建体育 8M1080,rtsp://183.252.166.199/PLTV/88888888/224/3221226127/10000100000000060000000002434540_0.smil
 福建少儿 8M1080,rtsp://183.252.166.199/PLTV/88888888/224/3221226120/10000100000000060000000002358082_0.smil
@@ -157,8 +157,7 @@ CGTN阿语 576,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/322122722
 福建综合 8M1080,rtsp://183.252.166.199/PLTV/88888888/224/3221226826/47882539.smil
 福建乡村振兴公共 8M1080,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227153/index.m3u8
 福建少儿 8M1080,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227194/index.m3u8
-福建教育 6M1080,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227202/index.m3u8
-福建教育 6M1080,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226981/index.m3u8
+福建教育 6M1080,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227202/index.m3u8#http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226981/index.m3u8
 福建体育 8M1080,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227188/index.m3u8
 福建新闻 8M1080,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227180/index.m3u8
 福建旅游 8M1080,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227190/index.m3u8
@@ -170,16 +169,16 @@ CGTN阿语 576,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/322122722
 厦门1 3.5M1080,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226814/index.m3u8
 厦门2 3.5M1080,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226777/index.m3u8
 厦门3 3.5M1080,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226760/index.m3u8
-福州1 7M1080,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227157/index.m3u8
-南平1 8M1080,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227066/index.m3u8
+福州1 7M1080,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227157/index.m3u8#rtsp://183.252.176.54/PLTV/88888888/224/3221226720/45553071.smil
+南平1 8M1080,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227066/index.m3u8#rtsp://183.252.176.54/PLTV/88888888/224/3221226772/47387629.smil
 南平2 8M1080,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226956/index.m3u8
-宁德新闻综合 8M1080,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227196/index.m3u8
-龙岩综合 8M1080,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227200/index.m3u8
-三明1 576,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227173/index.m3u8
-平潭综合 576,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227218/index.m3u8
-泉州1 576,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227165/index.m3u8
-漳州1 576,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227169/index.m3u8
-莆田1 576,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227161/index.m3u8
+宁德新闻综合 8M1080,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227196/index.m3u8#rtsp://183.252.176.54/PLTV/88888888/224/3221226768/46971866.smil
+龙岩综合 8M1080,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227200/index.m3u8#rtsp://183.252.176.54/PLTV/88888888/224/3221226782/45553545.smil
+三明1 576,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227173/index.m3u8#rtsp://183.252.176.54/PLTV/88888888/224/3221226769/46558552.smil
+平潭综合 576,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227218/index.m3u8#rtsp://183.252.176.54/PLTV/88888888/224/3221226735/45469664.smil
+泉州1 576,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227165/index.m3u8#rtsp://183.252.176.54/PLTV/88888888/224/3221226810/46680493.smil
+漳州1 576,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227169/index.m3u8#rtsp://183.252.176.54/PLTV/88888888/224/3221226728/45553461.smil
+莆田1 576,rtsp://183.252.176.54/PLTV/88888888/224/3221226724/45553236.smil#rtsp://183.252.176.54/PLTV/88888888/224/3221226724/45553236.smil
 
 黑莓频道,#genre#
 黑莓动画 4M1080,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225878/index.m3u8
