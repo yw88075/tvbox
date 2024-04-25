@@ -66,8 +66,8 @@ CGTN阿语 576,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/322122722
 
 
 香港频道,#genre#
-凤凰中文 8M1080,https://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
-凤凰资讯 8M1080,https://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
+凤凰中文 8M1080,https://edge2.laotv.la/live/PhxChinese/index.m3u8
+凤凰资讯 8M1080,https://edge2.laotv.la/live/PhoenixNews/index.m3u8
 
 
 卫视频道,#genre#
