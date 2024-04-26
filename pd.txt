@@ -150,7 +150,7 @@ CGTN阿语 576,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/322122722
 东南卫视 rtsp://183.252.176.54/PLTV/88888888/224/3221226121/10000100000000060000000002358085_0.smil
 福建乡村振兴公共,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227153/index.m3u8
 福建少儿,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227194/index.m3u8
-福建教育,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227202/index.m3u8#
+福建教育,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227202/index.m3u8
 福建教育,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226981/index.m3u8
 福建体育,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227188/index.m3u8
 福建新闻,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227180/index.m3u8
