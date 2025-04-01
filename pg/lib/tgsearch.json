@@ -10,6 +10,10 @@
 			"type_name":"片名"
 		},
 		{
+			"type_id":"LIST:iso,原盘",
+			"type_name":"ISO,原盘"
+		},
+		{
 			"type_id":"ali",
 			"type_name":"阿里"
 		},
